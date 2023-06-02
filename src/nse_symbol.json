@@ -1,0 +1,6260 @@
+{
+    "marketSymbol": [
+        {
+            "Security Name": "3i Infotech Limited",
+            "Yahoo Code": "3IINFOTEC.NS"
+        },
+        {
+            "Security Name": "Advani Hotels & Resorts (India) Limited",
+            "Yahoo Code": "ADVANIHOT.NS"
+        },
+        {
+            "Security Name": "AI Champdany Industries Limited",
+            "Yahoo Code": "AICHAMP.NS"
+        },
+        {
+            "Security Name": "Allsec Technologies Limited",
+            "Yahoo Code": "ALLSEC.NS"
+        },
+        {
+            "Security Name": "Alphageo (India) Limited",
+            "Yahoo Code": "ALPHAGEO.NS"
+        },
+        {
+            "Security Name": "Alpine Housing Development Corporation Limited",
+            "Yahoo Code": "ALPINEHOU.NS"
+        },
+        {
+            "Security Name": "Amarjothi Spinning Mills Limited",
+            "Yahoo Code": "AMARJOTHI.NS"
+        },
+        {
+            "Security Name": "AML Steel Limited",
+            "Yahoo Code": "AMLSTEEL.NS"
+        },
+        {
+            "Security Name": "Ankur Drugs And Pharma Limited",
+            "Yahoo Code": "ANKURDRUG.NS"
+        },
+        {
+            "Security Name": "Antarctica Limited",
+            "Yahoo Code": "ANTGRAPHI.NS"
+        },
+        {
+            "Security Name": "Arihant Foundations & Housing Limited",
+            "Yahoo Code": "ARIHANT.NS"
+        },
+        {
+            "Security Name": "Arrow Textiles Limited",
+            "Yahoo Code": "ARROWTEX.NS"
+        },
+        {
+            "Security Name": "Ashapura Minechem Limited",
+            "Yahoo Code": "ASHAPURMI.NS"
+        },
+        {
+            "Security Name": "Ashco Niulab Industries Limited",
+            "Yahoo Code": "ASHCONIUL.NS"
+        },
+        {
+            "Security Name": "Ashima Limited",
+            "Yahoo Code": "ASHIMASYN.NS"
+        },
+        {
+            "Security Name": "Asian Electronics Limited",
+            "Yahoo Code": "ASIANELEC.NS"
+        },
+        {
+            "Security Name": "Amit Spinning Industries Limited",
+            "Yahoo Code": "ASIL.NS"
+        },
+        {
+            "Security Name": "Ausom Enterprise Limited",
+            "Yahoo Code": "AUSOMENT.NS"
+        },
+        {
+            "Security Name": "Austral Coke & Projects Limited",
+            "Yahoo Code": "AUSTRAL.NS"
+        },
+        {
+            "Security Name": "B.A.G Films and Media Limited",
+            "Yahoo Code": "BAGFILMS.NS"
+        },
+        {
+            "Security Name": "Banaras Beads Limited",
+            "Yahoo Code": "BANARBEAD.NS"
+        },
+        {
+            "Security Name": "Bang Overseas Limited",
+            "Yahoo Code": "BANG.NS"
+        },
+        {
+            "Security Name": "Beardsell Limited",
+            "Yahoo Code": "BEARDSELL.NS"
+        },
+        {
+            "Security Name": "Bedmutha Industries Limited",
+            "Yahoo Code": "BEDMUTHA.NS"
+        },
+        {
+            "Security Name": "Bilpower Limited",
+            "Yahoo Code": "BILPOWER.NS"
+        },
+        {
+            "Security Name": "Birla Cotsyn (India) Limited",
+            "Yahoo Code": "BIRLACOT.NS"
+        },
+        {
+            "Security Name": "BLB Limited",
+            "Yahoo Code": "BLBLIMITE.NS"
+        },
+        {
+            "Security Name": "Blue Coast Hotels Limited",
+            "Yahoo Code": "BLUECOAST.NS"
+        },
+        {
+            "Security Name": "Bodal Chemicals Limited",
+            "Yahoo Code": "BODALCHEM.NS"
+        },
+        {
+            "Security Name": "Bodhtree Consulting Limited",
+            "Yahoo Code": "BODHTREE.NS"
+        },
+        {
+            "Security Name": "Brooks Laboratories Limited",
+            "Yahoo Code": "BROOKS.NS"
+        },
+        {
+            "Security Name": "California Software Company Limited",
+            "Yahoo Code": "CALSOFT.NS"
+        },
+        {
+            "Security Name": "Consolidated Construction Consortium Limited",
+            "Yahoo Code": "CCCL.NS"
+        },
+        {
+            "Security Name": "Celestial Biolabs Limited",
+            "Yahoo Code": "CELESTIAL.NS"
+        },
+        {
+            "Security Name": "Cheslind Textiles Limited",
+            "Yahoo Code": "CHESLINTE.NS"
+        },
+        {
+            "Security Name": "Cinevistaas Limited",
+            "Yahoo Code": "CINEVISTA.NS"
+        },
+        {
+            "Security Name": "Clutch Auto Limited",
+            "Yahoo Code": "CLUTCHAUT.NS"
+        },
+        {
+            "Security Name": "Coromandel Engineering Company Limited",
+            "Yahoo Code": "COROENGG.NS"
+        },
+        {
+            "Security Name": "Cura Technologies Limited",
+            "Yahoo Code": "CURATECH.NS"
+        },
+        {
+            "Security Name": "Cyber Media (India) Limited",
+            "Yahoo Code": "CYBERMEDI.NS"
+        },
+        {
+            "Security Name": "D B Realty Limited",
+            "Yahoo Code": "DBREALTY.NS"
+        },
+        {
+            "Security Name": "Decolight Ceramics Limited",
+            "Yahoo Code": "DECOLIGHT.NS"
+        },
+        {
+            "Security Name": "Delta Magnets Limited",
+            "Yahoo Code": "DELTAMAGN.NS"
+        },
+        {
+            "Security Name": "Dhanus Technologies Limited",
+            "Yahoo Code": "DHANUS.NS"
+        },
+        {
+            "Security Name": "Dhunseri Investments Limited",
+            "Yahoo Code": "DHUNINV.NS"
+        },
+        {
+            "Security Name": "Dynacons Systems & Solutions Limited",
+            "Yahoo Code": "DSSL.NS"
+        },
+        {
+            "Security Name": "Dwarikesh Sugar Industries Limited",
+            "Yahoo Code": "DWARKESH.NS"
+        },
+        {
+            "Security Name": "Edserv Softsystems Limited",
+            "Yahoo Code": "EDSERV.NS"
+        },
+        {
+            "Security Name": "Electrotherm (India) Limited",
+            "Yahoo Code": "ELECTHERM.NS"
+        },
+        {
+            "Security Name": "Elnet Technologies Limited",
+            "Yahoo Code": "ELNET.NS"
+        },
+        {
+            "Security Name": "Emami Infrastructure Limited",
+            "Yahoo Code": "EMAMIINFR.NS"
+        },
+        {
+            "Security Name": "Emkay Global Financial Services Limited",
+            "Yahoo Code": "EMKAY.NS"
+        },
+        {
+            "Security Name": "Empee Sugars and Chemicals Limited",
+            "Yahoo Code": "EMPEESUG.NS"
+        },
+        {
+            "Security Name": "Entegra Limited",
+            "Yahoo Code": "ENTEGRA.NS"
+        },
+        {
+            "Security Name": "Euro Ceramics Limited",
+            "Yahoo Code": "EUROCERA.NS"
+        },
+        {
+            "Security Name": "FCS Software Solutions Limited",
+            "Yahoo Code": "FCSSOFT.NS"
+        },
+        {
+            "Security Name": "Gangotri Textiles Limited",
+            "Yahoo Code": "GANGOTRI.NS"
+        },
+        {
+            "Security Name": "GI Engineering Solutions Limited",
+            "Yahoo Code": "GISOLUTIO.NS"
+        },
+        {
+            "Security Name": "GKW Limited",
+            "Yahoo Code": "GKWLIMITE.NS"
+        },
+        {
+            "Security Name": "Gujarat Lease Financing Limited",
+            "Yahoo Code": "GLFL.NS"
+        },
+        {
+            "Security Name": "Gufic Biosciences Limited",
+            "Yahoo Code": "GUFICBIO.NS"
+        },
+        {
+            "Security Name": "Gujarat State Financial Corporation",
+            "Yahoo Code": "GUJSTATFI.NS"
+        },
+        {
+            "Security Name": "HBL Power Systems Limited",
+            "Yahoo Code": "HBLPOWER.NS"
+        },
+        {
+            "Security Name": "Hindustan Motors Limited",
+            "Yahoo Code": "HINDMOTOR.NS"
+        },
+        {
+            "Security Name": "Hind Syntex Limited",
+            "Yahoo Code": "HINDSYNTE.NS"
+        },
+        {
+            "Security Name": "Hitachi Home and Life Solutions (India) Limited",
+            "Yahoo Code": "HITACHIHO.NS"
+        },
+        {
+            "Security Name": "Hotel Rugby Limited",
+            "Yahoo Code": "HOTELRUGB.NS"
+        },
+        {
+            "Security Name": "Indiabulls Securities Limited",
+            "Yahoo Code": "IBSEC.NS"
+        },
+        {
+            "Security Name": "Industrial Investment Trust Limited",
+            "Yahoo Code": "IITL.NS"
+        },
+        {
+            "Security Name": "Indosolar Limited",
+            "Yahoo Code": "INDOSOLAR.NS"
+        },
+        {
+            "Security Name": "Infinite Computer Solutions (India) Limited",
+            "Yahoo Code": "INFINITE.NS"
+        },
+        {
+            "Security Name": "Info-Drive Software Limited",
+            "Yahoo Code": "INFODRIVE.NS"
+        },
+        {
+            "Security Name": "IOL Netcom Limited",
+            "Yahoo Code": "IOLN.NS"
+        },
+        {
+            "Security Name": "Jai Balaji Industries Limited",
+            "Yahoo Code": "JAIBALAJI.NS"
+        },
+        {
+            "Security Name": "JCT Electronics Limited",
+            "Yahoo Code": "JCTEL.NS"
+        },
+        {
+            "Security Name": "JD Orgochem Limited",
+            "Yahoo Code": "JDORGOCHE.NS"
+        },
+        {
+            "Security Name": "The Jeypore Sugar Company Limited",
+            "Yahoo Code": "JEYPORE.NS"
+        },
+        {
+            "Security Name": "Jupiter Bioscience Limited",
+            "Yahoo Code": "JUPITER.NS"
+        },
+        {
+            "Security Name": "Kalyani Forge Limited",
+            "Yahoo Code": "KALYANIFR.NS"
+        },
+        {
+            "Security Name": "Kanani Industries Limited",
+            "Yahoo Code": "KANANIIND.NS"
+        },
+        {
+            "Security Name": "Kandagiri Spinning Mills Limited",
+            "Yahoo Code": "KANDAGIRI.NS"
+        },
+        {
+            "Security Name": "Karma Energy Limited",
+            "Yahoo Code": "KARMAENG.NS"
+        },
+        {
+            "Security Name": "Karur K.C.P. Packkagings Limited",
+            "Yahoo Code": "KARURKCP.NS"
+        },
+        {
+            "Security Name": "Kaushalya Infrastructure Development Corporation Limited",
+            "Yahoo Code": "KAUSHALYA.NS"
+        },
+        {
+            "Security Name": "Kesar Enterprises Limited",
+            "Yahoo Code": "KESARENT.NS"
+        },
+        {
+            "Security Name": "Keynote Corporate Services Limited",
+            "Yahoo Code": "KEYCORPSE.NS"
+        },
+        {
+            "Security Name": "Khaitan (India) Limited",
+            "Yahoo Code": "KHAITANLT.NS"
+        },
+        {
+            "Security Name": "Kiri Industries Limited",
+            "Yahoo Code": "KIRIINDUS.NS"
+        },
+        {
+            "Security Name": "KLG Systel Limited",
+            "Yahoo Code": "KLGSYSTEL.NS"
+        },
+        {
+            "Security Name": "KDL Biotech Limited",
+            "Yahoo Code": "KOPDRUGS.NS"
+        },
+        {
+            "Security Name": "Kothari Sugars And Chemicals Limited",
+            "Yahoo Code": "KOTARISUG.NS"
+        },
+        {
+            "Security Name": "Kovai Medical Center & Hospital Limited",
+            "Yahoo Code": "KOVAI.NS"
+        },
+        {
+            "Security Name": "Kesar Terminals & Infrastructure Limited",
+            "Yahoo Code": "KTIL.NS"
+        },
+        {
+            "Security Name": "The Lakshmi Finance & Industrial Corporation Limited",
+            "Yahoo Code": "LAKSHMIFI.NS"
+        },
+        {
+            "Security Name": "Liberty Shoes Limited",
+            "Yahoo Code": "LIBERTSHO.NS"
+        },
+        {
+            "Security Name": "Benchmark Asset Management Company Private Limited",
+            "Yahoo Code": "LIQUIDBEE.NS"
+        },
+        {
+            "Security Name": "Lloyds Steel Industries Limited",
+            "Yahoo Code": "LLOYDSTEE.NS"
+        },
+        {
+            "Security Name": "Lyka Labs Limited",
+            "Yahoo Code": "LYKALABS.NS"
+        },
+        {
+            "Security Name": "Maan Aluminium Limited",
+            "Yahoo Code": "MAANALU.NS"
+        },
+        {
+            "Security Name": "Malwa Cotton Spg. Mills Limited",
+            "Yahoo Code": "MALWACOTT.NS"
+        },
+        {
+            "Security Name": "Marksans Pharma Limited",
+            "Yahoo Code": "MARKSANS.NS"
+        },
+        {
+            "Security Name": "Mawana Sugars Limited",
+            "Yahoo Code": "MAWANASUG.NS"
+        },
+        {
+            "Security Name": "M AND B Switchgears Limited",
+            "Yahoo Code": "MBSWITCH.NS"
+        },
+        {
+            "Security Name": "McDowell Holdings Limited",
+            "Yahoo Code": "MCDHOLDIN.NS"
+        },
+        {
+            "Security Name": "Melstar Information Technologies Limited",
+            "Yahoo Code": "MELSTAR.NS"
+        },
+        {
+            "Security Name": "Minda Corporation Limited",
+            "Yahoo Code": "MINDACORP.NS"
+        },
+        {
+            "Security Name": "Morarjee Textiles Limited",
+            "Yahoo Code": "MORARJETE.NS"
+        },
+        {
+            "Security Name": "Nagreeka Capital & Infrastructure Limited",
+            "Yahoo Code": "NAGREEKCA.NS"
+        },
+        {
+            "Security Name": "Nissan Copper Limited",
+            "Yahoo Code": "NCOPPER.NS"
+        },
+        {
+            "Security Name": "Neocure Therapeutics Limited",
+            "Yahoo Code": "NEOCURE.NS"
+        },
+        {
+            "Security Name": "National Oxygen Limited",
+            "Yahoo Code": "NOL.NS"
+        },
+        {
+            "Security Name": "Novopan Industries Limited",
+            "Yahoo Code": "NOVOPANIN.NS"
+        },
+        {
+            "Security Name": "Nucent Finance Limited",
+            "Yahoo Code": "NUCENT.NS"
+        },
+        {
+            "Security Name": "Oswal Minerals Limited",
+            "Yahoo Code": "OSWALMIN.NS"
+        },
+        {
+            "Security Name": "The Oudh Sugar Mills Limited",
+            "Yahoo Code": "OUDHSUG.NS"
+        },
+        {
+            "Security Name": "Panchsheel Organics Limited",
+            "Yahoo Code": "PANCHSHEE.NS"
+        },
+        {
+            "Security Name": "Parrys Sugar Industries Limited",
+            "Yahoo Code": "PARRYSUGA.NS"
+        },
+        {
+            "Security Name": "Patspin India Limited",
+            "Yahoo Code": "PATSPINLT.NS"
+        },
+        {
+            "Security Name": "Pearl Polymers Limited",
+            "Yahoo Code": "PEARLPOLY.NS"
+        },
+        {
+            "Security Name": "Pilani Investment and Industries Corporation Limited",
+            "Yahoo Code": "PILANIINV.NS"
+        },
+        {
+            "Security Name": "Piramal Life Sciences Limited",
+            "Yahoo Code": "PIRLIFE.NS"
+        },
+        {
+            "Security Name": "Prajay Engineers Syndicate Limited",
+            "Yahoo Code": "PRAENG.NS"
+        },
+        {
+            "Security Name": "Prithvi Softech Limited",
+            "Yahoo Code": "PRITHVISO.NS"
+        },
+        {
+            "Security Name": "PVP Ventures Limited",
+            "Yahoo Code": "PVP.NS"
+        },
+        {
+            "Security Name": "Quintegra Solutions Limited",
+            "Yahoo Code": "QUINTEGRA.NS"
+        },
+        {
+            "Security Name": "Raisaheb Reckhchand Mohota Spinning & Weaving Mills Limited",
+            "Yahoo Code": "RAIREKMOH.NS"
+        },
+        {
+            "Security Name": "Rajshree Sugars & Chemicals Limited",
+            "Yahoo Code": "RAJSREESU.NS"
+        },
+        {
+            "Security Name": "Ramky Infrastructure Limited",
+            "Yahoo Code": "RAMKY.NS"
+        },
+        {
+            "Security Name": "Rana Sugars Limited",
+            "Yahoo Code": "RANASUG.NS"
+        },
+        {
+            "Security Name": "Ranklin Solutions Limited",
+            "Yahoo Code": "RANKLIN.NS"
+        },
+        {
+            "Security Name": "Regency Ceramics Limited",
+            "Yahoo Code": "REGENCERA.NS"
+        },
+        {
+            "Security Name": "REI Six Ten Retail Limited",
+            "Yahoo Code": "REISIXTEN.NS"
+        },
+        {
+            "Security Name": "Remsons Industries Limited",
+            "Yahoo Code": "REMSONSIN.NS"
+        },
+        {
+            "Security Name": "Resurgere Mines & Minerals Limited",
+            "Yahoo Code": "RMMIL.NS"
+        },
+        {
+            "Security Name": "RPG Life Sciences Limited",
+            "Yahoo Code": "RPGLIFE.NS"
+        },
+        {
+            "Security Name": "RSWM Limited",
+            "Yahoo Code": "RSWM.NS"
+        },
+        {
+            "Security Name": "Sabero Organics Gujarat Limited",
+            "Yahoo Code": "SABERORGA.NS"
+        },
+        {
+            "Security Name": "Sakthi Sugars Limited",
+            "Yahoo Code": "SAKHTISUG.NS"
+        },
+        {
+            "Security Name": "Sakthi Finance Limited",
+            "Yahoo Code": "SAKTHIFIN.NS"
+        },
+        {
+            "Security Name": "Salona Cotspin Limited",
+            "Yahoo Code": "SALONACOT.NS"
+        },
+        {
+            "Security Name": "Sambhaav Media Limited",
+            "Yahoo Code": "SAMBHAAV.NS"
+        },
+        {
+            "Security Name": "Samtel Color Limited",
+            "Yahoo Code": "SAMTEL.NS"
+        },
+        {
+            "Security Name": "Sarthak Industries Limited",
+            "Yahoo Code": "SARTHAKIN.NS"
+        },
+        {
+            "Security Name": "Sezal Glass Limited",
+            "Yahoo Code": "SEZAL.NS"
+        },
+        {
+            "Security Name": "Shree Ganesh Forgings Limited",
+            "Yahoo Code": "SGFL.NS"
+        },
+        {
+            "Security Name": "STL Global Limited",
+            "Yahoo Code": "SGL.NS"
+        },
+        {
+            "Security Name": "Shah Alloys Limited",
+            "Yahoo Code": "SHAHALLOY.NS"
+        },
+        {
+            "Security Name": "Shalimar Paints Limited",
+            "Yahoo Code": "SHALPAINT.NS"
+        },
+        {
+            "Security Name": "Shanthi Gears Limited",
+            "Yahoo Code": "SHANTIGEA.NS"
+        },
+        {
+            "Security Name": "Shreyans Industries Limited",
+            "Yahoo Code": "SHREYANIN.NS"
+        },
+        {
+            "Security Name": "Shreyas Shipping & Logistics Limited",
+            "Yahoo Code": "SHREYAS.NS"
+        },
+        {
+            "Security Name": "Shri Nataraj Ceramic and Chemical Industries Limited",
+            "Yahoo Code": "SHRINATRA.NS"
+        },
+        {
+            "Security Name": "Standard Industries Limited",
+            "Yahoo Code": "SIL.NS"
+        },
+        {
+            "Security Name": "Simbhaoli Sugars Limited",
+            "Yahoo Code": "SIMBHSUGA.NS"
+        },
+        {
+            "Security Name": "Soma Textiles & Industries Limited",
+            "Yahoo Code": "SOMATEX.NS"
+        },
+        {
+            "Security Name": "Spentex Industries Limited",
+            "Yahoo Code": "SPENTEX.NS"
+        },
+        {
+            "Security Name": "SPL Industries Limited",
+            "Yahoo Code": "SPLIL.NS"
+        },
+        {
+            "Security Name": "SRG Infotec (India) Limited",
+            "Yahoo Code": "SRGINFOTE.NS"
+        },
+        {
+            "Security Name": "Sri Chamundeswari Sugars Limited",
+            "Yahoo Code": "SRICHAMUN.NS"
+        },
+        {
+            "Security Name": "Sterling Biotech Limited",
+            "Yahoo Code": "STERLINBI.NS"
+        },
+        {
+            "Security Name": "STI India Limited",
+            "Yahoo Code": "STINDIA.NS"
+        },
+        {
+            "Security Name": "Super Spinning Mills Limited",
+            "Yahoo Code": "SUPERSPIN.NS"
+        },
+        {
+            "Security Name": "Supreme Tex Mart Limited",
+            "Yahoo Code": "SUPREMETE.NS"
+        },
+        {
+            "Security Name": "Surana Corporation Limited",
+            "Yahoo Code": "SURANACOR.NS"
+        },
+        {
+            "Security Name": "Surya Pharmaceutical Limited",
+            "Yahoo Code": "SURYAPHAR.NS"
+        },
+        {
+            "Security Name": "Tainwala Chemical and Plastic (I) Limited",
+            "Yahoo Code": "TAINWALCH.NS"
+        },
+        {
+            "Security Name": "Take Solutions Limited",
+            "Yahoo Code": "TAKE.NS"
+        },
+        {
+            "Security Name": "Taksheel Solutions Limited",
+            "Yahoo Code": "TAKSHEEL.NS"
+        },
+        {
+            "Security Name": "Tarapur Transformers Limited",
+            "Yahoo Code": "TARAPUR.NS"
+        },
+        {
+            "Security Name": "TCP Limited",
+            "Yahoo Code": "TCPLTD.NS"
+        },
+        {
+            "Security Name": "Teledata Technology Solutions Limited",
+            "Yahoo Code": "TELEDATAI.NS"
+        },
+        {
+            "Security Name": "Texmo Pipes and Products Limited",
+            "Yahoo Code": "TEXMOPIPE.NS"
+        },
+        {
+            "Security Name": "Thiru Arooran Sugars Limited",
+            "Yahoo Code": "THIRUSUGA.NS"
+        },
+        {
+            "Security Name": "Times Guaranty Limited",
+            "Yahoo Code": "TIMESGTY.NS"
+        },
+        {
+            "Security Name": "Tamilnadu Telecommunication Limited",
+            "Yahoo Code": "TNTELE.NS"
+        },
+        {
+            "Security Name": "Tricom India Limited",
+            "Yahoo Code": "TRICOM.NS"
+        },
+        {
+            "Security Name": "T T Limited",
+            "Yahoo Code": "TTL.NS"
+        },
+        {
+            "Security Name": "Usha Martin Education & Solutions Limited",
+            "Yahoo Code": "UMESLTD.NS"
+        },
+        {
+            "Security Name": "Uniply Industries Limited",
+            "Yahoo Code": "UNIPLY.NS"
+        },
+        {
+            "Security Name": "The United Nilgiri Tea Estates Company Limited",
+            "Yahoo Code": "UNITEDTEA.NS"
+        },
+        {
+            "Security Name": "Upper Ganges Sugar & Industries Limited",
+            "Yahoo Code": "UPERGANGE.NS"
+        },
+        {
+            "Security Name": "Uttam Sugar Mills Limited",
+            "Yahoo Code": "UTTAMSUGA.NS"
+        },
+        {
+            "Security Name": "V2 Retail Limited",
+            "Yahoo Code": "V2RETAIL.NS"
+        },
+        {
+            "Security Name": "Vardhman Polytex Limited",
+            "Yahoo Code": "VARDMNPOL.NS"
+        },
+        {
+            "Security Name": "Varun Industries Limited",
+            "Yahoo Code": "VARUN.NS"
+        },
+        {
+            "Security Name": "Vimta Labs Limited",
+            "Yahoo Code": "VIMTALABS.NS"
+        },
+        {
+            "Security Name": "Vinyl Chemicals (India) Limited",
+            "Yahoo Code": "VINYLINDI.NS"
+        },
+        {
+            "Security Name": "VKS Projects Limited",
+            "Yahoo Code": "VKSPL.NS"
+        },
+        {
+            "Security Name": "VTM Limited",
+            "Yahoo Code": "VTMLTD.NS"
+        },
+        {
+            "Security Name": "Walchandnagar Industries Limited",
+            "Yahoo Code": "WALCHANNA.NS"
+        },
+        {
+            "Security Name": "Websol Energy System Limited",
+            "Yahoo Code": "WEBELSOLA.NS"
+        },
+        {
+            "Security Name": "Weizmann Forex Limited",
+            "Yahoo Code": "WEIZFOREX.NS"
+        },
+        {
+            "Security Name": "Welspun Global Brands Limited",
+            "Yahoo Code": "WELGLOB.NS"
+        },
+        {
+            "Security Name": "Welspun Projects Limited",
+            "Yahoo Code": "WELPROJ.NS"
+        },
+        {
+            "Security Name": "Zee News Limited",
+            "Yahoo Code": "ZEENEWS.NS"
+        },
+        {
+            "Security Name": "Zenith Exports Limited",
+            "Yahoo Code": "ZENITHEXP.NS"
+        },
+        {
+            "Security Name": "Aksh Optifibre Limited",
+            "Yahoo Code": "AKSHOPTFB.NS"
+        },
+        {
+            "Security Name": "ANG Industries Limited",
+            "Yahoo Code": "ANGIND.NS"
+        },
+        {
+            "Security Name": "Archidply Industries Limited",
+            "Yahoo Code": "ARCHIDPLY.NS"
+        },
+        {
+            "Security Name": "Aro Granite Industries Limited",
+            "Yahoo Code": "AROGRANIT.NS"
+        },
+        {
+            "Security Name": "ARSS Infrastructure Projects Limited",
+            "Yahoo Code": "ARSSINFRA.NS"
+        },
+        {
+            "Security Name": "Asian Granito India Limited",
+            "Yahoo Code": "ASIANTILE.NS"
+        },
+        {
+            "Security Name": "Atlas Cycles (Haryana) Limited",
+            "Yahoo Code": "ATLASCYCL.NS"
+        },
+        {
+            "Security Name": "Best & Crompton Engg. Limited",
+            "Yahoo Code": "BECREL.NS"
+        },
+        {
+            "Security Name": "Bharatiya Global Infomedia Limited",
+            "Yahoo Code": "BGLOBAL.NS"
+        },
+        {
+            "Security Name": "Bharat Gears Limited",
+            "Yahoo Code": "BHARATGEA.NS"
+        },
+        {
+            "Security Name": "Bil Energy Systems Limited",
+            "Yahoo Code": "BILENERGY.NS"
+        },
+        {
+            "Security Name": "Oswal Chemicals & Fertilizers Limited",
+            "Yahoo Code": "BINDALAGR.NS"
+        },
+        {
+            "Security Name": "Broadcast Initiatives Limited",
+            "Yahoo Code": "BROADCAST.NS"
+        },
+        {
+            "Security Name": "BSL Limited",
+            "Yahoo Code": "BSL.NS"
+        },
+        {
+            "Security Name": "Barak Valley Cements Limited",
+            "Yahoo Code": "BVCL.NS"
+        },
+        {
+            "Security Name": "Celebrity Fashions Limited",
+            "Yahoo Code": "CELEBRITY.NS"
+        },
+        {
+            "Security Name": "Cambridge Technology Enterprises Limited",
+            "Yahoo Code": "CTE.NS"
+        },
+        {
+            "Security Name": "Cubex Tubings Limited",
+            "Yahoo Code": "CUBEXTUB.NS"
+        },
+        {
+            "Security Name": "DCM Limited",
+            "Yahoo Code": "DCM.NS"
+        },
+        {
+            "Security Name": "Easun Reyrolle Limited",
+            "Yahoo Code": "EASUNREYR.NS"
+        },
+        {
+            "Security Name": "Fame India Limited",
+            "Yahoo Code": "FAME.NS"
+        },
+        {
+            "Security Name": "Farmax India Limited",
+            "Yahoo Code": "FARMAXIND.NS"
+        },
+        {
+            "Security Name": "GKB Ophthalmics Limited",
+            "Yahoo Code": "GKB.NS"
+        },
+        {
+            "Security Name": "Golden Tobacco Limited",
+            "Yahoo Code": "GOLDENTOB.NS"
+        },
+        {
+            "Security Name": "GTN Industries Limited",
+            "Yahoo Code": "GTNIND.NS"
+        },
+        {
+            "Security Name": "GTN Textiles Limited",
+            "Yahoo Code": "GTNTEX.NS"
+        },
+        {
+            "Security Name": "Halonix Limited",
+            "Yahoo Code": "HALONIX.NS"
+        },
+        {
+            "Security Name": "HB Stockholdings Limited",
+            "Yahoo Code": "HBSTOCK.NS"
+        },
+        {
+            "Security Name": "Hexa Tradex Limited",
+            "Yahoo Code": "HEXATRADE.NS"
+        },
+        {
+            "Security Name": "Hilton Metal Forging Limited",
+            "Yahoo Code": "HILTON.NS"
+        },
+        {
+            "Security Name": "Hindustan Dorr-Oliver Limited",
+            "Yahoo Code": "HINDDORRO.NS"
+        },
+        {
+            "Security Name": "Indiabulls Wholesale Services Limited",
+            "Yahoo Code": "IBWSL.NS"
+        },
+        {
+            "Security Name": "Indo Count Industries Limited",
+            "Yahoo Code": "ICIL.NS"
+        },
+        {
+            "Security Name": "IFB Agro Industries Limited",
+            "Yahoo Code": "IFBAGRO.NS"
+        },
+        {
+            "Security Name": "IG Petrochemicals Limited",
+            "Yahoo Code": "IGPL.NS"
+        },
+        {
+            "Security Name": "Impex Ferro Tech Limited",
+            "Yahoo Code": "IMPEXFERR.NS"
+        },
+        {
+            "Security Name": "Indian Card Clothing Company Limited",
+            "Yahoo Code": "INDIANCAR.NS"
+        },
+        {
+            "Security Name": "Inventure Growth & Securities Limited",
+            "Yahoo Code": "INVENTURE.NS"
+        },
+        {
+            "Security Name": "IVP Limited",
+            "Yahoo Code": "IVP.NS"
+        },
+        {
+            "Security Name": "IVRCL Assets & Holdings Limited",
+            "Yahoo Code": "IVRCLAH.NS"
+        },
+        {
+            "Security Name": "Jain Studios Limited",
+            "Yahoo Code": "JAINSTUDI.NS"
+        },
+        {
+            "Security Name": "JIK Industries Limited",
+            "Yahoo Code": "JIKIND.NS"
+        },
+        {
+            "Security Name": "Jindal Worldwide Limited",
+            "Yahoo Code": "JINDWORLD.NS"
+        },
+        {
+            "Security Name": "Jumbo Bag Limited",
+            "Yahoo Code": "JUMBO.NS"
+        },
+        {
+            "Security Name": "Kakatiya Cement Sugar & Industries Limited",
+            "Yahoo Code": "KAKATCEM.NS"
+        },
+        {
+            "Security Name": "Khandwala Securities Limited",
+            "Yahoo Code": "KHANDSE.NS"
+        },
+        {
+            "Security Name": "Kitply Industries Limited",
+            "Yahoo Code": "KITPLYIND.NS"
+        },
+        {
+            "Security Name": "KLRF Limited",
+            "Yahoo Code": "KLRF.NS"
+        },
+        {
+            "Security Name": "Krishna Engineering Works Limited",
+            "Yahoo Code": "KRISHNAEN.NS"
+        },
+        {
+            "Security Name": "Kriti Industries (India) Limited",
+            "Yahoo Code": "KRITIIND.NS"
+        },
+        {
+            "Security Name": "KSK Energy Ventures Limited",
+            "Yahoo Code": "KSK.NS"
+        },
+        {
+            "Security Name": "Lumax Automotive Systems Limited",
+            "Yahoo Code": "LUMAXAUTO.NS"
+        },
+        {
+            "Security Name": "Maithan Alloys Limited",
+            "Yahoo Code": "MAITHANAL.NS"
+        },
+        {
+            "Security Name": "Malu Paper Mills Limited",
+            "Yahoo Code": "MALUPAPER.NS"
+        },
+        {
+            "Security Name": "Manappuram Finance Limited",
+            "Yahoo Code": "MANAPPURA.NS"
+        },
+        {
+            "Security Name": "Mangalam Cement Limited",
+            "Yahoo Code": "MANGLMCEM.NS"
+        },
+        {
+            "Security Name": "Maral Overseas Limited",
+            "Yahoo Code": "MARALOVER.NS"
+        },
+        {
+            "Security Name": "Mudra Lifestyle Limited",
+            "Yahoo Code": "MUDRA.NS"
+        },
+        {
+            "Security Name": "Munjal Auto Industries Limited",
+            "Yahoo Code": "MUNJALAU.NS"
+        },
+        {
+            "Security Name": "NCL Industries Limited",
+            "Yahoo Code": "NCLIND.NS"
+        },
+        {
+            "Security Name": "Neha International Limited",
+            "Yahoo Code": "NEHAINT.NS"
+        },
+        {
+            "Security Name": "Neo Corp International Limited",
+            "Yahoo Code": "NEOCORP.NS"
+        },
+        {
+            "Security Name": "Neuland Laboratories Limited",
+            "Yahoo Code": "NEULANDLA.NS"
+        },
+        {
+            "Security Name": "Nalwa Sons Investments Limited",
+            "Yahoo Code": "NSIL.NS"
+        },
+        {
+            "Security Name": "Nu Tek India Limited",
+            "Yahoo Code": "NUTEK.NS"
+        },
+        {
+            "Security Name": "Panasonic Home Appliances India Company Limited",
+            "Yahoo Code": "PANASONIC.NS"
+        },
+        {
+            "Security Name": "Parekh Aluminex Limited",
+            "Yahoo Code": "PARAL.NS"
+        },
+        {
+            "Security Name": "PBA Infrastructure Limited",
+            "Yahoo Code": "PBAINFRA.NS"
+        },
+        {
+            "Security Name": "Pudumjee Industries Limited",
+            "Yahoo Code": "PDUMJEIND.NS"
+        },
+        {
+            "Security Name": "Peacock Industries Limited",
+            "Yahoo Code": "PEACOCKIN.NS"
+        },
+        {
+            "Security Name": "The Peria Karamalai Tea & Produce Company Limited",
+            "Yahoo Code": "PERIATEA.NS"
+        },
+        {
+            "Security Name": "PG Electroplast Limited",
+            "Yahoo Code": "PGEL.NS"
+        },
+        {
+            "Security Name": "Pearl Global Industries Limited",
+            "Yahoo Code": "PGIL.NS"
+        },
+        {
+            "Security Name": "Pioneer Distilleries Limited",
+            "Yahoo Code": "PIONDIST.NS"
+        },
+        {
+            "Security Name": "Pioneer Embroideries Limited",
+            "Yahoo Code": "PIONEEREM.NS"
+        },
+        {
+            "Security Name": "Polar Industries Limited",
+            "Yahoo Code": "POLARIND.NS"
+        },
+        {
+            "Security Name": "Pricol Limited",
+            "Yahoo Code": "PRICOL.NS"
+        },
+        {
+            "Security Name": "Provogue (India) Limited",
+            "Yahoo Code": "PROVOGE.NS"
+        },
+        {
+            "Security Name": "Raj Rayon Industries Limited",
+            "Yahoo Code": "RAJRAYON.NS"
+        },
+        {
+            "Security Name": "Rasoya Proteins Limited",
+            "Yahoo Code": "RASOYPR.NS"
+        },
+        {
+            "Security Name": "Refex Refrigerants Limited",
+            "Yahoo Code": "REFEX.NS"
+        },
+        {
+            "Security Name": "R. S. Software (India) Limited",
+            "Yahoo Code": "RSSOFTWAR.NS"
+        },
+        {
+            "Security Name": "Sanwaria Agro Oils Limited",
+            "Yahoo Code": "SANWARIA.NS"
+        },
+        {
+            "Security Name": "SEL Manufacturing Company Limited",
+            "Yahoo Code": "SELMCL.NS"
+        },
+        {
+            "Security Name": "Shilpi Cable Technologies Limited",
+            "Yahoo Code": "SHILPI.NS"
+        },
+        {
+            "Security Name": "Shivam Autotech Limited",
+            "Yahoo Code": "SHIVAMAUT.NS"
+        },
+        {
+            "Security Name": "Shiva Texyarn Limited",
+            "Yahoo Code": "SHIVTEX.NS"
+        },
+        {
+            "Security Name": "S Mobility Limited",
+            "Yahoo Code": "SMOBILITY.NS"
+        },
+        {
+            "Security Name": "Shekhawati Poly-Yarn Limited",
+            "Yahoo Code": "SPYL.NS"
+        },
+        {
+            "Security Name": "Sree Rayalaseema Hi-Strength Hypo Limited",
+            "Yahoo Code": "SRHHYPOLT.NS"
+        },
+        {
+            "Security Name": "Star Paper Mills Limited",
+            "Yahoo Code": "STARPAPER.NS"
+        },
+        {
+            "Security Name": "Store One Retail India Limited",
+            "Yahoo Code": "STOREONE.NS"
+        },
+        {
+            "Security Name": "Sujana Tower Limited",
+            "Yahoo Code": "SUJANATOW.NS"
+        },
+        {
+            "Security Name": "Suryajyoti Spinning Mills Limited",
+            "Yahoo Code": "SURYAJYOT.NS"
+        },
+        {
+            "Security Name": "Swelect Energy Systems Limited",
+            "Yahoo Code": "SWELECTES.NS"
+        },
+        {
+            "Security Name": "Tanfac Industries Limited",
+            "Yahoo Code": "TANFACIND.NS"
+        },
+        {
+            "Security Name": "TCI Finance Limited",
+            "Yahoo Code": "TCIFINANC.NS"
+        },
+        {
+            "Security Name": "Transwarranty Finance Limited",
+            "Yahoo Code": "TFL.NS"
+        },
+        {
+            "Security Name": "Thinksoft Global Services Limited",
+            "Yahoo Code": "THINKSOFT.NS"
+        },
+        {
+            "Security Name": "Thomas Scott (India) Limited",
+            "Yahoo Code": "THOMASCOT.NS"
+        },
+        {
+            "Security Name": "Thirumalai Chemicals Limited",
+            "Yahoo Code": "TIRUMALCH.NS"
+        },
+        {
+            "Security Name": "Viceroy Hotels Limited",
+            "Yahoo Code": "VICEROY.NS"
+        },
+        {
+            "Security Name": "Vijay Shanthi Builders Limited",
+            "Yahoo Code": "VIJSHAN.NS"
+        },
+        {
+            "Security Name": "VLS Finance Limited",
+            "Yahoo Code": "VLSFINANC.NS"
+        },
+        {
+            "Security Name": "Wanbury Limited",
+            "Yahoo Code": "WANBURY.NS"
+        },
+        {
+            "Security Name": "Weizmann Limited",
+            "Yahoo Code": "WEIZMANIN.NS"
+        },
+        {
+            "Security Name": "Welspun Investments and Commercials Limited",
+            "Yahoo Code": "WELINV.NS"
+        },
+        {
+            "Security Name": "Welspun India Limited",
+            "Yahoo Code": "WELSPUNIN.NS"
+        },
+        {
+            "Security Name": "Windsor Machines Limited",
+            "Yahoo Code": "WINDMACHI.NS"
+        },
+        {
+            "Security Name": "Winsome Yarns Limited",
+            "Yahoo Code": "WINSOME.NS"
+        },
+        {
+            "Security Name": "W S Industries (I) Limited",
+            "Yahoo Code": "WSI.NS"
+        },
+        {
+            "Security Name": "Wire and Wireless (India) Limited",
+            "Yahoo Code": "WWIL.NS"
+        },
+        {
+            "Security Name": "Zee Learn Limited",
+            "Yahoo Code": "ZEELEARN.NS"
+        },
+        {
+            "Security Name": "Zenith Computers Limited",
+            "Yahoo Code": "ZENITHCOM.NS"
+        },
+        {
+            "Security Name": "Zodiac JRD- MKJ Limited",
+            "Yahoo Code": "ZODJRDMKJ.NS"
+        },
+        {
+            "Security Name": "20 Microns Limited",
+            "Yahoo Code": "20MICRONS.NS"
+        },
+        {
+            "Security Name": "3M India Limited",
+            "Yahoo Code": "3MINDIA.NS"
+        },
+        {
+            "Security Name": "A2Z Maintenance & Engineering Services Limited",
+            "Yahoo Code": "A2ZMES.NS"
+        },
+        {
+            "Security Name": "Aanjaneya Lifecare Limited",
+            "Yahoo Code": "AANJANEYA.NS"
+        },
+        {
+            "Security Name": "Aarti Drugs Limited",
+            "Yahoo Code": "AARTIDRUG.NS"
+        },
+        {
+            "Security Name": "Aarti Industries Limited",
+            "Yahoo Code": "AARTIIND.NS"
+        },
+        {
+            "Security Name": "Aarvee Denims & Exports Limited",
+            "Yahoo Code": "AARVEEDEN.NS"
+        },
+        {
+            "Security Name": "Abbott India Limited",
+            "Yahoo Code": "ABBOTINDI.NS"
+        },
+        {
+            "Security Name": "Aditya Birla Chemicals (India) Limited",
+            "Yahoo Code": "ABCIL.NS"
+        },
+        {
+            "Security Name": "ABG Shipyard Limited",
+            "Yahoo Code": "ABGSHIP.NS"
+        },
+        {
+            "Security Name": "Abhishek Corporation Limited",
+            "Yahoo Code": "ABHISHEK.NS"
+        },
+        {
+            "Security Name": "Action Construction Equipment Limited",
+            "Yahoo Code": "ACE.NS"
+        },
+        {
+            "Security Name": "Acropetal Technologies Limited",
+            "Yahoo Code": "ACROPETAL.NS"
+        },
+        {
+            "Security Name": "ADF Foods Limited",
+            "Yahoo Code": "ADFFOODS.NS"
+        },
+        {
+            "Security Name": "Adhunik Metaliks Limited",
+            "Yahoo Code": "ADHUNIK.NS"
+        },
+        {
+            "Security Name": "Ador Welding Limited",
+            "Yahoo Code": "ADORWELD.NS"
+        },
+        {
+            "Security Name": "Allied Digital Services Limited",
+            "Yahoo Code": "ADSL.NS"
+        },
+        {
+            "Security Name": "Advanta India Limited",
+            "Yahoo Code": "ADVANTA.NS"
+        },
+        {
+            "Security Name": "Aegis Logistics Limited",
+            "Yahoo Code": "AEGISCHEM.NS"
+        },
+        {
+            "Security Name": "Accel Frontline Limited",
+            "Yahoo Code": "AFL.NS"
+        },
+        {
+            "Security Name": "Aftek Limited",
+            "Yahoo Code": "AFTEK.NS"
+        },
+        {
+            "Security Name": "AGC Networks Limited",
+            "Yahoo Code": "AGCNET.NS"
+        },
+        {
+            "Security Name": "Agro Dutch Industries Limited",
+            "Yahoo Code": "AGRODUTCH.NS"
+        },
+        {
+            "Security Name": "Asian Hotels (East) Limited",
+            "Yahoo Code": "AHLEAST.NS"
+        },
+        {
+            "Security Name": "Ahluwalia Contracts (India) Limited",
+            "Yahoo Code": "AHLUCONT.NS"
+        },
+        {
+            "Security Name": "Asian Hotels (West) Limited",
+            "Yahoo Code": "AHLWEST.NS"
+        },
+        {
+            "Security Name": "Ahmednagar Forgings Limited",
+            "Yahoo Code": "AHMEDFORG.NS"
+        },
+        {
+            "Security Name": "AIA Engineering Limited",
+            "Yahoo Code": "AIAENG.NS"
+        },
+        {
+            "Security Name": "Ajanta Pharma Limited",
+            "Yahoo Code": "AJANTPHAR.NS"
+        },
+        {
+            "Security Name": "Ajmera Realty & Infra India Limited",
+            "Yahoo Code": "AJMERA.NS"
+        },
+        {
+            "Security Name": "Akzo Nobel India Limited",
+            "Yahoo Code": "AKZOINDIA.NS"
+        },
+        {
+            "Security Name": "Alchemist Limited",
+            "Yahoo Code": "ALCHEM.NS"
+        },
+        {
+            "Security Name": "Alembic Limited",
+            "Yahoo Code": "ALEMBICLT.NS"
+        },
+        {
+            "Security Name": "Alicon Castalloy Limited",
+            "Yahoo Code": "ALICON.NS"
+        },
+        {
+            "Security Name": "Alkali Metals Limited",
+            "Yahoo Code": "ALKALI.NS"
+        },
+        {
+            "Security Name": "Alkyl Amines Chemicals Limited",
+            "Yahoo Code": "ALKYLAMIN.NS"
+        },
+        {
+            "Security Name": "Allcargo Logistics Limited",
+            "Yahoo Code": "ALLCARGO.NS"
+        },
+        {
+            "Security Name": "Almondz Global Securities Limited",
+            "Yahoo Code": "ALMONDZ.NS"
+        },
+        {
+            "Security Name": "Alpa Laboratories Limited",
+            "Yahoo Code": "ALPA.NS"
+        },
+        {
+            "Security Name": "Alps Industries Limited",
+            "Yahoo Code": "ALPSINDUS.NS"
+        },
+        {
+            "Security Name": "Alstom T&D India Limited",
+            "Yahoo Code": "ALSTOMT&D.NS"
+        },
+        {
+            "Security Name": "Amar Remedies Limited",
+            "Yahoo Code": "AMAR.NS"
+        },
+        {
+            "Security Name": "Amara Raja Batteries Limited",
+            "Yahoo Code": "AMARAJABA.NS"
+        },
+        {
+            "Security Name": "Ambika Cotton Mills Limited",
+            "Yahoo Code": "AMBIKCO.NS"
+        },
+        {
+            "Security Name": "AMD Industries Limited",
+            "Yahoo Code": "AMDIND.NS"
+        },
+        {
+            "Security Name": "Amrutanjan Health Care Limited",
+            "Yahoo Code": "AMRUTANJA.NS"
+        },
+        {
+            "Security Name": "Amtek Auto Limited",
+            "Yahoo Code": "AMTEKAUTO.NS"
+        },
+        {
+            "Security Name": "Amtek India Limited",
+            "Yahoo Code": "AMTEKINDI.NS"
+        },
+        {
+            "Security Name": "Anant Raj Industries Limited",
+            "Yahoo Code": "ANANTRAJ.NS"
+        },
+        {
+            "Security Name": "Andhra Cements Limited",
+            "Yahoo Code": "ANDHRACEM.NS"
+        },
+        {
+            "Security Name": "The Andhra Sugars Limited",
+            "Yahoo Code": "ANDHRSUGA.NS"
+        },
+        {
+            "Security Name": "Anik Industries Limited",
+            "Yahoo Code": "ANIKINDS.NS"
+        },
+        {
+            "Security Name": "Ansal Properties & Infrastructure Limited",
+            "Yahoo Code": "ANSALAPI.NS"
+        },
+        {
+            "Security Name": "Ansal Housing and Construction Limited",
+            "Yahoo Code": "ANSALHSG.NS"
+        },
+        {
+            "Security Name": "Apar Industries Limited",
+            "Yahoo Code": "APARINDS.NS"
+        },
+        {
+            "Security Name": "Apcotex Industries Limited",
+            "Yahoo Code": "APCOTEXIN.NS"
+        },
+        {
+            "Security Name": "Aplab Limited",
+            "Yahoo Code": "APLAB.NS"
+        },
+        {
+            "Security Name": "APL Apollo Tubes Limited",
+            "Yahoo Code": "APLAPOLLO.NS"
+        },
+        {
+            "Security Name": "Alembic Pharmaceuticals Limited",
+            "Yahoo Code": "APLLTD.NS"
+        },
+        {
+            "Security Name": "Apollo Hospitals Enterprise Limited",
+            "Yahoo Code": "APOLLOHOS.NS"
+        },
+        {
+            "Security Name": "The Andhra Pradesh Paper Mills Limited",
+            "Yahoo Code": "APPAPER.NS"
+        },
+        {
+            "Security Name": "Aptech Limited",
+            "Yahoo Code": "APTECHT.NS"
+        },
+        {
+            "Security Name": "Aqua Logistics Limited",
+            "Yahoo Code": "AQUA.NS"
+        },
+        {
+            "Security Name": "Archies Limited",
+            "Yahoo Code": "ARCHIES.NS"
+        },
+        {
+            "Security Name": "Aries Agro Limited",
+            "Yahoo Code": "ARIES.NS"
+        },
+        {
+            "Security Name": "Arshiya International Limited",
+            "Yahoo Code": "ARSHIYA.NS"
+        },
+        {
+            "Security Name": "Arvind Remedies Limited",
+            "Yahoo Code": "ARVINDREM.NS"
+        },
+        {
+            "Security Name": "Asahi India Glass Limited",
+            "Yahoo Code": "ASAHIINDI.NS"
+        },
+        {
+            "Security Name": "Asahi Songwon Colors Limited",
+            "Yahoo Code": "ASAHISONG.NS"
+        },
+        {
+            "Security Name": "Automotive Stampings and Assemblies Limited",
+            "Yahoo Code": "ASAL.NS"
+        },
+        {
+            "Security Name": "Ashiana Housing Limited",
+            "Yahoo Code": "ASHIANA.NS"
+        },
+        {
+            "Security Name": "Ashoka Buildcon Limited",
+            "Yahoo Code": "ASHOKA.NS"
+        },
+        {
+            "Security Name": "Asian Hotels (North) Limited",
+            "Yahoo Code": "ASIANHOTN.NS"
+        },
+        {
+            "Security Name": "Assam Company India Limited",
+            "Yahoo Code": "ASSAMCO.NS"
+        },
+        {
+            "Security Name": "Astec LifeSciences Limited",
+            "Yahoo Code": "ASTEC.NS"
+        },
+        {
+            "Security Name": "Aster Silicates Limited",
+            "Yahoo Code": "ASTERSILI.NS"
+        },
+        {
+            "Security Name": "Astral Poly Technik Limited",
+            "Yahoo Code": "ASTRAL.NS"
+        },
+        {
+            "Security Name": "Astra Microwave Products Limited",
+            "Yahoo Code": "ASTRAMICR.NS"
+        },
+        {
+            "Security Name": "AstraZeneca Pharma India Limited",
+            "Yahoo Code": "ASTRAZEN.NS"
+        },
+        {
+            "Security Name": "Agro Tech Foods Limited",
+            "Yahoo Code": "ATFL.NS"
+        },
+        {
+            "Security Name": "Atlanta Limited",
+            "Yahoo Code": "ATLANTA.NS"
+        },
+        {
+            "Security Name": "ATN International Limited",
+            "Yahoo Code": "ATNINTER.NS"
+        },
+        {
+            "Security Name": "Atul Limited",
+            "Yahoo Code": "ATUL.NS"
+        },
+        {
+            "Security Name": "Aurionpro Solutions Limited",
+            "Yahoo Code": "AURIONPRO.NS"
+        },
+        {
+            "Security Name": "Automotive Axles Limited",
+            "Yahoo Code": "AUTOAXLES.NS"
+        },
+        {
+            "Security Name": "Autoline Industries Limited",
+            "Yahoo Code": "AUTOIND.NS"
+        },
+        {
+            "Security Name": "Autolite (India) Limited",
+            "Yahoo Code": "AUTOLITIN.NS"
+        },
+        {
+            "Security Name": "Avanti Feeds Limited",
+            "Yahoo Code": "AVANTI.NS"
+        },
+        {
+            "Security Name": "AVT Natural Products Limited",
+            "Yahoo Code": "AVTNPL.NS"
+        },
+        {
+            "Security Name": "Axis Mutual Fund - Axis Gold ETF",
+            "Yahoo Code": "AXISGOLD.NS"
+        },
+        {
+            "Security Name": "Axis-IT&T Limited",
+            "Yahoo Code": "AXIS-IT&T.NS"
+        },
+        {
+            "Security Name": "Bajaj Corp Limited",
+            "Yahoo Code": "BAJAJCORP.NS"
+        },
+        {
+            "Security Name": "Bajaj Electricals Limited",
+            "Yahoo Code": "BAJAJELEC.NS"
+        },
+        {
+            "Security Name": "Bajaj Finserv Limited",
+            "Yahoo Code": "BAJAJFINS.NS"
+        },
+        {
+            "Security Name": "Bajaj Finance Limited",
+            "Yahoo Code": "BAJFINANC.NS"
+        },
+        {
+            "Security Name": "Balaji Telefilms Limited",
+            "Yahoo Code": "BALAJITEL.NS"
+        },
+        {
+            "Security Name": "Balaji Amines Limited",
+            "Yahoo Code": "BALAMINES.NS"
+        },
+        {
+            "Security Name": "Balkrishna Industries Limited",
+            "Yahoo Code": "BALKRISIN.NS"
+        },
+        {
+            "Security Name": "Ballarpur Industries Limited",
+            "Yahoo Code": "BALLARPUR.NS"
+        },
+        {
+            "Security Name": "Balmer Lawrie & Company Limited",
+            "Yahoo Code": "BALMLAWRI.NS"
+        },
+        {
+            "Security Name": "Bal Pharma Limited",
+            "Yahoo Code": "BALPHARMA.NS"
+        },
+        {
+            "Security Name": "Bannari Amman Sugars Limited",
+            "Yahoo Code": "BANARISUG.NS"
+        },
+        {
+            "Security Name": "Banco Products (I) Limited",
+            "Yahoo Code": "BANCOINDI.NS"
+        },
+        {
+            "Security Name": "Benchmark Asset Management Company Pvt. Limited",
+            "Yahoo Code": "BANKBEES.NS"
+        },
+        {
+            "Security Name": "Banswara Syntex Limited",
+            "Yahoo Code": "BANSWRAS.NS"
+        },
+        {
+            "Security Name": "Bartronics India Limited",
+            "Yahoo Code": "BARTRONIC.NS"
+        },
+        {
+            "Security Name": "BASF India Limited",
+            "Yahoo Code": "BASF.NS"
+        },
+        {
+            "Security Name": "Bannari Amman Spinning Mills Limited",
+            "Yahoo Code": "BASML.NS"
+        },
+        {
+            "Security Name": "Bayer Cropscience Limited",
+            "Yahoo Code": "BAYERCROP.NS"
+        },
+        {
+            "Security Name": "Bharat Bijlee Limited",
+            "Yahoo Code": "BBL.NS"
+        },
+        {
+            "Security Name": "Bombay Burmah Trading Corporation Limited",
+            "Yahoo Code": "BBTC.NS"
+        },
+        {
+            "Security Name": "Bhansali Engineering Polymers Limited",
+            "Yahoo Code": "BEPL.NS"
+        },
+        {
+            "Security Name": "Berger Paints (I) Limited",
+            "Yahoo Code": "BERGEPAIN.NS"
+        },
+        {
+            "Security Name": "BF Investment Limited",
+            "Yahoo Code": "BFINVEST.NS"
+        },
+        {
+            "Security Name": "Bhagwati Banquets and Hotels Limited",
+            "Yahoo Code": "BHAGWATIH.NS"
+        },
+        {
+            "Security Name": "Bhagyanagar India Limited",
+            "Yahoo Code": "BHAGYNAGA.NS"
+        },
+        {
+            "Security Name": "Bharat Forge Limited",
+            "Yahoo Code": "BHARATFOR.NS"
+        },
+        {
+            "Security Name": "Bharat Rasayan Limited",
+            "Yahoo Code": "BHARATRAS.NS"
+        },
+        {
+            "Security Name": "Bharati Shipyard Limited",
+            "Yahoo Code": "BHARTISHI.NS"
+        },
+        {
+            "Security Name": "Bhartiya International Limited",
+            "Yahoo Code": "BIL.NS"
+        },
+        {
+            "Security Name": "Bimetal Bearings Limited",
+            "Yahoo Code": "BIMETAL.NS"
+        },
+        {
+            "Security Name": "Binani Industries Limited",
+            "Yahoo Code": "BINANIIND.NS"
+        },
+        {
+            "Security Name": "Birla Corporation Limited",
+            "Yahoo Code": "BIRLACORP.NS"
+        },
+        {
+            "Security Name": "Birla Ericsson Optical Limited",
+            "Yahoo Code": "BIRLAERIC.NS"
+        },
+        {
+            "Security Name": "Aditya Birla Money Limited",
+            "Yahoo Code": "BIRLAMONE.NS"
+        },
+        {
+            "Security Name": "Birla Power Solutions Limited",
+            "Yahoo Code": "BIRLAPOWE.NS"
+        },
+        {
+            "Security Name": "Bliss GVS Pharma Limited",
+            "Yahoo Code": "BLISSGVS.NS"
+        },
+        {
+            "Security Name": "B. L. Kashyap and Sons Limited",
+            "Yahoo Code": "BLKASHYAP.NS"
+        },
+        {
+            "Security Name": "Blue Chip India Limited",
+            "Yahoo Code": "BLUECHIP.NS"
+        },
+        {
+            "Security Name": "Blue Dart Express Limited",
+            "Yahoo Code": "BLUEDART.NS"
+        },
+        {
+            "Security Name": "Blue Star Limited",
+            "Yahoo Code": "BLUESTARC.NS"
+        },
+        {
+            "Security Name": "Blue Star Infotech Limited",
+            "Yahoo Code": "BLUESTINF.NS"
+        },
+        {
+            "Security Name": "BOC India Limited",
+            "Yahoo Code": "BOC.NS"
+        },
+        {
+            "Security Name": "BPL Limited",
+            "Yahoo Code": "BPL.NS"
+        },
+        {
+            "Security Name": "Brandhouse Retails Limited",
+            "Yahoo Code": "BRANDHOUS.NS"
+        },
+        {
+            "Security Name": "Bombay Rayon Fashions Limited",
+            "Yahoo Code": "BRFL.NS"
+        },
+        {
+            "Security Name": "Brigade Enterprises Limited",
+            "Yahoo Code": "BRIGADE.NS"
+        },
+        {
+            "Security Name": "Britannia Industries Limited",
+            "Yahoo Code": "BRITANNIA.NS"
+        },
+        {
+            "Security Name": "BSEL Infrastructure Realty Limited",
+            "Yahoo Code": "BSELINFRA.NS"
+        },
+        {
+            "Security Name": "Birla Sun Life Mutual Fund - Birla Sun Life Gold ETF - Growth",
+            "Yahoo Code": "BSLGOLDET.NS"
+        },
+        {
+            "Security Name": "Birla Sun Life Mutual Fund - Birla Sun Life Nifty ETF - Growth",
+            "Yahoo Code": "BSLNIFTY.NS"
+        },
+        {
+            "Security Name": "BS TransComm Limited",
+            "Yahoo Code": "BSTRANSCO.NS"
+        },
+        {
+            "Security Name": "Burnpur Cement Limited",
+            "Yahoo Code": "BURNPUR.NS"
+        },
+        {
+            "Security Name": "Cadila Healthcare Limited",
+            "Yahoo Code": "CADILAHC.NS"
+        },
+        {
+            "Security Name": "C & C Constructions Limited",
+            "Yahoo Code": "CANDC.NS"
+        },
+        {
+            "Security Name": "Can Fin Homes Limited",
+            "Yahoo Code": "CANFINHOM.NS"
+        },
+        {
+            "Security Name": "Cantabil Retail India Limited",
+            "Yahoo Code": "CANTABIL.NS"
+        },
+        {
+            "Security Name": "Carborundum Universal Limited",
+            "Yahoo Code": "CARBORUNI.NS"
+        },
+        {
+            "Security Name": "Career Point Limited",
+            "Yahoo Code": "CAREERP.NS"
+        },
+        {
+            "Security Name": "Castrol India Limited",
+            "Yahoo Code": "CASTROL.NS"
+        },
+        {
+            "Security Name": "CCL Products (India) Limited",
+            "Yahoo Code": "CCL.NS"
+        },
+        {
+            "Security Name": "CEAT Limited",
+            "Yahoo Code": "CEATLTD.NS"
+        },
+        {
+            "Security Name": "Commercial Engineers & Body Builders Co Limited",
+            "Yahoo Code": "CEBBCO.NS"
+        },
+        {
+            "Security Name": "Century Enka Limited",
+            "Yahoo Code": "CENTENKA.NS"
+        },
+        {
+            "Security Name": "Century Extrusions Limited",
+            "Yahoo Code": "CENTEXT.NS"
+        },
+        {
+            "Security Name": "Centum Electronics Limited",
+            "Yahoo Code": "CENTUM.NS"
+        },
+        {
+            "Security Name": "Century Plyboards (India) Limited",
+            "Yahoo Code": "CENTURYPL.NS"
+        },
+        {
+            "Security Name": "Cera Sanitaryware Limited",
+            "Yahoo Code": "CERA.NS"
+        },
+        {
+            "Security Name": "Chemfab Alkalis Limited",
+            "Yahoo Code": "CHEMFALKA.NS"
+        },
+        {
+            "Security Name": "Chennai Petroleum Corporation Limited",
+            "Yahoo Code": "CHENNPETR.NS"
+        },
+        {
+            "Security Name": "Chettinad Cement Corporation Limited",
+            "Yahoo Code": "CHETTINAD.NS"
+        },
+        {
+            "Security Name": "Cholamandalam Investment and Finance Company Limited",
+            "Yahoo Code": "CHOLAFIN.NS"
+        },
+        {
+            "Security Name": "Chromatic India Limited",
+            "Yahoo Code": "CHROMATIC.NS"
+        },
+        {
+            "Security Name": "CIL Nova Petrochemicals Limited",
+            "Yahoo Code": "CILNOVA.NS"
+        },
+        {
+            "Security Name": "Cimmco Limited",
+            "Yahoo Code": "CIMMCO.NS"
+        },
+        {
+            "Security Name": "Cinemax Properties Limited",
+            "Yahoo Code": "CINEPRO.NS"
+        },
+        {
+            "Security Name": "Classic Diamonds (India) Limited",
+            "Yahoo Code": "CLASSIC.NS"
+        },
+        {
+            "Security Name": "Clariant Chemicals (India) Limited",
+            "Yahoo Code": "CLNINDIA.NS"
+        },
+        {
+            "Security Name": "C. Mahendra Exports Limited",
+            "Yahoo Code": "CMAHENDRA.NS"
+        },
+        {
+            "Security Name": "Compuage Infocom Limited",
+            "Yahoo Code": "COMPUAGE.NS"
+        },
+        {
+            "Security Name": "Compucom Software Limited",
+            "Yahoo Code": "COMPUSOFT.NS"
+        },
+        {
+            "Security Name": "Container Corporation of India Limited",
+            "Yahoo Code": "CONCOR.NS"
+        },
+        {
+            "Security Name": "Consolidated Finvest & Holdings Limited",
+            "Yahoo Code": "CONSOFINV.NS"
+        },
+        {
+            "Security Name": "Cords Cable Industries Limited",
+            "Yahoo Code": "CORDSCABL.NS"
+        },
+        {
+            "Security Name": "Coromandel International Limited",
+            "Yahoo Code": "COROMANDE.NS"
+        },
+        {
+            "Security Name": "Corporation Bank",
+            "Yahoo Code": "CORPBANK.NS"
+        },
+        {
+            "Security Name": "Cosmo Films Limited",
+            "Yahoo Code": "COSMOFILM.NS"
+        },
+        {
+            "Security Name": "Cox & Kings Limited",
+            "Yahoo Code": "COX&KINGS.NS"
+        },
+        {
+            "Security Name": "Creative Eye Limited",
+            "Yahoo Code": "CREATIVEY.NS"
+        },
+        {
+            "Security Name": "Crest Animation Studios Limited",
+            "Yahoo Code": "CRESTANI.NS"
+        },
+        {
+            "Security Name": "Crew B.O.S. Products Limited",
+            "Yahoo Code": "CREWBOS.NS"
+        },
+        {
+            "Security Name": "CRISIL Limited",
+            "Yahoo Code": "CRISIL.NS"
+        },
+        {
+            "Security Name": "Canara Robeco Mutual Fund - Canara Robeco - Gold ETF",
+            "Yahoo Code": "CRMFGETF.NS"
+        },
+        {
+            "Security Name": "City Union Bank Limited",
+            "Yahoo Code": "CUB.NS"
+        },
+        {
+            "Security Name": "Cybertech Systems And Software Limited",
+            "Yahoo Code": "CYBERTECH.NS"
+        },
+        {
+            "Security Name": "LT Foods Limited",
+            "Yahoo Code": "DAAWAT.NS"
+        },
+        {
+            "Security Name": "Dalmia Bharat Enterprises Limited",
+            "Yahoo Code": "DALMIABEL.NS"
+        },
+        {
+            "Security Name": "Dalmia Bharat Sugar and Industries Limited",
+            "Yahoo Code": "DALMIASUG.NS"
+        },
+        {
+            "Security Name": "Datamatics Global Services Limited",
+            "Yahoo Code": "DATAMATIC.NS"
+        },
+        {
+            "Security Name": "D.B.Corp Limited",
+            "Yahoo Code": "DBCORP.NS"
+        },
+        {
+            "Security Name": "DB (International) Stock Brokers Limited",
+            "Yahoo Code": "DBSTOCKBR.NS"
+        },
+        {
+            "Security Name": "Deccan Chronicle Holdings Limited",
+            "Yahoo Code": "DCHL.NS"
+        },
+        {
+            "Security Name": "DCM Shriram Consolidated Limited",
+            "Yahoo Code": "DCMSRMCON.NS"
+        },
+        {
+            "Security Name": "DCW Limited",
+            "Yahoo Code": "DCW.NS"
+        },
+        {
+            "Security Name": "Deccan Cements Limited",
+            "Yahoo Code": "DECCANCE.NS"
+        },
+        {
+            "Security Name": "Deepak Fertilizers and Petrochemicals Corporation Limited",
+            "Yahoo Code": "DEEPAKFER.NS"
+        },
+        {
+            "Security Name": "Deepak Nitrite Limited",
+            "Yahoo Code": "DEEPAKNTR.NS"
+        },
+        {
+            "Security Name": "Deep Industries Limited",
+            "Yahoo Code": "DEEPIND.NS"
+        },
+        {
+            "Security Name": "Den Networks Limited",
+            "Yahoo Code": "DEN.NS"
+        },
+        {
+            "Security Name": "De Nora India Limited",
+            "Yahoo Code": "DENORA.NS"
+        },
+        {
+            "Security Name": "Denso India Limited",
+            "Yahoo Code": "DENSO.NS"
+        },
+        {
+            "Security Name": "The Dhampur Sugar Mills Limited",
+            "Yahoo Code": "DHAMPURSU.NS"
+        },
+        {
+            "Security Name": "Dhanlaxmi Bank Limited",
+            "Yahoo Code": "DHANBANK.NS"
+        },
+        {
+            "Security Name": "Dhanuka Agritech Limited",
+            "Yahoo Code": "DHANUKA.NS"
+        },
+        {
+            "Security Name": "Dharani Sugars & Chemicals Limited",
+            "Yahoo Code": "DHARSUGAR.NS"
+        },
+        {
+            "Security Name": "Dewan Housing Finance Corporation Limited",
+            "Yahoo Code": "DHFL.NS"
+        },
+        {
+            "Security Name": "Diamond Power Infra Ltd",
+            "Yahoo Code": "DIAPOWER.NS"
+        },
+        {
+            "Security Name": "DIC India Limited",
+            "Yahoo Code": "DICIND.NS"
+        },
+        {
+            "Security Name": "Digjam Limited",
+            "Yahoo Code": "DIGJAM.NS"
+        },
+        {
+            "Security Name": "Dishman Pharmaceuticals and Chemicals Limited",
+            "Yahoo Code": "DISHMAN.NS"
+        },
+        {
+            "Security Name": "D-Link (India) Limited",
+            "Yahoo Code": "DLINKINDI.NS"
+        },
+        {
+            "Security Name": "Dolphin Offshore Enterprises (India) Limited",
+            "Yahoo Code": "DOLPHINOF.NS"
+        },
+        {
+            "Security Name": "Donear Industries Limited",
+            "Yahoo Code": "DONEAR.NS"
+        },
+        {
+            "Security Name": "DPSC Limited",
+            "Yahoo Code": "DPSCLTD.NS"
+        },
+        {
+            "Security Name": "Dhunseri Petrochem & Tea Limited",
+            "Yahoo Code": "DPTL.NS"
+        },
+        {
+            "Security Name": "DQ Entertainment (International) Limited",
+            "Yahoo Code": "DQE.NS"
+        },
+        {
+            "Security Name": "Dredging Corporation of India Limited",
+            "Yahoo Code": "DREDGECOR.NS"
+        },
+        {
+            "Security Name": "DS Kulkarni Developers Limited",
+            "Yahoo Code": "DSKULKARN.NS"
+        },
+        {
+            "Security Name": "Duncans Industries Limited",
+            "Yahoo Code": "DUNCANSIN.NS"
+        },
+        {
+            "Security Name": "Dynamatic Technologies Limited",
+            "Yahoo Code": "DYNAMATEC.NS"
+        },
+        {
+            "Security Name": "Eastern Silk Industries Limited",
+            "Yahoo Code": "EASTSILK.NS"
+        },
+        {
+            "Security Name": "ECE Industries Limited",
+            "Yahoo Code": "ECEIND.NS"
+        },
+        {
+            "Security Name": "Edelweiss Financial Services Limited",
+            "Yahoo Code": "EDELWEISS.NS"
+        },
+        {
+            "Security Name": "Empee Distilleries Limited",
+            "Yahoo Code": "EDL.NS"
+        },
+        {
+            "Security Name": "Eicher Motors Limited",
+            "Yahoo Code": "EICHERMOT.NS"
+        },
+        {
+            "Security Name": "EID Parry India Limited",
+            "Yahoo Code": "EIDPARRY.NS"
+        },
+        {
+            "Security Name": "EIH Associated Hotels Limited",
+            "Yahoo Code": "EIHAHOTEL.NS"
+        },
+        {
+            "Security Name": "EIH Limited",
+            "Yahoo Code": "EIHOTEL.NS"
+        },
+        {
+            "Security Name": "Eimco Elecon (India) Limited",
+            "Yahoo Code": "EIMCOELEC.NS"
+        },
+        {
+            "Security Name": "Everest Kanto Cylinder Limited",
+            "Yahoo Code": "EKC.NS"
+        },
+        {
+            "Security Name": "Elder Pharmaceuticals Limited",
+            "Yahoo Code": "ELDERPHAR.NS"
+        },
+        {
+            "Security Name": "Elecon Engineering Company Limited",
+            "Yahoo Code": "ELECON.NS"
+        },
+        {
+            "Security Name": "Electrosteel Castings Limited",
+            "Yahoo Code": "ELECTCAST.NS"
+        },
+        {
+            "Security Name": "Electrosteel Castings Limited",
+            "Yahoo Code": "ELECTCAST.NS"
+        },
+        {
+            "Security Name": "EL Forge Limited",
+            "Yahoo Code": "ELFORGE.NS"
+        },
+        {
+            "Security Name": "Elgi Equipments Limited",
+            "Yahoo Code": "ELGIEQUIP.NS"
+        },
+        {
+            "Security Name": "Elgi Rubber Company Limited",
+            "Yahoo Code": "ELGIRUBCO.NS"
+        },
+        {
+            "Security Name": "Emami Limited",
+            "Yahoo Code": "EMAMILTD.NS"
+        },
+        {
+            "Security Name": "Emco Limited",
+            "Yahoo Code": "EMCO.NS"
+        },
+        {
+            "Security Name": "Emmbi Polyarns Limited",
+            "Yahoo Code": "EMMBI.NS"
+        },
+        {
+            "Security Name": "Energy Development Company Limited",
+            "Yahoo Code": "ENERGYDEV.NS"
+        },
+        {
+            "Security Name": "Engineers India Limited",
+            "Yahoo Code": "ENGINERSI.NS"
+        },
+        {
+            "Security Name": "Entertainment Network (India) Limited",
+            "Yahoo Code": "ENIL.NS"
+        },
+        {
+            "Security Name": "Eon Electric Limited",
+            "Yahoo Code": "EON.NS"
+        },
+        {
+            "Security Name": "Era Infra Engineering Limited",
+            "Yahoo Code": "ERAINFRA.NS"
+        },
+        {
+            "Security Name": "Eros International Media Limited",
+            "Yahoo Code": "EROSMEDIA.NS"
+        },
+        {
+            "Security Name": "Esab India Limited",
+            "Yahoo Code": "ESABINDIA.NS"
+        },
+        {
+            "Security Name": "Electrosteel Steels Limited",
+            "Yahoo Code": "ESL.NS"
+        },
+        {
+            "Security Name": "Essar Ports Limited",
+            "Yahoo Code": "ESSARPORT.NS"
+        },
+        {
+            "Security Name": "Essar Shipping Limited",
+            "Yahoo Code": "ESSARSHPN.NS"
+        },
+        {
+            "Security Name": "Ess Dee Aluminium Limited",
+            "Yahoo Code": "ESSDEE.NS"
+        },
+        {
+            "Security Name": "Essel Propack Limited",
+            "Yahoo Code": "ESSELPACK.NS"
+        },
+        {
+            "Security Name": "Ester Industries Limited",
+            "Yahoo Code": "ESTER.NS"
+        },
+        {
+            "Security Name": "Euro Multivision Limited",
+            "Yahoo Code": "EUROMULTI.NS"
+        },
+        {
+            "Security Name": "Eurotex Industries and Exports Limited",
+            "Yahoo Code": "EUROTEXIN.NS"
+        },
+        {
+            "Security Name": "Eveready Industries India Limited",
+            "Yahoo Code": "EVEREADY.NS"
+        },
+        {
+            "Security Name": "Everest Industries Limited",
+            "Yahoo Code": "EVERESTIN.NS"
+        },
+        {
+            "Security Name": "Everonn Education Limited",
+            "Yahoo Code": "EVERONN.NS"
+        },
+        {
+            "Security Name": "Excel Crop Care Limited",
+            "Yahoo Code": "EXCELCROP.NS"
+        },
+        {
+            "Security Name": "Excel Industries Limited",
+            "Yahoo Code": "EXCELINDU.NS"
+        },
+        {
+            "Security Name": "Excel Infoways Limited",
+            "Yahoo Code": "EXCELINFO.NS"
+        },
+        {
+            "Security Name": "Fertilizers and Chemicals Travancore Limited",
+            "Yahoo Code": "FACT.NS"
+        },
+        {
+            "Security Name": "FAG Bearings India Limited",
+            "Yahoo Code": "FAGBEARIN.NS"
+        },
+        {
+            "Security Name": "Future Capital Holdings Limited",
+            "Yahoo Code": "FCH.NS"
+        },
+        {
+            "Security Name": "FDC Limited",
+            "Yahoo Code": "FDC.NS"
+        },
+        {
+            "Security Name": "Fedders Lloyd Corporation Limited",
+            "Yahoo Code": "FEDDERLOY.NS"
+        },
+        {
+            "Security Name": "Fiem Industries Limited",
+            "Yahoo Code": "FIEMIND.NS"
+        },
+        {
+            "Security Name": "Filatex India Limited",
+            "Yahoo Code": "FILATEX.NS"
+        },
+        {
+            "Security Name": "Finolex Cables Limited",
+            "Yahoo Code": "FINCABLES.NS"
+        },
+        {
+            "Security Name": "Finolex Industries Limited",
+            "Yahoo Code": "FINPIPE.NS"
+        },
+        {
+            "Security Name": "First Leasing Company of India Limited",
+            "Yahoo Code": "FIRSTLEAS.NS"
+        },
+        {
+            "Security Name": "First Winner Industries Limited",
+            "Yahoo Code": "FIRSTWIN.NS"
+        },
+        {
+            "Security Name": "Fresenius Kabi Oncology Limited",
+            "Yahoo Code": "FKONCO.NS"
+        },
+        {
+            "Security Name": "Flexituff International Limited",
+            "Yahoo Code": "FLEXITUFF.NS"
+        },
+        {
+            "Security Name": "Federal-Mogul Goetze (India) Limited.",
+            "Yahoo Code": "FMGOETZE.NS"
+        },
+        {
+            "Security Name": "Future Market Networks Limited",
+            "Yahoo Code": "FMNL.NS"
+        },
+        {
+            "Security Name": "Foseco India Limited",
+            "Yahoo Code": "FOSECOIND.NS"
+        },
+        {
+            "Security Name": "Four Soft Limited",
+            "Yahoo Code": "FOURSOFT.NS"
+        },
+        {
+            "Security Name": "Firstsource Solutions Limited",
+            "Yahoo Code": "FSL.NS"
+        },
+        {
+            "Security Name": "Future Ventures India Limited",
+            "Yahoo Code": "FUTUREVEN.NS"
+        },
+        {
+            "Security Name": "Gabriel India Limited",
+            "Yahoo Code": "GABRIEL.NS"
+        },
+        {
+            "Security Name": "Gujarat Ambuja Exports Limited",
+            "Yahoo Code": "GAEL.NS"
+        },
+        {
+            "Security Name": "Gyscoal Alloys Limited",
+            "Yahoo Code": "GAL.NS"
+        },
+        {
+            "Security Name": "Gallantt Metal Limited",
+            "Yahoo Code": "GALLANTT.NS"
+        },
+        {
+            "Security Name": "Gallantt Ispat Limited",
+            "Yahoo Code": "GALLISPAT.NS"
+        },
+        {
+            "Security Name": "Gammon Infrastructure Projects Limited",
+            "Yahoo Code": "GAMMNINFR.NS"
+        },
+        {
+            "Security Name": "Gammon India Limited",
+            "Yahoo Code": "GAMMONIND.NS"
+        },
+        {
+            "Security Name": "Gandhi Special Tubes Limited",
+            "Yahoo Code": "GANDHITUB.NS"
+        },
+        {
+            "Security Name": "Ganesh Housing Corporation Limited",
+            "Yahoo Code": "GANESHHOU.NS"
+        },
+        {
+            "Security Name": "Garden Silk Mills Limited",
+            "Yahoo Code": "GARDENSIL.NS"
+        },
+        {
+            "Security Name": "Garware Wall Ropes Limited",
+            "Yahoo Code": "GARWALLRO.NS"
+        },
+        {
+            "Security Name": "GATI Limited",
+            "Yahoo Code": "GATI.NS"
+        },
+        {
+            "Security Name": "Gayatri Projects Limited",
+            "Yahoo Code": "GAYAPROJ.NS"
+        },
+        {
+            "Security Name": "Gateway Distriparks Limited",
+            "Yahoo Code": "GDL.NS"
+        },
+        {
+            "Security Name": "GeeCee Ventures Limited",
+            "Yahoo Code": "GEECEE.NS"
+        },
+        {
+            "Security Name": "GEI Industrial Systems Limited",
+            "Yahoo Code": "GEINDSYS.NS"
+        },
+        {
+            "Security Name": "Gemini Communication Limited",
+            "Yahoo Code": "GEMINI.NS"
+        },
+        {
+            "Security Name": "Genesys International Corporation Limited",
+            "Yahoo Code": "GENESYS.NS"
+        },
+        {
+            "Security Name": "Genus Power Infrastructures Limited",
+            "Yahoo Code": "GENUSPOWE.NS"
+        },
+        {
+            "Security Name": "Geodesic Limited",
+            "Yahoo Code": "GEODESIC.NS"
+        },
+        {
+            "Security Name": "Geojit BNP Paribas Financial Services Limited",
+            "Yahoo Code": "GEOJITBNP.NS"
+        },
+        {
+            "Security Name": "Geometric Limited",
+            "Yahoo Code": "GEOMETRIC.NS"
+        },
+        {
+            "Security Name": "GHCL Limited",
+            "Yahoo Code": "GHCL.NS"
+        },
+        {
+            "Security Name": "GIC Housing Finance Limited",
+            "Yahoo Code": "GICHSGFIN.NS"
+        },
+        {
+            "Security Name": "Gillanders Arbuthnot & Company Limited",
+            "Yahoo Code": "GILLANDER.NS"
+        },
+        {
+            "Security Name": "Gillette India Limited",
+            "Yahoo Code": "GILLETTE.NS"
+        },
+        {
+            "Security Name": "Ginni Filaments Limited",
+            "Yahoo Code": "GINNIFILA.NS"
+        },
+        {
+            "Security Name": "Gujarat Industries Power Company Limited",
+            "Yahoo Code": "GIPCL.NS"
+        },
+        {
+            "Security Name": "Gitanjali Gems Limited",
+            "Yahoo Code": "GITANJALI.NS"
+        },
+        {
+            "Security Name": "Glenmark Pharmaceuticals Limited",
+            "Yahoo Code": "GLENMARK.NS"
+        },
+        {
+            "Security Name": "Global Vectra Helicorp Limited",
+            "Yahoo Code": "GLOBALVEC.NS"
+        },
+        {
+            "Security Name": "Global Offshore Services Limited",
+            "Yahoo Code": "GLOBOFFS.NS"
+        },
+        {
+            "Security Name": "Globus Spirits Limited",
+            "Yahoo Code": "GLOBUSSPR.NS"
+        },
+        {
+            "Security Name": "Glodyne Technoserve Limited",
+            "Yahoo Code": "GLODYNE.NS"
+        },
+        {
+            "Security Name": "Glory Polyfilms Limited",
+            "Yahoo Code": "GLORY.NS"
+        },
+        {
+            "Security Name": "GM Breweries Limited",
+            "Yahoo Code": "GMBREW.NS"
+        },
+        {
+            "Security Name": "Gujarat Narmada Valley Fertilizer Company Limited",
+            "Yahoo Code": "GNFC.NS"
+        },
+        {
+            "Security Name": "Goa Carbon Limited",
+            "Yahoo Code": "GOACARBON.NS"
+        },
+        {
+            "Security Name": "Godfrey Phillips India Limited",
+            "Yahoo Code": "GODFRYPHL.NS"
+        },
+        {
+            "Security Name": "Godrej Consumer Products Limited",
+            "Yahoo Code": "GODREJCP.NS"
+        },
+        {
+            "Security Name": "Godrej Properties Limited",
+            "Yahoo Code": "GODREJPRO.NS"
+        },
+        {
+            "Security Name": "Goenka Diamond and Jewels Limited",
+            "Yahoo Code": "GOENKA.NS"
+        },
+        {
+            "Security Name": "Gokaldas Exports Limited",
+            "Yahoo Code": "GOKEX.NS"
+        },
+        {
+            "Security Name": "Gokul Refoils and Solvent Limited",
+            "Yahoo Code": "GOKUL.NS"
+        },
+        {
+            "Security Name": "Benchmark Mutual Fund - Gold Benchmark Exchange Traded Scheme",
+            "Yahoo Code": "GOLDBEES.NS"
+        },
+        {
+            "Security Name": "Goldiam International Limited",
+            "Yahoo Code": "GOLDIAM.NS"
+        },
+        {
+            "Security Name": "Goldstone Infratech Limited",
+            "Yahoo Code": "GOLDINFRA.NS"
+        },
+        {
+            "Security Name": "UTI Mutual Fund - UTI Gold Exchange Traded Fund",
+            "Yahoo Code": "GOLDSHARE.NS"
+        },
+        {
+            "Security Name": "Goldstone Technologies Limited",
+            "Yahoo Code": "GOLDTECH.NS"
+        },
+        {
+            "Security Name": "Godawari Power And Ispat limited",
+            "Yahoo Code": "GPIL.NS"
+        },
+        {
+            "Security Name": "Gujarat Pipavav Port Limited",
+            "Yahoo Code": "GPPL.NS"
+        },
+        {
+            "Security Name": "Granules India Limited",
+            "Yahoo Code": "GRANULES.NS"
+        },
+        {
+            "Security Name": "Graphite India Limited",
+            "Yahoo Code": "GRAPHITE.NS"
+        },
+        {
+            "Security Name": "Gravita India Limited",
+            "Yahoo Code": "GRAVITA.NS"
+        },
+        {
+            "Security Name": "Greaves Cotton Limited",
+            "Yahoo Code": "GREAVESCO.NS"
+        },
+        {
+            "Security Name": "Greenply Industries Limited",
+            "Yahoo Code": "GREENPLY.NS"
+        },
+        {
+            "Security Name": "Orient Green Power Company Limited",
+            "Yahoo Code": "GREENPOWE.NS"
+        },
+        {
+            "Security Name": "Grindwell Norton Limited",
+            "Yahoo Code": "GRINDWELL.NS"
+        },
+        {
+            "Security Name": "Gruh Finance Limited",
+            "Yahoo Code": "GRUH.NS"
+        },
+        {
+            "Security Name": "Gujarat State Fertilizers & Chemicals Limited",
+            "Yahoo Code": "GSFC.NS"
+        },
+        {
+            "Security Name": "GlaxoSmithKline Consumer Healthcare Limited",
+            "Yahoo Code": "GSKCONS.NS"
+        },
+        {
+            "Security Name": "GSL Nova Petrochemicals Limited",
+            "Yahoo Code": "GSLNOVA.NS"
+        },
+        {
+            "Security Name": "GSS Infotech Limited",
+            "Yahoo Code": "GSS.NS"
+        },
+        {
+            "Security Name": "GTL Limited",
+            "Yahoo Code": "GTL.NS"
+        },
+        {
+            "Security Name": "GTL Infrastructure Limited",
+            "Yahoo Code": "GTLINFRA.NS"
+        },
+        {
+            "Security Name": "Great Offshore Limited",
+            "Yahoo Code": "GTOFFSHOR.NS"
+        },
+        {
+            "Security Name": "Gujarat Alkalies and Chemicals Limited",
+            "Yahoo Code": "GUJALKALI.NS"
+        },
+        {
+            "Security Name": "Gujarat Apollo Industries Limited",
+            "Yahoo Code": "GUJAPOLLO.NS"
+        },
+        {
+            "Security Name": "Gujarat NRE Coke Limited",
+            "Yahoo Code": "GUJNRECOK.NS"
+        },
+        {
+            "Security Name": "Gujarat NRE Coke Limited",
+            "Yahoo Code": "GUJNRECOK.NS"
+        },
+        {
+            "Security Name": "Gujarat NRE Coke Limited",
+            "Yahoo Code": "GUJNREDVR.NS"
+        },
+        {
+            "Security Name": "Gujarat Gas Company Limited",
+            "Yahoo Code": "GUJRATGAS.NS"
+        },
+        {
+            "Security Name": "Gujarat Sidhee Cements Limited",
+            "Yahoo Code": "GUJSIDHCE.NS"
+        },
+        {
+            "Security Name": "Gulf Oil Corporation Limited",
+            "Yahoo Code": "GULFOILCO.NS"
+        },
+        {
+            "Security Name": "Hanung Toys and Textiles Limited",
+            "Yahoo Code": "HANUNG.NS"
+        },
+        {
+            "Security Name": "Harita Seating Systems Limited",
+            "Yahoo Code": "HARITASEA.NS"
+        },
+        {
+            "Security Name": "Harrisons Malayalam Limited",
+            "Yahoo Code": "HARRMALAY.NS"
+        },
+        {
+            "Security Name": "Hathway Cable & Datacom Limited",
+            "Yahoo Code": "HATHWAY.NS"
+        },
+        {
+            "Security Name": "Himadri Chemicals and Industries Limited",
+            "Yahoo Code": "HCIL.NS"
+        },
+        {
+            "Security Name": "Housing Development Finance Corporation Limited",
+            "Yahoo Code": "HDFC.NS"
+        },
+        {
+            "Security Name": "HDFC Mutual Fund-HDFC Gold Exchange Traded Fund",
+            "Yahoo Code": "HDFCMFGET.NS"
+        },
+        {
+            "Security Name": "HEG Limited",
+            "Yahoo Code": "HEG.NS"
+        },
+        {
+            "Security Name": "HeidelbergCement India Limited",
+            "Yahoo Code": "HEIDELBER.NS"
+        },
+        {
+            "Security Name": "Helios And Matheson Information Technology Limited",
+            "Yahoo Code": "HELIOSMAT.NS"
+        },
+        {
+            "Security Name": "Hercules Hoists Limited",
+            "Yahoo Code": "HERCULES.NS"
+        },
+        {
+            "Security Name": "Heritage Foods (India) Limited",
+            "Yahoo Code": "HERITGFOO.NS"
+        },
+        {
+            "Security Name": "Himachal Futuristic Communications Limited",
+            "Yahoo Code": "HFCL.NS"
+        },
+        {
+            "Security Name": "Hinduja Global Solutions Limited",
+            "Yahoo Code": "HGS.NS"
+        },
+        {
+            "Security Name": "Hikal Limited",
+            "Yahoo Code": "HIKAL.NS"
+        },
+        {
+            "Security Name": "Himatsingka Seide Limited",
+            "Yahoo Code": "HIMATSEID.NS"
+        },
+        {
+            "Security Name": "Hindustan Composites Limited",
+            "Yahoo Code": "HINDCOMPO.NS"
+        },
+        {
+            "Security Name": "Hindustan Copper Limited",
+            "Yahoo Code": "HINDCOPPE.NS"
+        },
+        {
+            "Security Name": "Hindusthan National Glass & Industries Limited",
+            "Yahoo Code": "HINDNATGL.NS"
+        },
+        {
+            "Security Name": "Hinduja Foundries Limited",
+            "Yahoo Code": "HINDUJAFO.NS"
+        },
+        {
+            "Security Name": "Hinduja Ventures Limited",
+            "Yahoo Code": "HINDUJAVE.NS"
+        },
+        {
+            "Security Name": "Hira Ferro Alloys Limited",
+            "Yahoo Code": "HIRAFERRO.NS"
+        },
+        {
+            "Security Name": "Hind Rectifiers Limited",
+            "Yahoo Code": "HIRECT.NS"
+        },
+        {
+            "Security Name": "Hi-Tech Gears Limited",
+            "Yahoo Code": "HITECHGEA.NS"
+        },
+        {
+            "Security Name": "Hitech Plast Limited",
+            "Yahoo Code": "HITECHPLA.NS"
+        },
+        {
+            "Security Name": "HMT Limited",
+            "Yahoo Code": "HMT.NS"
+        },
+        {
+            "Security Name": "Hindustan Media Ventures Limited",
+            "Yahoo Code": "HMVL.NS"
+        },
+        {
+            "Security Name": "Benchmark Mutual Fund - Hang Seng Benchmark Exchange Traded Scheme",
+            "Yahoo Code": "HNGSNGBEE.NS"
+        },
+        {
+            "Security Name": "Hindustan Organic Chemicals Limited",
+            "Yahoo Code": "HOCL.NS"
+        },
+        {
+            "Security Name": "Honeywell Automation India Limited",
+            "Yahoo Code": "HONAUT.NS"
+        },
+        {
+            "Security Name": "Honda Siel Power Products Limited",
+            "Yahoo Code": "HONDAPOWE.NS"
+        },
+        {
+            "Security Name": "Horizon Infrastructure Limited",
+            "Yahoo Code": "HORIZONIN.NS"
+        },
+        {
+            "Security Name": "Hotel Leela Venture Limited",
+            "Yahoo Code": "HOTELEELA.NS"
+        },
+        {
+            "Security Name": "HOV Services Limited",
+            "Yahoo Code": "HOVS.NS"
+        },
+        {
+            "Security Name": "HSIL Limited",
+            "Yahoo Code": "HSIL.NS"
+        },
+        {
+            "Security Name": "HT Media Limited",
+            "Yahoo Code": "HTMEDIA.NS"
+        },
+        {
+            "Security Name": "Hubtown Limited",
+            "Yahoo Code": "HUBTOWN.NS"
+        },
+        {
+            "Security Name": "Hyderabad Industries Limited",
+            "Yahoo Code": "HYDRBADIN.NS"
+        },
+        {
+            "Security Name": "Hydro S & S Industries Limited",
+            "Yahoo Code": "HYDROS&S.NS"
+        },
+        {
+            "Security Name": "Indiabulls Power Limited",
+            "Yahoo Code": "IBPOW.NS"
+        },
+        {
+            "Security Name": "ICRA Limited",
+            "Yahoo Code": "ICRA.NS"
+        },
+        {
+            "Security Name": "ICSA (India) Limited",
+            "Yahoo Code": "ICSA.NS"
+        },
+        {
+            "Security Name": "IDBI Mutual Fund - IDBI Gold Exchange Traded Fund",
+            "Yahoo Code": "IDBIGOLD.NS"
+        },
+        {
+            "Security Name": "IFB Industries Limited",
+            "Yahoo Code": "IFBIND.NS"
+        },
+        {
+            "Security Name": "IFGL Refractories Limited",
+            "Yahoo Code": "IFGLREFRA.NS"
+        },
+        {
+            "Security Name": "Igarashi Motors India Limited",
+            "Yahoo Code": "IGARASHI.NS"
+        },
+        {
+            "Security Name": "IIFL Mutual Fund - IIFL NIFTY ETF",
+            "Yahoo Code": "IIFLNIFTY.NS"
+        },
+        {
+            "Security Name": "IL&FS Engineering and Construction Company Limited",
+            "Yahoo Code": "IL&FSENGG.NS"
+        },
+        {
+            "Security Name": "IL&FS Transportation Networks Limited",
+            "Yahoo Code": "IL&FSTRAN.NS"
+        },
+        {
+            "Security Name": "Indian Metals & Ferro Alloys Limited",
+            "Yahoo Code": "IMFA.NS"
+        },
+        {
+            "Security Name": "India Motor Parts and Accessories Limited",
+            "Yahoo Code": "IMPAL.NS"
+        },
+        {
+            "Security Name": "Indbank Merchant Banking Services Limited",
+            "Yahoo Code": "INDBANK.NS"
+        },
+        {
+            "Security Name": "Indiabulls Financial Services Limited",
+            "Yahoo Code": "INDIABULL.NS"
+        },
+        {
+            "Security Name": "Indiabulls Financial Services Limited",
+            "Yahoo Code": "INDIABULL.NS"
+        },
+        {
+            "Security Name": "India Glycols Limited",
+            "Yahoo Code": "INDIAGLYC.NS"
+        },
+        {
+            "Security Name": "Indian Hume Pipe Company Limited",
+            "Yahoo Code": "INDIANHUM.NS"
+        },
+        {
+            "Security Name": "IMP Powers Limited",
+            "Yahoo Code": "INDLMETER.NS"
+        },
+        {
+            "Security Name": "India Nippon Electricals Limited",
+            "Yahoo Code": "INDNIPPON.NS"
+        },
+        {
+            "Security Name": "Indoco Remedies Limited",
+            "Yahoo Code": "INDOCO.NS"
+        },
+        {
+            "Security Name": "Indo Rama Synthetics (India) Limited",
+            "Yahoo Code": "INDORAMA.NS"
+        },
+        {
+            "Security Name": "Indo Tech Transformers Limited",
+            "Yahoo Code": "INDOTECH.NS"
+        },
+        {
+            "Security Name": "Indo Thai Securities Limited",
+            "Yahoo Code": "INDOTHAI.NS"
+        },
+        {
+            "Security Name": "Indowind Energy Limited",
+            "Yahoo Code": "INDOWIND.NS"
+        },
+        {
+            "Security Name": "Indraprastha Medical Corporation Limited",
+            "Yahoo Code": "INDRAMEDC.NS"
+        },
+        {
+            "Security Name": "Ind-Swift Laboratories Limited",
+            "Yahoo Code": "INDSWFTLA.NS"
+        },
+        {
+            "Security Name": "Ind-Swift Limited",
+            "Yahoo Code": "INDSWFTLT.NS"
+        },
+        {
+            "Security Name": "Indian Terrain Fashions Limited",
+            "Yahoo Code": "INDTERRAI.NS"
+        },
+        {
+            "Security Name": "Indus Fila Limited",
+            "Yahoo Code": "INDUSFILA.NS"
+        },
+        {
+            "Security Name": "Infomedia 18 Limited",
+            "Yahoo Code": "INFOMEDIA.NS"
+        },
+        {
+            "Security Name": "Infotech Enterprises Limited",
+            "Yahoo Code": "INFOTECEN.NS"
+        },
+        {
+            "Security Name": "Benchmark Mutual Fund- Infrastructure Benchmark Exchange Traded Scheme",
+            "Yahoo Code": "INFRABEES.NS"
+        },
+        {
+            "Security Name": "Ingersoll Rand (India) Limited",
+            "Yahoo Code": "INGERRAND.NS"
+        },
+        {
+            "Security Name": "ING Vysya Bank Limited",
+            "Yahoo Code": "INGVYSYAB.NS"
+        },
+        {
+            "Security Name": "Innoventive Industries Limited",
+            "Yahoo Code": "INNOIND.NS"
+        },
+        {
+            "Security Name": "INOX Leisure Limited",
+            "Yahoo Code": "INOXLEISU.NS"
+        },
+        {
+            "Security Name": "Insecticides (India) Limited",
+            "Yahoo Code": "INSECTICI.NS"
+        },
+        {
+            "Security Name": "IOL Chemicals and Pharmaceuticals Limited",
+            "Yahoo Code": "IOLCP.NS"
+        },
+        {
+            "Security Name": "IPCA Laboratories Limited",
+            "Yahoo Code": "IPCALAB.NS"
+        },
+        {
+            "Security Name": "ICICI Prudential Mutual Fund - ICICI Prudential Gold ETF",
+            "Yahoo Code": "IPGETF.NS"
+        },
+        {
+            "Security Name": "IP Rings Limited",
+            "Yahoo Code": "IPRINGLTD.NS"
+        },
+        {
+            "Security Name": "Intrasoft Technologies Limited",
+            "Yahoo Code": "ISFT.NS"
+        },
+        {
+            "Security Name": "ISMT Limited",
+            "Yahoo Code": "ISMTLTD.NS"
+        },
+        {
+            "Security Name": "ITD Cementation India Limited",
+            "Yahoo Code": "ITDCEM.NS"
+        },
+        {
+            "Security Name": "ITI Limited",
+            "Yahoo Code": "ITI.NS"
+        },
+        {
+            "Security Name": "IL&FS Investment Managers Limited",
+            "Yahoo Code": "IVC.NS"
+        },
+        {
+            "Security Name": "The Jammu & Kashmir Bank Limited",
+            "Yahoo Code": "J&KBANK.NS"
+        },
+        {
+            "Security Name": "Jagran Prakashan Limited",
+            "Yahoo Code": "JAGRAN.NS"
+        },
+        {
+            "Security Name": "Jagsonpal Pharmaceuticals Limited",
+            "Yahoo Code": "JAGSNPHAR.NS"
+        },
+        {
+            "Security Name": "Jai Corp Limited",
+            "Yahoo Code": "JAICORPLT.NS"
+        },
+        {
+            "Security Name": "Jaihind Projects Limited",
+            "Yahoo Code": "JAIHINDPR.NS"
+        },
+        {
+            "Security Name": "Jamna Auto Industries Limited",
+            "Yahoo Code": "JAMNAAUTO.NS"
+        },
+        {
+            "Security Name": "Jayant Agro Organics Limited",
+            "Yahoo Code": "JAYAGROGN.NS"
+        },
+        {
+            "Security Name": "Jay Bharat Maruti Limited",
+            "Yahoo Code": "JAYBARMAR.NS"
+        },
+        {
+            "Security Name": "Jayaswal Neco Industries Limited",
+            "Yahoo Code": "JAYNECOIN.NS"
+        },
+        {
+            "Security Name": "Jayshree Tea & Industries Limited",
+            "Yahoo Code": "JAYSREETE.NS"
+        },
+        {
+            "Security Name": "JB Chemicals & Pharmaceuticals Limited",
+            "Yahoo Code": "JBCHEPHAR.NS"
+        },
+        {
+            "Security Name": "JBF Industries Limited",
+            "Yahoo Code": "JBFIND.NS"
+        },
+        {
+            "Security Name": "JBM Auto Limited",
+            "Yahoo Code": "JBMA.NS"
+        },
+        {
+            "Security Name": "Jenson & Nicholson (India) Limited",
+            "Yahoo Code": "JENSONICO.NS"
+        },
+        {
+            "Security Name": "JHS Svendgaard Laboratories Limited",
+            "Yahoo Code": "JHS.NS"
+        },
+        {
+            "Security Name": "Jindal Photo Limited",
+            "Yahoo Code": "JINDALPHO.NS"
+        },
+        {
+            "Security Name": "Jindal Poly Films Limited",
+            "Yahoo Code": "JINDALPOL.NS"
+        },
+        {
+            "Security Name": "Jindal South West Holdings Limited",
+            "Yahoo Code": "JINDALSWH.NS"
+        },
+        {
+            "Security Name": "Jindal Cotex Limited",
+            "Yahoo Code": "JINDCOT.NS"
+        },
+        {
+            "Security Name": "Jindal Drilling And Industries Limited",
+            "Yahoo Code": "JINDRILL.NS"
+        },
+        {
+            "Security Name": "Jain Irrigation Systems Limited",
+            "Yahoo Code": "JISLDVREQ.NS"
+        },
+        {
+            "Security Name": "JK Cement Limited",
+            "Yahoo Code": "JKCEMENT.NS"
+        },
+        {
+            "Security Name": "J.Kumar Infraprojects Limited",
+            "Yahoo Code": "JKIL.NS"
+        },
+        {
+            "Security Name": "JK Lakshmi Cement Limited",
+            "Yahoo Code": "JKLAKSHMI.NS"
+        },
+        {
+            "Security Name": "JK Paper Limited",
+            "Yahoo Code": "JKPAPER.NS"
+        },
+        {
+            "Security Name": "JK Tyre & Industries Limited",
+            "Yahoo Code": "JKTYRE.NS"
+        },
+        {
+            "Security Name": "JMC Projects (India) Limited",
+            "Yahoo Code": "JMCPROJEC.NS"
+        },
+        {
+            "Security Name": "JM Financial Limited",
+            "Yahoo Code": "JMFINANCI.NS"
+        },
+        {
+            "Security Name": "JMT Auto Limited",
+            "Yahoo Code": "JMTAUTOLT.NS"
+        },
+        {
+            "Security Name": "Jocil Limited",
+            "Yahoo Code": "JOCIL.NS"
+        },
+        {
+            "Security Name": "Jaypee Infratech Limited",
+            "Yahoo Code": "JPINFRATE.NS"
+        },
+        {
+            "Security Name": "Jindal Stainless Limited",
+            "Yahoo Code": "JSL.NS"
+        },
+        {
+            "Security Name": "Jubilant Life Sciences Limited",
+            "Yahoo Code": "JUBILANT.NS"
+        },
+        {
+            "Security Name": "Jubilant Industries Limited",
+            "Yahoo Code": "JUBLINDS.NS"
+        },
+        {
+            "Security Name": "Benchmark Mutual Fund-Nifty Junior Benchmark ETF",
+            "Yahoo Code": "JUNIORBEE.NS"
+        },
+        {
+            "Security Name": "JVL Agro Industries Limited",
+            "Yahoo Code": "JVLAGRO.NS"
+        },
+        {
+            "Security Name": "Jyothy Laboratories Limited",
+            "Yahoo Code": "JYOTHYLAB.NS"
+        },
+        {
+            "Security Name": "Jyoti Structures Limited",
+            "Yahoo Code": "JYOTISTRU.NS"
+        },
+        {
+            "Security Name": "Jyoti Structures Limited",
+            "Yahoo Code": "JYOTISTRU.NS"
+        },
+        {
+            "Security Name": "Kabra Extrusion Technik Limited",
+            "Yahoo Code": "KABRAEXTR.NS"
+        },
+        {
+            "Security Name": "Kajaria Ceramics Limited",
+            "Yahoo Code": "KAJARIACE.NS"
+        },
+        {
+            "Security Name": "Kale Consultants Limited",
+            "Yahoo Code": "KALECONSU.NS"
+        },
+        {
+            "Security Name": "Kalindee Rail Nirman (Engineers) Limited",
+            "Yahoo Code": "KALINDEE.NS"
+        },
+        {
+            "Security Name": "Kalpataru Power Transmission Limited",
+            "Yahoo Code": "KALPATPOW.NS"
+        },
+        {
+            "Security Name": "Kamat Hotels (I) Limited",
+            "Yahoo Code": "KAMATHOTE.NS"
+        },
+        {
+            "Security Name": "Kanoria Chemicals & Industries Limited",
+            "Yahoo Code": "KANORICHE.NS"
+        },
+        {
+            "Security Name": "Kansai Nerolac Paints Limited",
+            "Yahoo Code": "KANSAINER.NS"
+        },
+        {
+            "Security Name": "Karur Vysya Bank Limited",
+            "Yahoo Code": "KARURVYSY.NS"
+        },
+        {
+            "Security Name": "Kavveri Telecom Products Limited",
+            "Yahoo Code": "KAVVERITE.NS"
+        },
+        {
+            "Security Name": "Kirloskar Brothers Investments Limited",
+            "Yahoo Code": "KBIL.NS"
+        },
+        {
+            "Security Name": "KCP Limited",
+            "Yahoo Code": "KCP.NS"
+        },
+        {
+            "Security Name": "KCP Sugar and Industries Corporation Limited",
+            "Yahoo Code": "KCPSUGIND.NS"
+        },
+        {
+            "Security Name": "KEC International Limited",
+            "Yahoo Code": "KEC.NS"
+        },
+        {
+            "Security Name": "Kirloskar Electric Company Limited",
+            "Yahoo Code": "KECL.NS"
+        },
+        {
+            "Security Name": "KEI Industries Limited",
+            "Yahoo Code": "KEI.NS"
+        },
+        {
+            "Security Name": "Kemrock Industries and Exports Limited",
+            "Yahoo Code": "KEMROCK.NS"
+        },
+        {
+            "Security Name": "Kernex Microsystems (India) Limited",
+            "Yahoo Code": "KERNEX.NS"
+        },
+        {
+            "Security Name": "Kesoram Industries Limited",
+            "Yahoo Code": "KESORAMIN.NS"
+        },
+        {
+            "Security Name": "Kingfisher Airlines Limited",
+            "Yahoo Code": "KFA.NS"
+        },
+        {
+            "Security Name": "Karuturi Global Limited",
+            "Yahoo Code": "KGL.NS"
+        },
+        {
+            "Security Name": "Khaitan Electricals Limited",
+            "Yahoo Code": "KHAITANEL.NS"
+        },
+        {
+            "Security Name": "Kalyani Investment Company Limited",
+            "Yahoo Code": "KICL.NS"
+        },
+        {
+            "Security Name": "Kamdhenu Ispat Limited",
+            "Yahoo Code": "KIL.NS"
+        },
+        {
+            "Security Name": "Kilitch Drugs (India) Limited",
+            "Yahoo Code": "KILITCH.NS"
+        },
+        {
+            "Security Name": "Kinetic Motor Company Limited",
+            "Yahoo Code": "KINETICMO.NS"
+        },
+        {
+            "Security Name": "Kirloskar Brothers Limited",
+            "Yahoo Code": "KIRLOSBRO.NS"
+        },
+        {
+            "Security Name": "Kirloskar Oil Engines Limited",
+            "Yahoo Code": "KIRLOSENG.NS"
+        },
+        {
+            "Security Name": "Kirloskar Industries Limited",
+            "Yahoo Code": "KIRLOSIND.NS"
+        },
+        {
+            "Security Name": "Kewal Kiran Clothing Limited",
+            "Yahoo Code": "KKCL.NS"
+        },
+        {
+            "Security Name": "K.M.Sugar Mills Limited",
+            "Yahoo Code": "KMSUGAR.NS"
+        },
+        {
+            "Security Name": "KNR Constructions Limited",
+            "Yahoo Code": "KNRCON.NS"
+        },
+        {
+            "Security Name": "Kohinoor Foods Limited",
+            "Yahoo Code": "KOHINOOR.NS"
+        },
+        {
+            "Security Name": "Kokuyo Camlin Limited",
+            "Yahoo Code": "KOKUYOCML.NS"
+        },
+        {
+            "Security Name": "Kolte - Patil Developers Limited",
+            "Yahoo Code": "KOLTEPATI.NS"
+        },
+        {
+            "Security Name": "Kopran Limited",
+            "Yahoo Code": "KOPRAN.NS"
+        },
+        {
+            "Security Name": "Kotak Mutual Fund - Gold Exchange Traded Fund",
+            "Yahoo Code": "KOTAKGOLD.NS"
+        },
+        {
+            "Security Name": "Kotak Mahindra Mutual Fund-Kotak Nifty ETF",
+            "Yahoo Code": "KOTAKNIFT.NS"
+        },
+        {
+            "Security Name": "Kotak Mahindra Mutual Fund ",
+            "Yahoo Code": "KOTAKPSUB.NS"
+        },
+        {
+            "Security Name": "Kothari Petrochemicals Limited",
+            "Yahoo Code": "KOTHARIPE.NS"
+        },
+        {
+            "Security Name": "Kothari Products Limited",
+            "Yahoo Code": "KOTHARIPR.NS"
+        },
+        {
+            "Security Name": "Koutons Retail India Limited",
+            "Yahoo Code": "KOUTONS.NS"
+        },
+        {
+            "Security Name": "KPIT Cummins Infosystems Limited",
+            "Yahoo Code": "KPIT.NS"
+        },
+        {
+            "Security Name": "K.P.R. Mill Limited",
+            "Yahoo Code": "KPRMILL.NS"
+        },
+        {
+            "Security Name": "KRBL Limited",
+            "Yahoo Code": "KRBL.NS"
+        },
+        {
+            "Security Name": "KSB Pumps Limited",
+            "Yahoo Code": "KSBPUMPS.NS"
+        },
+        {
+            "Security Name": "Kaveri Seed Company Limited",
+            "Yahoo Code": "KSCL.NS"
+        },
+        {
+            "Security Name": "KSE Limited",
+            "Yahoo Code": "KSE.NS"
+        },
+        {
+            "Security Name": "K Sera Sera Limited",
+            "Yahoo Code": "KSERASERA.NS"
+        },
+        {
+            "Security Name": "Kalyani Steels Limited",
+            "Yahoo Code": "KSL.NS"
+        },
+        {
+            "Security Name": "K S Oils Limited",
+            "Yahoo Code": "KSOILS.NS"
+        },
+        {
+            "Security Name": "Kwality Dairy (India) Limited",
+            "Yahoo Code": "KWALITY.NS"
+        },
+        {
+            "Security Name": "L&T Finance Holdings Limited",
+            "Yahoo Code": "L&TFH.NS"
+        },
+        {
+            "Security Name": "Lakshmi Precision Screws Limited",
+            "Yahoo Code": "LAKPRE.NS"
+        },
+        {
+            "Security Name": "Lakshmi Energy and Foods Limited",
+            "Yahoo Code": "LAKSHMIEF.NS"
+        },
+        {
+            "Security Name": "The Lakshmi Mills Company Limited",
+            "Yahoo Code": "LAKSHMIMI.NS"
+        },
+        {
+            "Security Name": "Lakshmi Vilas Bank Limited",
+            "Yahoo Code": "LAKSHVILA.NS"
+        },
+        {
+            "Security Name": "Lanco Industries Limited",
+            "Yahoo Code": "LANCOIN.NS"
+        },
+        {
+            "Security Name": "La Opala RG Limited",
+            "Yahoo Code": "LAOPALA.NS"
+        },
+        {
+            "Security Name": "Lakshmi Machine Works Limited",
+            "Yahoo Code": "LAXMIMACH.NS"
+        },
+        {
+            "Security Name": "LCC Infotech Limited",
+            "Yahoo Code": "LCCINFOTE.NS"
+        },
+        {
+            "Security Name": "LG Balakrishnan & Bros Limited",
+            "Yahoo Code": "LGBBROSLT.NS"
+        },
+        {
+            "Security Name": "LGB Forge Limited",
+            "Yahoo Code": "LGBFORGE.NS"
+        },
+        {
+            "Security Name": "Lloyd Electric & Engineering Limited",
+            "Yahoo Code": "LLOYDELEN.NS"
+        },
+        {
+            "Security Name": "Lloyds Finance Limited",
+            "Yahoo Code": "LLOYDFIN.NS"
+        },
+        {
+            "Security Name": "LML Limited",
+            "Yahoo Code": "LML.NS"
+        },
+        {
+            "Security Name": "Logix Microsystems Limited",
+            "Yahoo Code": "LOGIXMICR.NS"
+        },
+        {
+            "Security Name": "Lokesh Machines Limited",
+            "Yahoo Code": "LOKESHMAC.NS"
+        },
+        {
+            "Security Name": "Lotus Eye Care Hospital Limited",
+            "Yahoo Code": "LOTUSEYE.NS"
+        },
+        {
+            "Security Name": "Lovable Lingerie Limited",
+            "Yahoo Code": "LOVABLE.NS"
+        },
+        {
+            "Security Name": "Landmark Property Development Company Limited",
+            "Yahoo Code": "LPDC.NS"
+        },
+        {
+            "Security Name": "Lumax Industries Limited",
+            "Yahoo Code": "LUMAXIND.NS"
+        },
+        {
+            "Security Name": "Lumax Auto Technologies Limited",
+            "Yahoo Code": "LUMAXTECH.NS"
+        },
+        {
+            "Security Name": "Mahindra & Mahindra Financial Services Limited",
+            "Yahoo Code": "M&MFIN.NS"
+        },
+        {
+            "Security Name": "Motilal Oswal Mutual Fund - Motilal Oswal MOSt Shares M100 ETF GO",
+            "Yahoo Code": "M100.NS"
+        },
+        {
+            "Security Name": "Motilal Oswal Mutual Fund - Motilal Oswal MOSt Shares M50 ETF",
+            "Yahoo Code": "M50.NS"
+        },
+        {
+            "Security Name": "Madhav Marbles and Granites Limited",
+            "Yahoo Code": "MADHAV.NS"
+        },
+        {
+            "Security Name": "Madhucon Projects Limited",
+            "Yahoo Code": "MADHUCON.NS"
+        },
+        {
+            "Security Name": "Madras Cements Limited",
+            "Yahoo Code": "MADRASCEM.NS"
+        },
+        {
+            "Security Name": "Madras Fertilizers Limited",
+            "Yahoo Code": "MADRASFER.NS"
+        },
+        {
+            "Security Name": "Magma Fincorp Limited",
+            "Yahoo Code": "MAGMA.NS"
+        },
+        {
+            "Security Name": "Magnum Ventures Limited",
+            "Yahoo Code": "MAGNUM.NS"
+        },
+        {
+            "Security Name": "Bank of Maharashtra",
+            "Yahoo Code": "MAHABANK.NS"
+        },
+        {
+            "Security Name": "Mahindra Forgings Limited",
+            "Yahoo Code": "MAHINDFOR.NS"
+        },
+        {
+            "Security Name": "Mahindra Ugine Steel Company Limited",
+            "Yahoo Code": "MAHINDUGI.NS"
+        },
+        {
+            "Security Name": "Mahindra Lifespace Developers Limited",
+            "Yahoo Code": "MAHLIFE.NS"
+        },
+        {
+            "Security Name": "Maharashtra Scooters Limited",
+            "Yahoo Code": "MAHSCOOTE.NS"
+        },
+        {
+            "Security Name": "Maharashtra Seamless Limited",
+            "Yahoo Code": "MAHSEAMLE.NS"
+        },
+        {
+            "Security Name": "Manaksia Limited",
+            "Yahoo Code": "MANAKSIA.NS"
+        },
+        {
+            "Security Name": "Manali Petrochemicals Limited",
+            "Yahoo Code": "MANALIPET.NS"
+        },
+        {
+            "Security Name": "Mandhana Industries Limited",
+            "Yahoo Code": "MANDHANA.NS"
+        },
+        {
+            "Security Name": "Mangalam Drugs And Organics Limited",
+            "Yahoo Code": "MANGALAM.NS"
+        },
+        {
+            "Security Name": "Mangalore Chemicals & Fertilizers Limited",
+            "Yahoo Code": "MANGCHEFE.NS"
+        },
+        {
+            "Security Name": "Mangalam Timber Products Limited",
+            "Yahoo Code": "MANGTIMBE.NS"
+        },
+        {
+            "Security Name": "Man Industries (India) Limited",
+            "Yahoo Code": "MANINDS.NS"
+        },
+        {
+            "Security Name": "Man Infraconstruction Limited",
+            "Yahoo Code": "MANINFRA.NS"
+        },
+        {
+            "Security Name": "Manjeera Constructions Limited",
+            "Yahoo Code": "MANJEERA.NS"
+        },
+        {
+            "Security Name": "Manjushree Technopack Limited",
+            "Yahoo Code": "MANJUSHRE.NS"
+        },
+        {
+            "Security Name": "Manugraph India Limited",
+            "Yahoo Code": "MANUGRAPH.NS"
+        },
+        {
+            "Security Name": "Marg Limited",
+            "Yahoo Code": "MARG.NS"
+        },
+        {
+            "Security Name": "Marico Limited",
+            "Yahoo Code": "MARICO.NS"
+        },
+        {
+            "Security Name": "Mastek Limited",
+            "Yahoo Code": "MASTEK.NS"
+        },
+        {
+            "Security Name": "Maxwell Industries Limited",
+            "Yahoo Code": "MAXWELL.NS"
+        },
+        {
+            "Security Name": "Mcnally Bharat Engineering Company Limited",
+            "Yahoo Code": "MBECL.NS"
+        },
+        {
+            "Security Name": "MBL Infrastructures Limited",
+            "Yahoo Code": "MBLINFRA.NS"
+        },
+        {
+            "Security Name": "Multi Commodity Exchange of India Limited",
+            "Yahoo Code": "MCX.NS"
+        },
+        {
+            "Security Name": "Megasoft Limited",
+            "Yahoo Code": "MEGASOFT.NS"
+        },
+        {
+            "Security Name": "Meghmani Organics Limited",
+            "Yahoo Code": "MEGH.NS"
+        },
+        {
+            "Security Name": "Mercator Limited",
+            "Yahoo Code": "MERCATOR.NS"
+        },
+        {
+            "Security Name": "Merck Limited",
+            "Yahoo Code": "MERCK.NS"
+        },
+        {
+            "Security Name": "Metkore Alloys & Industries Limited",
+            "Yahoo Code": "METKORE.NS"
+        },
+        {
+            "Security Name": "Motilal Oswal Mutual Fund - Motilal Oswal MOSt Shares Gold ETF",
+            "Yahoo Code": "MGOLD.NS"
+        },
+        {
+            "Security Name": "Mahindra Holidays & Resorts India Limited",
+            "Yahoo Code": "MHRIL.NS"
+        },
+        {
+            "Security Name": "MIC Electronics Limited",
+            "Yahoo Code": "MIC.NS"
+        },
+        {
+            "Security Name": "Microsec Financial Services Limited",
+            "Yahoo Code": "MICROSEC.NS"
+        },
+        {
+            "Security Name": "Micro Technologies (India) Limited",
+            "Yahoo Code": "MICROTECH.NS"
+        },
+        {
+            "Security Name": "Minda Industries Limited",
+            "Yahoo Code": "MINDAIND.NS"
+        },
+        {
+            "Security Name": "MIRC Electronics Limited",
+            "Yahoo Code": "MIRCELECT.NS"
+        },
+        {
+            "Security Name": "Mirza International Limited",
+            "Yahoo Code": "MIRZAINT.NS"
+        },
+        {
+            "Security Name": "MM Forgings Limited",
+            "Yahoo Code": "MMFL.NS"
+        },
+        {
+            "Security Name": "Money Matters Financial Services Limited",
+            "Yahoo Code": "MMFSL.NS"
+        },
+        {
+            "Security Name": "MMTC Limited",
+            "Yahoo Code": "MMTC.NS"
+        },
+        {
+            "Security Name": "MOIL Limited",
+            "Yahoo Code": "MOIL.NS"
+        },
+        {
+            "Security Name": "Monnet Ispat and Energy Limited",
+            "Yahoo Code": "MONNETISP.NS"
+        },
+        {
+            "Security Name": "Monsanto India Limited",
+            "Yahoo Code": "MONSANTO.NS"
+        },
+        {
+            "Security Name": "Morepen Laboratories Limited",
+            "Yahoo Code": "MOREPENLA.NS"
+        },
+        {
+            "Security Name": "Moser-Baer (I) Limited",
+            "Yahoo Code": "MOSERBAER.NS"
+        },
+        {
+            "Security Name": "Motherson Sumi Systems Limited",
+            "Yahoo Code": "MOTHERSUM.NS"
+        },
+        {
+            "Security Name": "Motilal Oswal Financial Services Limited",
+            "Yahoo Code": "MOTILALOF.NS"
+        },
+        {
+            "Security Name": "The Motor & General Finance Limited",
+            "Yahoo Code": "MOTOGENFI.NS"
+        },
+        {
+            "Security Name": "MPS Limited",
+            "Yahoo Code": "MPSLTD.NS"
+        },
+        {
+            "Security Name": "MRO-TEK Limited",
+            "Yahoo Code": "MRO-TEK.NS"
+        },
+        {
+            "Security Name": "MSP Steel & Power Limited",
+            "Yahoo Code": "MSPL.NS"
+        },
+        {
+            "Security Name": "MT Educare Limited",
+            "Yahoo Code": "MTEDUCARE.NS"
+        },
+        {
+            "Security Name": "Mukand Engineers Limited",
+            "Yahoo Code": "MUKANDENG.NS"
+        },
+        {
+            "Security Name": "Mukand Limited",
+            "Yahoo Code": "MUKANDLTD.NS"
+        },
+        {
+            "Security Name": "Mukta Arts Limited",
+            "Yahoo Code": "MUKTAARTS.NS"
+        },
+        {
+            "Security Name": "Munjal Showa Limited",
+            "Yahoo Code": "MUNJALSHO.NS"
+        },
+        {
+            "Security Name": "Murli Industries Limited",
+            "Yahoo Code": "MURLIIND.NS"
+        },
+        {
+            "Security Name": "Murudeshwar Ceramics Limited",
+            "Yahoo Code": "MURUDCERA.NS"
+        },
+        {
+            "Security Name": "Muthoot Finance Limited",
+            "Yahoo Code": "MUTHOOTFI.NS"
+        },
+        {
+            "Security Name": "MVL Limited",
+            "Yahoo Code": "MVL.NS"
+        },
+        {
+            "Security Name": "MVL Industries Limited",
+            "Yahoo Code": "MVLIND.NS"
+        },
+        {
+            "Security Name": "State Bank of Mysore",
+            "Yahoo Code": "MYSOREBAN.NS"
+        },
+        {
+            "Security Name": "Motilal Oswal Mutual Fund-Motilal Oswal MOSt Shares NASDAQ 100 ETF -GO",
+            "Yahoo Code": "N100.NS"
+        },
+        {
+            "Security Name": "Nagreeka Exports Limited",
+            "Yahoo Code": "NAGREEKEX.NS"
+        },
+        {
+            "Security Name": "Nahar Capital and Financial Services Limited",
+            "Yahoo Code": "NAHARCAP.NS"
+        },
+        {
+            "Security Name": "Nahar Industrial Enterprises Limited",
+            "Yahoo Code": "NAHARINDU.NS"
+        },
+        {
+            "Security Name": "Nahar Poly Films Limited",
+            "Yahoo Code": "NAHARPOLY.NS"
+        },
+        {
+            "Security Name": "Nahar Spinning Mills Limited",
+            "Yahoo Code": "NAHARSPIN.NS"
+        },
+        {
+            "Security Name": "Nandan Exim Limited",
+            "Yahoo Code": "NANDANEXI.NS"
+        },
+        {
+            "Security Name": "Natco Pharma Limited",
+            "Yahoo Code": "NATCOPHAR.NS"
+        },
+        {
+            "Security Name": "Nath Seeds Limited",
+            "Yahoo Code": "NATHSEED.NS"
+        },
+        {
+            "Security Name": "National Aluminium Company Limited",
+            "Yahoo Code": "NATIONALU.NS"
+        },
+        {
+            "Security Name": "National Steel And Agro Industries Limited",
+            "Yahoo Code": "NATNLSTEE.NS"
+        },
+        {
+            "Security Name": "Navin Fluorine International Limited",
+            "Yahoo Code": "NAVINFLUO.NS"
+        },
+        {
+            "Security Name": "Navneet Publications India Limited",
+            "Yahoo Code": "NAVNETPUB.NS"
+        },
+        {
+            "Security Name": "National Buildings Construction Corporation Limited",
+            "Yahoo Code": "NBCC.NS"
+        },
+        {
+            "Security Name": "Nava Bharat Ventures Limited",
+            "Yahoo Code": "NBVENTURE.NS"
+        },
+        {
+            "Security Name": "New Delhi Television Limited",
+            "Yahoo Code": "NDTV.NS"
+        },
+        {
+            "Security Name": "Nectar Lifesciences Limited",
+            "Yahoo Code": "NECLIFE.NS"
+        },
+        {
+            "Security Name": "Nelcast Limited",
+            "Yahoo Code": "NELCAST.NS"
+        },
+        {
+            "Security Name": "NELCO Limited",
+            "Yahoo Code": "NELCO.NS"
+        },
+        {
+            "Security Name": "NEPC India Limited",
+            "Yahoo Code": "NEPCMICON.NS"
+        },
+        {
+            "Security Name": "Nesco Limited",
+            "Yahoo Code": "NESCO.NS"
+        },
+        {
+            "Security Name": "Nestle India Limited",
+            "Yahoo Code": "NESTLEIND.NS"
+        },
+        {
+            "Security Name": "Net 4 India Limited",
+            "Yahoo Code": "NET4.NS"
+        },
+        {
+            "Security Name": "Network18 Media & Investments Limited",
+            "Yahoo Code": "NETWORK18.NS"
+        },
+        {
+            "Security Name": "Next Mediaworks Limited",
+            "Yahoo Code": "NEXTMEDIA.NS"
+        },
+        {
+            "Security Name": "Neyveli Lignite Corporation Limited",
+            "Yahoo Code": "NEYVELILI.NS"
+        },
+        {
+            "Security Name": "National Fertilizers Limited",
+            "Yahoo Code": "NFL.NS"
+        },
+        {
+            "Security Name": "Nicco Corporation Limited",
+            "Yahoo Code": "NICCO.NS"
+        },
+        {
+            "Security Name": "Benchmark Mutual Fund",
+            "Yahoo Code": "NIFTYBEES.NS"
+        },
+        {
+            "Security Name": "NIIT Limited",
+            "Yahoo Code": "NIITLTD.NS"
+        },
+        {
+            "Security Name": "NIIT Technologies Limited",
+            "Yahoo Code": "NIITTECH.NS"
+        },
+        {
+            "Security Name": "Nilkamal Limited",
+            "Yahoo Code": "NILKAMAL.NS"
+        },
+        {
+            "Security Name": "Nippo Batteries Company Limited",
+            "Yahoo Code": "NIPPOBATR.NS"
+        },
+        {
+            "Security Name": "Nitco Limited",
+            "Yahoo Code": "NITCO.NS"
+        },
+        {
+            "Security Name": "Nitesh Estates Limited",
+            "Yahoo Code": "NITESHEST.NS"
+        },
+        {
+            "Security Name": "Nitin Fire Protection Industries Limited",
+            "Yahoo Code": "NITINFIRE.NS"
+        },
+        {
+            "Security Name": "Nitin Spinners Limited",
+            "Yahoo Code": "NITINSPIN.NS"
+        },
+        {
+            "Security Name": "NOCIL Limited",
+            "Yahoo Code": "NOCIL.NS"
+        },
+        {
+            "Security Name": "Noida Toll Bridge Company Limited",
+            "Yahoo Code": "NOIDATOLL.NS"
+        },
+        {
+            "Security Name": "Norben Tea & Exports Limited",
+            "Yahoo Code": "NORBTEAEX.NS"
+        },
+        {
+            "Security Name": "NRB Bearing Limited",
+            "Yahoo Code": "NRBBEARIN.NS"
+        },
+        {
+            "Security Name": "NRC Limited",
+            "Yahoo Code": "NRC.NS"
+        },
+        {
+            "Security Name": "Nucleus Software Exports Limited",
+            "Yahoo Code": "NUCLEUS.NS"
+        },
+        {
+            "Security Name": "Oberoi Realty Limited",
+            "Yahoo Code": "OBEROIRLT.NS"
+        },
+        {
+            "Security Name": "OCL India Limited",
+            "Yahoo Code": "OCL.NS"
+        },
+        {
+            "Security Name": "Oil Country Tubular Limited",
+            "Yahoo Code": "OILCOUNTU.NS"
+        },
+        {
+            "Security Name": "OCL Iron and Steel Limited",
+            "Yahoo Code": "OISL.NS"
+        },
+        {
+            "Security Name": "Omax Autos Limited",
+            "Yahoo Code": "OMAXAUTO.NS"
+        },
+        {
+            "Security Name": "Omaxe Limited",
+            "Yahoo Code": "OMAXE.NS"
+        },
+        {
+            "Security Name": "Omkar Speciality Chemicals Limited",
+            "Yahoo Code": "OMKARCHEM.NS"
+        },
+        {
+            "Security Name": "OM Metals Infraprojects Limited",
+            "Yahoo Code": "OMMETALS.NS"
+        },
+        {
+            "Security Name": "Omnitech Infosolutions Limited",
+            "Yahoo Code": "OMNITECH.NS"
+        },
+        {
+            "Security Name": "Onelife Capital Advisors Limited",
+            "Yahoo Code": "ONELIFECA.NS"
+        },
+        {
+            "Security Name": "Onward Technologies Limited",
+            "Yahoo Code": "ONWARDTEC.NS"
+        },
+        {
+            "Security Name": "Orbit Corporation Limited",
+            "Yahoo Code": "ORBITCORP.NS"
+        },
+        {
+            "Security Name": "Orient Abrasives Limited",
+            "Yahoo Code": "ORIENTABR.NS"
+        },
+        {
+            "Security Name": "Oriental Trimex Limited",
+            "Yahoo Code": "ORIENTALT.NS"
+        },
+        {
+            "Security Name": "Orient Bell Limited",
+            "Yahoo Code": "ORIENTBEL.NS"
+        },
+        {
+            "Security Name": "Oriental Hotels Limited",
+            "Yahoo Code": "ORIENTHOT.NS"
+        },
+        {
+            "Security Name": "Orient Press Limited",
+            "Yahoo Code": "ORIENTLTD.NS"
+        },
+        {
+            "Security Name": "Orient Paper & Industries Limited",
+            "Yahoo Code": "ORIENTPPR.NS"
+        },
+        {
+            "Security Name": "Orient Refractories Limited",
+            "Yahoo Code": "ORIENTREF.NS"
+        },
+        {
+            "Security Name": "The Orissa Minerals Development Company Limited",
+            "Yahoo Code": "ORISSAMIN.NS"
+        },
+        {
+            "Security Name": "PAE Limited",
+            "Yahoo Code": "PAEL.NS"
+        },
+        {
+            "Security Name": "Page Industries Limited",
+            "Yahoo Code": "PAGEIND.NS"
+        },
+        {
+            "Security Name": "Panacea Biotec Limited",
+            "Yahoo Code": "PANACEABI.NS"
+        },
+        {
+            "Security Name": "Panama Petrochem Limited",
+            "Yahoo Code": "PANAMAPET.NS"
+        },
+        {
+            "Security Name": "Panasonic Carbon India Company Limited",
+            "Yahoo Code": "PANCARBON.NS"
+        },
+        {
+            "Security Name": "Panoramic Universal Limited",
+            "Yahoo Code": "PANORAMUN.NS"
+        },
+        {
+            "Security Name": "The Paper Products Limited",
+            "Yahoo Code": "PAPERPROD.NS"
+        },
+        {
+            "Security Name": "Parabolic Drugs Limited",
+            "Yahoo Code": "PARABDRUG.NS"
+        },
+        {
+            "Security Name": "Paramount Communications Limited",
+            "Yahoo Code": "PARACABLE.NS"
+        },
+        {
+            "Security Name": "Paramount Printpackaging Limited",
+            "Yahoo Code": "PARAPRINT.NS"
+        },
+        {
+            "Security Name": "Paras Petrofils Limited",
+            "Yahoo Code": "PARASPETR.NS"
+        },
+        {
+            "Security Name": "Parsvnath Developers Limited",
+            "Yahoo Code": "PARSVNATH.NS"
+        },
+        {
+            "Security Name": "Patel Integrated Logistics Limited",
+            "Yahoo Code": "PATINTLOG.NS"
+        },
+        {
+            "Security Name": "Parenteral Drugs (India) Limited",
+            "Yahoo Code": "PDPL.NS"
+        },
+        {
+            "Security Name": "Pudumjee Pulp & Paper Mills Limited",
+            "Yahoo Code": "PDUMJEPUL.NS"
+        },
+        {
+            "Security Name": "Pennar Industries Limited",
+            "Yahoo Code": "PENIND.NS"
+        },
+        {
+            "Security Name": "Peninsula Land Limited",
+            "Yahoo Code": "PENINLAND.NS"
+        },
+        {
+            "Security Name": "Persistent Systems Limited",
+            "Yahoo Code": "PERSISTEN.NS"
+        },
+        {
+            "Security Name": "Petron Engineering Construction Limited",
+            "Yahoo Code": "PETRONENG.NS"
+        },
+        {
+            "Security Name": "Pfizer Limited",
+            "Yahoo Code": "PFIZER.NS"
+        },
+        {
+            "Security Name": "Prime Focus Limited",
+            "Yahoo Code": "PFOCUS.NS"
+        },
+        {
+            "Security Name": "PTC India Financial Services Limited",
+            "Yahoo Code": "PFS.NS"
+        },
+        {
+            "Security Name": "Procter & Gamble Hygiene and Health Care Limited",
+            "Yahoo Code": "PGHH.NS"
+        },
+        {
+            "Security Name": "Phillips Carbon Black Limited",
+            "Yahoo Code": "PHILIPCAR.NS"
+        },
+        {
+            "Security Name": "The Phoenix Mills Limited",
+            "Yahoo Code": "PHOENIXLT.NS"
+        },
+        {
+            "Security Name": "Pidilite Industries Limited",
+            "Yahoo Code": "PIDILITIN.NS"
+        },
+        {
+            "Security Name": "PI Industries Limited",
+            "Yahoo Code": "PIIND.NS"
+        },
+        {
+            "Security Name": "Pipavav Defence and Offshore Engineering Company Limited",
+            "Yahoo Code": "PIPAVAVDO.NS"
+        },
+        {
+            "Security Name": "Piramal Glass Limited",
+            "Yahoo Code": "PIRGLASS.NS"
+        },
+        {
+            "Security Name": "Pitti Laminations Limited",
+            "Yahoo Code": "PITTILAM.NS"
+        },
+        {
+            "Security Name": "Plastiblends India Limited",
+            "Yahoo Code": "PLASTIBLE.NS"
+        },
+        {
+            "Security Name": "Plethico Pharmaceuticals Limited",
+            "Yahoo Code": "PLETHICO.NS"
+        },
+        {
+            "Security Name": "PNB Gilts Limited",
+            "Yahoo Code": "PNBGILTS.NS"
+        },
+        {
+            "Security Name": "Pritish Nandy Communications Limited",
+            "Yahoo Code": "PNC.NS"
+        },
+        {
+            "Security Name": "Pochiraju Industries Limited",
+            "Yahoo Code": "POCHIRAJU.NS"
+        },
+        {
+            "Security Name": "Poly Medicure Limited",
+            "Yahoo Code": "POLYMED.NS"
+        },
+        {
+            "Security Name": "Polyplex Corporation Limited",
+            "Yahoo Code": "POLYPLEX.NS"
+        },
+        {
+            "Security Name": "Pondy Oxides & Chemicals Limited",
+            "Yahoo Code": "PONDYOXID.NS"
+        },
+        {
+            "Security Name": "Ponni Sugars (Erode) Limited",
+            "Yahoo Code": "PONNIEROD.NS"
+        },
+        {
+            "Security Name": "Precision Pipes And Profiles Company Limited",
+            "Yahoo Code": "PPAP.NS"
+        },
+        {
+            "Security Name": "Pradip Overseas Limited",
+            "Yahoo Code": "PRADIP.NS"
+        },
+        {
+            "Security Name": "Prakash Industries Limited",
+            "Yahoo Code": "PRAKASH.NS"
+        },
+        {
+            "Security Name": "Prakash Constrowell Limited",
+            "Yahoo Code": "PRAKASHCO.NS"
+        },
+        {
+            "Security Name": "Prakash Steelage Limited",
+            "Yahoo Code": "PRAKASHST.NS"
+        },
+        {
+            "Security Name": "Pratibha Industries Limited",
+            "Yahoo Code": "PRATIBHA.NS"
+        },
+        {
+            "Security Name": "Precot Meridian Limited",
+            "Yahoo Code": "PRECOT.NS"
+        },
+        {
+            "Security Name": "Precision Wires India Limited",
+            "Yahoo Code": "PRECWIRE.NS"
+        },
+        {
+            "Security Name": "Premier Limited",
+            "Yahoo Code": "PREMIER.NS"
+        },
+        {
+            "Security Name": "Prestige Estates Projects Limited",
+            "Yahoo Code": "PRESTIGE.NS"
+        },
+        {
+            "Security Name": "Pantaloon Retail (India) Limited",
+            "Yahoo Code": "PRETAILDV.NS"
+        },
+        {
+            "Security Name": "Prime Securities Limited",
+            "Yahoo Code": "PRIMESECU.NS"
+        },
+        {
+            "Security Name": "Prism Cement Limited",
+            "Yahoo Code": "PRISMCEM.NS"
+        },
+        {
+            "Security Name": "Prithvi Information Solutions Limited",
+            "Yahoo Code": "PRITHVI.NS"
+        },
+        {
+            "Security Name": "Punjab & Sind Bank",
+            "Yahoo Code": "PSB.NS"
+        },
+        {
+            "Security Name": "PSL Limited",
+            "Yahoo Code": "PSL.NS"
+        },
+        {
+            "Security Name": "Benchmark Mutual Fund - PSU Bank Benchmark Exchange Traded Scheme ",
+            "Yahoo Code": "PSUBNKBEE.NS"
+        },
+        {
+            "Security Name": "PTL Enterprises Limited",
+            "Yahoo Code": "PTL.NS"
+        },
+        {
+            "Security Name": "Punjab Chemicals & Crop Protection Limited",
+            "Yahoo Code": "PUNJABCHE.NS"
+        },
+        {
+            "Security Name": "Puravankara Projects Limited",
+            "Yahoo Code": "PURVA.NS"
+        },
+        {
+            "Security Name": "PVR Limited",
+            "Yahoo Code": "PVR.NS"
+        },
+        {
+            "Security Name": "Quantum Gold Fund -Exchange Traded Fund (ETF)",
+            "Yahoo Code": "QGOLDHALF.NS"
+        },
+        {
+            "Security Name": "Quantum Index Fund -Exchange Traded Fund (ETF)",
+            "Yahoo Code": "QNIFTY.NS"
+        },
+        {
+            "Security Name": "Radaan Mediaworks India Limited",
+            "Yahoo Code": "RADAAN.NS"
+        },
+        {
+            "Security Name": "Radico Khaitan Limited",
+            "Yahoo Code": "RADICO.NS"
+        },
+        {
+            "Security Name": "Rainbow Papers Limited",
+            "Yahoo Code": "RAINBOWPA.NS"
+        },
+        {
+            "Security Name": "Rain Commodities Limited",
+            "Yahoo Code": "RAINCOM.NS"
+        },
+        {
+            "Security Name": "Rajesh Exports Limited",
+            "Yahoo Code": "RAJESHEXP.NS"
+        },
+        {
+            "Security Name": "Raj Oil Mills Limited",
+            "Yahoo Code": "RAJOIL.NS"
+        },
+        {
+            "Security Name": "Rajapalayam Mills Limited",
+            "Yahoo Code": "RAJPALAYA.NS"
+        },
+        {
+            "Security Name": "Raj Television Network Limited",
+            "Yahoo Code": "RAJTV.NS"
+        },
+        {
+            "Security Name": "Rajvir Industries Limited",
+            "Yahoo Code": "RAJVIR.NS"
+        },
+        {
+            "Security Name": "Rallis India Limited",
+            "Yahoo Code": "RALLIS.NS"
+        },
+        {
+            "Security Name": "Rama Newsprint and Papers Limited",
+            "Yahoo Code": "RAMANEWS.NS"
+        },
+        {
+            "Security Name": "Ramco Industries Limited",
+            "Yahoo Code": "RAMCOIND.NS"
+        },
+        {
+            "Security Name": "Ramco Systems Limited",
+            "Yahoo Code": "RAMCOSYS.NS"
+        },
+        {
+            "Security Name": "Ramsarup Industries Limited",
+            "Yahoo Code": "RAMSARUP.NS"
+        },
+        {
+            "Security Name": "Rane Engine Valve Limited",
+            "Yahoo Code": "RANEENGIN.NS"
+        },
+        {
+            "Security Name": "Rane Holdings Limited",
+            "Yahoo Code": "RANEHOLDI.NS"
+        },
+        {
+            "Security Name": "Ratnamani Metals & Tubes Limited",
+            "Yahoo Code": "RATNAMANI.NS"
+        },
+        {
+            "Security Name": "Rane Brake Lining Limited",
+            "Yahoo Code": "RBL.NS"
+        },
+        {
+            "Security Name": "Reliance Broadcast Network Limited",
+            "Yahoo Code": "RBN.NS"
+        },
+        {
+            "Security Name": "Rashtriya Chemicals and Fertilizers Limited",
+            "Yahoo Code": "RCF.NS"
+        },
+        {
+            "Security Name": "Redington (India) Limited",
+            "Yahoo Code": "REDINGTON.NS"
+        },
+        {
+            "Security Name": "Rei Agro Limited",
+            "Yahoo Code": "REIAGROLT.NS"
+        },
+        {
+            "Security Name": "Relaxo Footwears Limited",
+            "Yahoo Code": "RELAXO.NS"
+        },
+        {
+            "Security Name": "Reliance Mutual Fund -Banking Exchange Traded Fund (ETF)",
+            "Yahoo Code": "RELBANK.NS"
+        },
+        {
+            "Security Name": "Reliance Mutual Fund - Gold Exchange Traded Fund ",
+            "Yahoo Code": "RELGOLD.NS"
+        },
+        {
+            "Security Name": "Religare Mutual Fund - Religare Nifty Exchange Traded Fund",
+            "Yahoo Code": "RELGRNIFT.NS"
+        },
+        {
+            "Security Name": "Religare Enterprises Limited",
+            "Yahoo Code": "RELIGARE.NS"
+        },
+        {
+            "Security Name": "Religare Mutual Fund - Religare Gold Exchange Traded Fund",
+            "Yahoo Code": "RELIGAREG.NS"
+        },
+        {
+            "Security Name": "Reliance MediaWorks Limited",
+            "Yahoo Code": "RELMEDIA.NS"
+        },
+        {
+            "Security Name": "Repro India Limited",
+            "Yahoo Code": "REPRO.NS"
+        },
+        {
+            "Security Name": "Responsive Industries Limited",
+            "Yahoo Code": "RESPONIND.NS"
+        },
+        {
+            "Security Name": "Revathi Equipment Limited",
+            "Yahoo Code": "REVATHI.NS"
+        },
+        {
+            "Security Name": "Rico Auto Industries Limited",
+            "Yahoo Code": "RICOAUTO.NS"
+        },
+        {
+            "Security Name": "Reliance Industrial Infrastructure Limited",
+            "Yahoo Code": "RIIL.NS"
+        },
+        {
+            "Security Name": "Renaissance Jewellery Limited",
+            "Yahoo Code": "RJL.NS"
+        },
+        {
+            "Security Name": "Ravi Kumar Distilleries Limited",
+            "Yahoo Code": "RKDL.NS"
+        },
+        {
+            "Security Name": "Ramkrishna Forgings Limited",
+            "Yahoo Code": "RKFORGE.NS"
+        },
+        {
+            "Security Name": "Radha Madhav Corporation Limited",
+            "Yahoo Code": "RMCL.NS"
+        },
+        {
+            "Security Name": "Rane (Madras) Limited",
+            "Yahoo Code": "RML.NS"
+        },
+        {
+            "Security Name": "Rohit Ferro-Tech Limited",
+            "Yahoo Code": "ROHITFERR.NS"
+        },
+        {
+            "Security Name": "Royal Orchid Hotels Limited",
+            "Yahoo Code": "ROHLTD.NS"
+        },
+        {
+            "Security Name": "Roman Tarmat Limited",
+            "Yahoo Code": "ROMAN.NS"
+        },
+        {
+            "Security Name": "R.P.P. Infra Projects Limited",
+            "Yahoo Code": "RPPINFRA.NS"
+        },
+        {
+            "Security Name": "R Systems International Limited",
+            "Yahoo Code": "RSYSTEMS.NS"
+        },
+        {
+            "Security Name": "The Ruby Mills Limited",
+            "Yahoo Code": "RUBYMILLS.NS"
+        },
+        {
+            "Security Name": "Ruchi Infrastructure Limited",
+            "Yahoo Code": "RUCHINFRA.NS"
+        },
+        {
+            "Security Name": "Ruchira Papers Limited",
+            "Yahoo Code": "RUCHIRA.NS"
+        },
+        {
+            "Security Name": "Rupa & Company Limited",
+            "Yahoo Code": "RUPA.NS"
+        },
+        {
+            "Security Name": "Rushil Decor Limited",
+            "Yahoo Code": "RUSHIL.NS"
+        },
+        {
+            "Security Name": "Sri Adhikari Brothers Television Network Limited",
+            "Yahoo Code": "SABTN.NS"
+        },
+        {
+            "Security Name": "Sadbhav Engineering Limited",
+            "Yahoo Code": "SADBHAV.NS"
+        },
+        {
+            "Security Name": "Sagar Cements Limited",
+            "Yahoo Code": "SAGCEM.NS"
+        },
+        {
+            "Security Name": "Sah Petroleums Limited",
+            "Yahoo Code": "SAHPETRO.NS"
+        },
+        {
+            "Security Name": "Saksoft Limited",
+            "Yahoo Code": "SAKSOFT.NS"
+        },
+        {
+            "Security Name": "Sakuma Exports Limited",
+            "Yahoo Code": "SAKUMA.NS"
+        },
+        {
+            "Security Name": "Salora International Limited",
+            "Yahoo Code": "SALORAINT.NS"
+        },
+        {
+            "Security Name": "S.A.L. Steel Limited",
+            "Yahoo Code": "SALSTEEL.NS"
+        },
+        {
+            "Security Name": "Sambandam Spinning Mills Limited",
+            "Yahoo Code": "SAMBANDAM.NS"
+        },
+        {
+            "Security Name": "The Sandesh Limited",
+            "Yahoo Code": "SANDESH.NS"
+        },
+        {
+            "Security Name": "Sangam (India) Limited",
+            "Yahoo Code": "SANGAMIND.NS"
+        },
+        {
+            "Security Name": "Sanghi Industries Limited",
+            "Yahoo Code": "SANGHIIND.NS"
+        },
+        {
+            "Security Name": "Sanghvi Forging and Engineering Limited",
+            "Yahoo Code": "SANGHVIFO.NS"
+        },
+        {
+            "Security Name": "Sanghvi Movers Limited",
+            "Yahoo Code": "SANGHVIMO.NS"
+        },
+        {
+            "Security Name": "Sanofi India Limited",
+            "Yahoo Code": "SANOFI.NS"
+        },
+        {
+            "Security Name": "Sarda Energy & Minerals Limited",
+            "Yahoo Code": "SARDAEN.NS"
+        },
+        {
+            "Security Name": "Saregama India Limited",
+            "Yahoo Code": "SAREGAMA.NS"
+        },
+        {
+            "Security Name": "Sarla Performance Fibers Limited",
+            "Yahoo Code": "SARLAPOLY.NS"
+        },
+        {
+            "Security Name": "Sasken Communication Technologies Limited",
+            "Yahoo Code": "SASKEN.NS"
+        },
+        {
+            "Security Name": "Sathavahana Ispat Limited",
+            "Yahoo Code": "SATHAISPA.NS"
+        },
+        {
+            "Security Name": "Satyam Computer Services Limited",
+            "Yahoo Code": "SATYAMCOM.NS"
+        },
+        {
+            "Security Name": "Savera Industries Limited",
+            "Yahoo Code": "SAVERA.NS"
+        },
+        {
+            "Security Name": "SB&T International Limited",
+            "Yahoo Code": "SB&TINTL.NS"
+        },
+        {
+            "Security Name": "State Bank of Bikaner and Jaipur",
+            "Yahoo Code": "SBBJ.NS"
+        },
+        {
+            "Security Name": "SBI Mutual Fund - SBI Gold Exchange Traded Scheme - Growth Option #",
+            "Yahoo Code": "SBIGETS.NS"
+        },
+        {
+            "Security Name": "State Bank of Travancore",
+            "Yahoo Code": "SBT.NS"
+        },
+        {
+            "Security Name": "Schneider Electric Infrastructure Limited",
+            "Yahoo Code": "SCHNEIDER.NS"
+        },
+        {
+            "Security Name": "Seamec Limited",
+            "Yahoo Code": "SEAMECLTD.NS"
+        },
+        {
+            "Security Name": "S.E. Investments Limited",
+            "Yahoo Code": "SEINV.NS"
+        },
+        {
+            "Security Name": "Selan Exploration Technology Limited",
+            "Yahoo Code": "SELAN.NS"
+        },
+        {
+            "Security Name": "Servalakshmi Paper Limited",
+            "Yahoo Code": "SERVALL.NS"
+        },
+        {
+            "Security Name": "Seshasayee Paper and Boards Limited",
+            "Yahoo Code": "SESHAPAPE.NS"
+        },
+        {
+            "Security Name": "Shree Ganesh Jewellery House Limited",
+            "Yahoo Code": "SGJHL.NS"
+        },
+        {
+            "Security Name": "Shakti Pumps (India) Limited",
+            "Yahoo Code": "SHAKTIPUM.NS"
+        },
+        {
+            "Security Name": "Benchmark Mutual Fund - Shariah Benchmark Exchange Traded Scheme (ETF) #",
+            "Yahoo Code": "SHARIABEE.NS"
+        },
+        {
+            "Security Name": "Sharon Bio-Medicine Limited",
+            "Yahoo Code": "SHARONBIO.NS"
+        },
+        {
+            "Security Name": "Sharyans Resources Limited",
+            "Yahoo Code": "SHARRESLT.NS"
+        },
+        {
+            "Security Name": "Shasun Pharmaceuticals Limited",
+            "Yahoo Code": "SHASUNPHA.NS"
+        },
+        {
+            "Security Name": "Shilpa Medicare Limited",
+            "Yahoo Code": "SHILPAMED.NS"
+        },
+        {
+            "Security Name": "Shiv-Vani Oil & Gas Exploration Services Limited",
+            "Yahoo Code": "SHIV-VANI.NS"
+        },
+        {
+            "Security Name": "Shri Lakshmi Cotsyn Limited",
+            "Yahoo Code": "SHLAKSHMI.NS"
+        },
+        {
+            "Security Name": "Shoppers Stop Limited",
+            "Yahoo Code": "SHOPERSTO.NS"
+        },
+        {
+            "Security Name": "Shree Ashtavinayak Cine Vision Limited",
+            "Yahoo Code": "SHREEASHT.NS"
+        },
+        {
+            "Security Name": "Shree Cements Limited",
+            "Yahoo Code": "SHREECEM.NS"
+        },
+        {
+            "Security Name": "Shree Rama Multi-Tech Limited",
+            "Yahoo Code": "SHREERAMA.NS"
+        },
+        {
+            "Security Name": "Shrenuj & Company Limited",
+            "Yahoo Code": "SHRENUJ.NS"
+        },
+        {
+            "Security Name": "Shriram City Union Finance Limited",
+            "Yahoo Code": "SHRIRAMCI.NS"
+        },
+        {
+            "Security Name": "Shriram EPC Limited",
+            "Yahoo Code": "SHRIRAMEP.NS"
+        },
+        {
+            "Security Name": "Shyam Telecom Limited",
+            "Yahoo Code": "SHYAMTEL.NS"
+        },
+        {
+            "Security Name": "Sicagen India Limited",
+            "Yahoo Code": "SICAGEN.NS"
+        },
+        {
+            "Security Name": "Sical Logistics Limited",
+            "Yahoo Code": "SICAL.NS"
+        },
+        {
+            "Security Name": "Signet Industries Limited",
+            "Yahoo Code": "SIGNETIND.NS"
+        },
+        {
+            "Security Name": "SIL Investments Limited",
+            "Yahoo Code": "SILINV.NS"
+        },
+        {
+            "Security Name": "Simplex Projects Limited",
+            "Yahoo Code": "SIMPLEX.NS"
+        },
+        {
+            "Security Name": "Simplex Infrastructures Limited",
+            "Yahoo Code": "SIMPLEXIN.NS"
+        },
+        {
+            "Security Name": "The Sirpur Paper Mills Limited",
+            "Yahoo Code": "SIRPAPER.NS"
+        },
+        {
+            "Security Name": "Sita Shree Food Products Limited",
+            "Yahoo Code": "SITASHREE.NS"
+        },
+        {
+            "Security Name": "Siyaram Silk Mills Limited",
+            "Yahoo Code": "SIYSIL.NS"
+        },
+        {
+            "Security Name": "SJVN Limited",
+            "Yahoo Code": "SJVN.NS"
+        },
+        {
+            "Security Name": "SKF India Limited",
+            "Yahoo Code": "SKFINDIA.NS"
+        },
+        {
+            "Security Name": "SKM Egg Products Export (India) Limited",
+            "Yahoo Code": "SKMEGGPRO.NS"
+        },
+        {
+            "Security Name": "SKS Microfinance Limited",
+            "Yahoo Code": "SKSMICRO.NS"
+        },
+        {
+            "Security Name": "Smartlink Network Systems Limited",
+            "Yahoo Code": "SMARTLINK.NS"
+        },
+        {
+            "Security Name": "SML Isuzu Limited",
+            "Yahoo Code": "SMLISUZU.NS"
+        },
+        {
+            "Security Name": "Sujana Metal Products Limited",
+            "Yahoo Code": "SMPL.NS"
+        },
+        {
+            "Security Name": "SMS Pharmaceuticals Limited",
+            "Yahoo Code": "SMSPHARMA.NS"
+        },
+        {
+            "Security Name": "Software Technology Group International Limited",
+            "Yahoo Code": "SOFTTECHG.NS"
+        },
+        {
+            "Security Name": "Solar Industries India Limited",
+            "Yahoo Code": "SOLARINDS.NS"
+        },
+        {
+            "Security Name": "Somany Ceramics Limited",
+            "Yahoo Code": "SOMANYCER.NS"
+        },
+        {
+            "Security Name": "Sona Koyo Steering Systems Limited",
+            "Yahoo Code": "SONASTEER.NS"
+        },
+        {
+            "Security Name": "Sonata Software Limited",
+            "Yahoo Code": "SONATSOFT.NS"
+        },
+        {
+            "Security Name": "Savita Oil Technologies Limited",
+            "Yahoo Code": "SOTL.NS"
+        },
+        {
+            "Security Name": "Southern Ispat And Energy Limited",
+            "Yahoo Code": "SOUISPAT.NS"
+        },
+        {
+            "Security Name": "Spanco Limited",
+            "Yahoo Code": "SPANCO.NS"
+        },
+        {
+            "Security Name": "Sun Pharma Advanced Research Company Limited",
+            "Yahoo Code": "SPARC.NS"
+        },
+        {
+            "Security Name": "Speciality Restaurants Limited",
+            "Yahoo Code": "SPECIALIT.NS"
+        },
+        {
+            "Security Name": "Spectacle Infotek Limited",
+            "Yahoo Code": "SPECTACLE.NS"
+        },
+        {
+            "Security Name": "Southern Petrochemicals Industries Corporation Limited",
+            "Yahoo Code": "SPIC.NS"
+        },
+        {
+            "Security Name": "SPML Infra Limited",
+            "Yahoo Code": "SPMLINFRA.NS"
+        },
+        {
+            "Security Name": "SRF Limited",
+            "Yahoo Code": "SRF.NS"
+        },
+        {
+            "Security Name": "SRHHL Industries Limited",
+            "Yahoo Code": "SRHHLINDS.NS"
+        },
+        {
+            "Security Name": "SRS Limited",
+            "Yahoo Code": "SRSLTD.NS"
+        },
+        {
+            "Security Name": "Steel Strips Wheels Limited",
+            "Yahoo Code": "SSWL.NS"
+        },
+        {
+            "Security Name": "Standard Chartered PLC",
+            "Yahoo Code": "STAN.NS"
+        },
+        {
+            "Security Name": "Strides Arcolab Limited",
+            "Yahoo Code": "STAR.NS"
+        },
+        {
+            "Security Name": "The State Trading Corporation of India Limited",
+            "Yahoo Code": "STCINDIA.NS"
+        },
+        {
+            "Security Name": "Stel Holdings Limited",
+            "Yahoo Code": "STEL.NS"
+        },
+        {
+            "Security Name": "Sterling Tools Limited",
+            "Yahoo Code": "STERTOOLS.NS"
+        },
+        {
+            "Security Name": "Styrolution ABS (India) Limited",
+            "Yahoo Code": "STYABS.NS"
+        },
+        {
+            "Security Name": "Subex Limited",
+            "Yahoo Code": "SUBEX.NS"
+        },
+        {
+            "Security Name": "Subros Limited",
+            "Yahoo Code": "SUBROS.NS"
+        },
+        {
+            "Security Name": "Sudar Garments Limited",
+            "Yahoo Code": "SUDAR.NS"
+        },
+        {
+            "Security Name": "Sudarshan Chemical Industries Limited",
+            "Yahoo Code": "SUDARSCHE.NS"
+        },
+        {
+            "Security Name": "Sujana Universal Industries Limited",
+            "Yahoo Code": "SUJANAUNI.NS"
+        },
+        {
+            "Security Name": "Sumeet Industries Limited",
+            "Yahoo Code": "SUMEETIND.NS"
+        },
+        {
+            "Security Name": "Summit Securities Limited",
+            "Yahoo Code": "SUMMITSEC.NS"
+        },
+        {
+            "Security Name": "Sundaram Clayton Limited",
+            "Yahoo Code": "SUNCLAYTO.NS"
+        },
+        {
+            "Security Name": "Sundaram Multi Pap Limited",
+            "Yahoo Code": "SUNDARAM.NS"
+        },
+        {
+            "Security Name": "Sundaram Finance Limited",
+            "Yahoo Code": "SUNDARMFI.NS"
+        },
+        {
+            "Security Name": "Sundaram Brake Linings Limited",
+            "Yahoo Code": "SUNDRMBRA.NS"
+        },
+        {
+            "Security Name": "Sundram Fasteners Limited",
+            "Yahoo Code": "SUNDRMFAS.NS"
+        },
+        {
+            "Security Name": "Sunflag Iron And Steel Company Limited",
+            "Yahoo Code": "SUNFLAG.NS"
+        },
+        {
+            "Security Name": "Sunil Hitech Engineers Limited",
+            "Yahoo Code": "SUNILHITE.NS"
+        },
+        {
+            "Security Name": "Sunteck Realty Limited",
+            "Yahoo Code": "SUNTECK.NS"
+        },
+        {
+            "Security Name": "Super Sales India Limited",
+            "Yahoo Code": "SUPER.NS"
+        },
+        {
+            "Security Name": "Supreme Petrochem Limited",
+            "Yahoo Code": "SUPPETRO.NS"
+        },
+        {
+            "Security Name": "Suprajit Engineering Limited",
+            "Yahoo Code": "SUPRAJIT.NS"
+        },
+        {
+            "Security Name": "Supreme Industries Limited",
+            "Yahoo Code": "SUPREMEIN.NS"
+        },
+        {
+            "Security Name": "Supreme Infrastructure India Limited",
+            "Yahoo Code": "SUPREMEIN.NS"
+        },
+        {
+            "Security Name": "Su-Raj Diamonds and Jewellery Limited",
+            "Yahoo Code": "SURAJDIAM.NS"
+        },
+        {
+            "Security Name": "Surana Industries Limited",
+            "Yahoo Code": "SURANAIND.NS"
+        },
+        {
+            "Security Name": "Surana Telecom and Power Limited",
+            "Yahoo Code": "SURANAT&P.NS"
+        },
+        {
+            "Security Name": "Surana Ventures Limited",
+            "Yahoo Code": "SURANAVEL.NS"
+        },
+        {
+            "Security Name": "Suryalakshmi Cotton Mills Limited",
+            "Yahoo Code": "SURYALAXM.NS"
+        },
+        {
+            "Security Name": "Surya Roshni Limited",
+            "Yahoo Code": "SURYAROSN.NS"
+        },
+        {
+            "Security Name": "Sutlej Textiles and Industries Limited",
+            "Yahoo Code": "SUTLEJTEX.NS"
+        },
+        {
+            "Security Name": "Suven Life Sciences Limited",
+            "Yahoo Code": "SUVEN.NS"
+        },
+        {
+            "Security Name": "Swan Energy Limited",
+            "Yahoo Code": "SWANENERG.NS"
+        },
+        {
+            "Security Name": "Swaraj Engines Limited",
+            "Yahoo Code": "SWARAJENG.NS"
+        },
+        {
+            "Security Name": "Symphony Limited",
+            "Yahoo Code": "SYMPHONY.NS"
+        },
+        {
+            "Security Name": "Syncom Healthcare Limited",
+            "Yahoo Code": "SYNCOM.NS"
+        },
+        {
+            "Security Name": "Taj GVK Hotels & Resorts Limited",
+            "Yahoo Code": "TAJGVK.NS"
+        },
+        {
+            "Security Name": "Talbros Automotive Components Limited",
+            "Yahoo Code": "TALBROAUT.NS"
+        },
+        {
+            "Security Name": "Talwalkars Better Value Fitness Limited",
+            "Yahoo Code": "TALWALKAR.NS"
+        },
+        {
+            "Security Name": "Tanla Solutions Limited",
+            "Yahoo Code": "TANLA.NS"
+        },
+        {
+            "Security Name": "Tantia Constructions Limited",
+            "Yahoo Code": "TANTIACON.NS"
+        },
+        {
+            "Security Name": "Tata Elxsi Limited",
+            "Yahoo Code": "TATAELXSI.NS"
+        },
+        {
+            "Security Name": "Tata Investment Corporation Limited",
+            "Yahoo Code": "TATAINVES.NS"
+        },
+        {
+            "Security Name": "Tata Metaliks Limited",
+            "Yahoo Code": "TATAMETAL.NS"
+        },
+        {
+            "Security Name": "Tata Sponge Iron Limited",
+            "Yahoo Code": "TATASPONG.NS"
+        },
+        {
+            "Security Name": "Tribhovandas Bhimji Zaveri Limited",
+            "Yahoo Code": "TBZ.NS"
+        },
+        {
+            "Security Name": "Transport Corporation of India Limited",
+            "Yahoo Code": "TCI.NS"
+        },
+        {
+            "Security Name": "TCI Developers Limited",
+            "Yahoo Code": "TCIDEVELO.NS"
+        },
+        {
+            "Security Name": "TD Power Systems Limited",
+            "Yahoo Code": "TDPOWERSY.NS"
+        },
+        {
+            "Security Name": "Techno Electric & Engineering Company Limited",
+            "Yahoo Code": "TECHNO.NS"
+        },
+        {
+            "Security Name": "Technofab Engineering Limited",
+            "Yahoo Code": "TECHNOFAB.NS"
+        },
+        {
+            "Security Name": "Tecpro Systems Limited",
+            "Yahoo Code": "TECPRO.NS"
+        },
+        {
+            "Security Name": "Texmaco Infrastructure & Holdings Limited",
+            "Yahoo Code": "TEXINFRA.NS"
+        },
+        {
+            "Security Name": "Texmaco Rail & Engineering Limited",
+            "Yahoo Code": "TEXRAIL.NS"
+        },
+        {
+            "Security Name": "Tourism Finance Corporation of India Limited",
+            "Yahoo Code": "TFCILTD.NS"
+        },
+        {
+            "Security Name": "Thangamayil Jewellery Limited",
+            "Yahoo Code": "THANGAMAY.NS"
+        },
+        {
+            "Security Name": "The Byke Hospitality Limited",
+            "Yahoo Code": "THEBYKE.NS"
+        },
+        {
+            "Security Name": "Themis Medicare Limited",
+            "Yahoo Code": "THEMISMED.NS"
+        },
+        {
+            "Security Name": "Thermax Limited",
+            "Yahoo Code": "THERMAX.NS"
+        },
+        {
+            "Security Name": "Thomas Cook (India) Limited",
+            "Yahoo Code": "THOMASCOO.NS"
+        },
+        {
+            "Security Name": "Tilaknagar Industries Limited",
+            "Yahoo Code": "TI.NS"
+        },
+        {
+            "Security Name": "Tide Water Oil Company (India) Limited",
+            "Yahoo Code": "TIDEWATER.NS"
+        },
+        {
+            "Security Name": "Technocraft Industries (India) Limited",
+            "Yahoo Code": "TIIL.NS"
+        },
+        {
+            "Security Name": "Tijaria Polypipes Limited",
+            "Yahoo Code": "TIJARIA.NS"
+        },
+        {
+            "Security Name": "TIL Limited",
+            "Yahoo Code": "TIL.NS"
+        },
+        {
+            "Security Name": "Timbor Home Limited",
+            "Yahoo Code": "TIMBOR.NS"
+        },
+        {
+            "Security Name": "Time Technoplast Limited",
+            "Yahoo Code": "TIMETECHN.NS"
+        },
+        {
+            "Security Name": "Timken India Limited",
+            "Yahoo Code": "TIMKEN.NS"
+        },
+        {
+            "Security Name": "The Tinplate Company of India Limited",
+            "Yahoo Code": "TINPLATE.NS"
+        },
+        {
+            "Security Name": "TIPS Industries Limited",
+            "Yahoo Code": "TIPSINDLT.NS"
+        },
+        {
+            "Security Name": "Tamilnadu PetroProducts Limited",
+            "Yahoo Code": "TNPETRO.NS"
+        },
+        {
+            "Security Name": "Tamil Nadu Newsprint & Papers Limited",
+            "Yahoo Code": "TNPL.NS"
+        },
+        {
+            "Security Name": "Todays Writing Instruments Limited",
+            "Yahoo Code": "TODAYS.NS"
+        },
+        {
+            "Security Name": "Tokyo Plast International Limited",
+            "Yahoo Code": "TOKYOPLAS.NS"
+        },
+        {
+            "Security Name": "Torrent Pharmaceuticals Limited",
+            "Yahoo Code": "TORNTPHAR.NS"
+        },
+        {
+            "Security Name": "Torrent Power Limited",
+            "Yahoo Code": "TORNTPOWE.NS"
+        },
+        {
+            "Security Name": "Tree House Education & Accessories Limited",
+            "Yahoo Code": "TREEHOUSE.NS"
+        },
+        {
+            "Security Name": "Trent Limited",
+            "Yahoo Code": "TRENT.NS"
+        },
+        {
+            "Security Name": "TRF Limited",
+            "Yahoo Code": "TRF.NS"
+        },
+        {
+            "Security Name": "Trident Limited",
+            "Yahoo Code": "TRIDENT.NS"
+        },
+        {
+            "Security Name": "Trigyn Technologies Limited",
+            "Yahoo Code": "TRIGYN.NS"
+        },
+        {
+            "Security Name": "Transformers And Rectifiers (India) Limited",
+            "Yahoo Code": "TRIL.NS"
+        },
+        {
+            "Security Name": "Triveni Turbine Limited",
+            "Yahoo Code": "TRITURBIN.NS"
+        },
+        {
+            "Security Name": "Triveni Engineering & Industries Limited",
+            "Yahoo Code": "TRIVENI.NS"
+        },
+        {
+            "Security Name": "TTK Healthcare Limited",
+            "Yahoo Code": "TTKHEALTH.NS"
+        },
+        {
+            "Security Name": "Tube Investments of India Limited",
+            "Yahoo Code": "TUBEINVES.NS"
+        },
+        {
+            "Security Name": "Tulsi Extrusions Limited",
+            "Yahoo Code": "TULSI.NS"
+        },
+        {
+            "Security Name": "Tulsyan Nec Limited",
+            "Yahoo Code": "TULSYAN.NS"
+        },
+        {
+            "Security Name": "TV18 Broadcast Limited",
+            "Yahoo Code": "TV18BRDCS.NS"
+        },
+        {
+            "Security Name": "TVS Electronics Limited",
+            "Yahoo Code": "TVSELECT.NS"
+        },
+        {
+            "Security Name": "TVS Srichakra Limited",
+            "Yahoo Code": "TVSSRICHA.NS"
+        },
+        {
+            "Security Name": "TV Today Network Limited",
+            "Yahoo Code": "TVTODAY.NS"
+        },
+        {
+            "Security Name": "Twilight Litaka Pharma Limited",
+            "Yahoo Code": "TWILITAKA.NS"
+        },
+        {
+            "Security Name": "Titagarh Wagons Limited",
+            "Yahoo Code": "TWL.NS"
+        },
+        {
+            "Security Name": "UB Engineering Limited",
+            "Yahoo Code": "UBENGG.NS"
+        },
+        {
+            "Security Name": "United Breweries (Holdings) Limited",
+            "Yahoo Code": "UBHOLDING.NS"
+        },
+        {
+            "Security Name": "United Breweries Limited",
+            "Yahoo Code": "UBL.NS"
+        },
+        {
+            "Security Name": "Ucal Fuel Systems Limited",
+            "Yahoo Code": "UCALFUEL.NS"
+        },
+        {
+            "Security Name": "UFLEX Limited",
+            "Yahoo Code": "UFLEX.NS"
+        },
+        {
+            "Security Name": "The Ugar Sugar Works Limited",
+            "Yahoo Code": "UGARSUGAR.NS"
+        },
+        {
+            "Security Name": "Unichem Laboratories Limited",
+            "Yahoo Code": "UNICHEMLA.NS"
+        },
+        {
+            "Security Name": "Uniphos Enterprises Limited",
+            "Yahoo Code": "UNIENTER.NS"
+        },
+        {
+            "Security Name": "United Bank of India",
+            "Yahoo Code": "UNITEDBNK.NS"
+        },
+        {
+            "Security Name": "Unity Infraprojects Limited",
+            "Yahoo Code": "UNITY.NS"
+        },
+        {
+            "Security Name": "Universal Cables Limited",
+            "Yahoo Code": "UNIVCABLE.NS"
+        },
+        {
+            "Security Name": "Usha Martin Limited",
+            "Yahoo Code": "USHAMART.NS"
+        },
+        {
+            "Security Name": "Usher Agro Limited",
+            "Yahoo Code": "USHERAGRO.NS"
+        },
+        {
+            "Security Name": "Uttam Galva Steels Limited",
+            "Yahoo Code": "UTTAMSTL.NS"
+        },
+        {
+            "Security Name": "Vadilal Industries Limited",
+            "Yahoo Code": "VADILALIN.NS"
+        },
+        {
+            "Security Name": "Vaibhav Gems Limited",
+            "Yahoo Code": "VAIBHAVGE.NS"
+        },
+        {
+            "Security Name": "Vakrangee Softwares Limited",
+            "Yahoo Code": "VAKRANSOF.NS"
+        },
+        {
+            "Security Name": "Valecha Engineering Limited",
+            "Yahoo Code": "VALECHAEN.NS"
+        },
+        {
+            "Security Name": "Value Industries Limited",
+            "Yahoo Code": "VALUEIND.NS"
+        },
+        {
+            "Security Name": "Vardhman Acrylics Limited",
+            "Yahoo Code": "VARDHACRL.NS"
+        },
+        {
+            "Security Name": "Varun Shipping Company Limited",
+            "Yahoo Code": "VARUNSHIP.NS"
+        },
+        {
+            "Security Name": "Vascon Engineers Limited",
+            "Yahoo Code": "VASCONEQ.NS"
+        },
+        {
+            "Security Name": "Vaswani Industries Limited",
+            "Yahoo Code": "VASWANI.NS"
+        },
+        {
+            "Security Name": "Venky's (India) Limited",
+            "Yahoo Code": "VENKEYS.NS"
+        },
+        {
+            "Security Name": "Venus Remedies Limited",
+            "Yahoo Code": "VENUSREM.NS"
+        },
+        {
+            "Security Name": "Vesuvius India Limited",
+            "Yahoo Code": "VESUVIUS.NS"
+        },
+        {
+            "Security Name": "V-Guard Industries Limited",
+            "Yahoo Code": "VGUARD.NS"
+        },
+        {
+            "Security Name": "Vardhman Holdings Limited",
+            "Yahoo Code": "VHL.NS"
+        },
+        {
+            "Security Name": "Vikas GlobalOne Limited",
+            "Yahoo Code": "VIKASGLOB.NS"
+        },
+        {
+            "Security Name": "Vinati Organics Limited",
+            "Yahoo Code": "VINATIORG.NS"
+        },
+        {
+            "Security Name": "Vindhya Telelinks Limited",
+            "Yahoo Code": "VINDHYATE.NS"
+        },
+        {
+            "Security Name": "Vipul Limited",
+            "Yahoo Code": "VIPUL.NS"
+        },
+        {
+            "Security Name": "Visaka Industries Limited",
+            "Yahoo Code": "VISAKAIND.NS"
+        },
+        {
+            "Security Name": "Visa Steel Limited",
+            "Yahoo Code": "VISASTEEL.NS"
+        },
+        {
+            "Security Name": "Visesh Infotecnics Limited",
+            "Yahoo Code": "VISESHINF.NS"
+        },
+        {
+            "Security Name": "Visu International Limited",
+            "Yahoo Code": "VISUINTL.NS"
+        },
+        {
+            "Security Name": "Vivimed Labs Limited",
+            "Yahoo Code": "VIVIMEDLA.NS"
+        },
+        {
+            "Security Name": "Voltamp Transformers Limited",
+            "Yahoo Code": "VOLTAMP.NS"
+        },
+        {
+            "Security Name": "Vardhman Special Steels Limited",
+            "Yahoo Code": "VSSL.NS"
+        },
+        {
+            "Security Name": "VST Industries Limited",
+            "Yahoo Code": "VSTIND.NS"
+        },
+        {
+            "Security Name": "V.S.T Tillers Tractors Limited",
+            "Yahoo Code": "VSTTILLER.NS"
+        },
+        {
+            "Security Name": "Vardhman Textiles Limited",
+            "Yahoo Code": "VTL.NS"
+        },
+        {
+            "Security Name": "VTX Industries Limited",
+            "Yahoo Code": "VTXIND.NS"
+        },
+        {
+            "Security Name": "VA Tech Wabag Limited",
+            "Yahoo Code": "WABAG.NS"
+        },
+        {
+            "Security Name": "WABCO India Limited",
+            "Yahoo Code": "WABCOINDI.NS"
+        },
+        {
+            "Security Name": "Wendt (India) Limited",
+            "Yahoo Code": "WENDT.NS"
+        },
+        {
+            "Security Name": "Wheels India Limited",
+            "Yahoo Code": "WHEELS.NS"
+        },
+        {
+            "Security Name": "Whirlpool of India Limited",
+            "Yahoo Code": "WHIRLPOOL.NS"
+        },
+        {
+            "Security Name": "Williamson Magor & Company Limited",
+            "Yahoo Code": "WILLAMAGO.NS"
+        },
+        {
+            "Security Name": "Wockhardt Limited",
+            "Yahoo Code": "WOCKPHARM.NS"
+        },
+        {
+            "Security Name": "West Coast Paper Mills Limited",
+            "Yahoo Code": "WSTCSTPAP.NS"
+        },
+        {
+            "Security Name": "Wyeth Limited",
+            "Yahoo Code": "WYETH.NS"
+        },
+        {
+            "Security Name": "Xchanging Solutions Limited",
+            "Yahoo Code": "XCHANGING.NS"
+        },
+        {
+            "Security Name": "XL Energy Limited",
+            "Yahoo Code": "XLENERGY.NS"
+        },
+        {
+            "Security Name": "Xpro India Limited",
+            "Yahoo Code": "XPROINDIA.NS"
+        },
+        {
+            "Security Name": "Zandu Realty Limited",
+            "Yahoo Code": "ZANDUREAL.NS"
+        },
+        {
+            "Security Name": "Zenith Birla (India) Limited",
+            "Yahoo Code": "ZENITHBIR.NS"
+        },
+        {
+            "Security Name": "Zenith Infotech Limited",
+            "Yahoo Code": "ZENITHINF.NS"
+        },
+        {
+            "Security Name": "Zensar Technologies Limited",
+            "Yahoo Code": "ZENSARTEC.NS"
+        },
+        {
+            "Security Name": "Zicom Electronic Security Systems Limited",
+            "Yahoo Code": "ZICOM.NS"
+        },
+        {
+            "Security Name": "Zodiac Clothing Company Limited",
+            "Yahoo Code": "ZODIACLOT.NS"
+        },
+        {
+            "Security Name": "Zuari Industries Limited",
+            "Yahoo Code": "ZUARIAGRO.NS"
+        },
+        {
+            "Security Name": "Zydus Wellness Limited",
+            "Yahoo Code": "ZYDUSWELL.NS"
+        },
+        {
+            "Security Name": "Zylog Systems Limited",
+            "Yahoo Code": "ZYLOG.NS"
+        },
+        {
+            "Security Name": "Aban Offshore Limited",
+            "Yahoo Code": "ABAN.NS"
+        },
+        {
+            "Security Name": "ABB Limited",
+            "Yahoo Code": "ABB.NS"
+        },
+        {
+            "Security Name": "Aditya Birla Nuvo Limited",
+            "Yahoo Code": "ABIRLANUV.NS"
+        },
+        {
+            "Security Name": "ACC Limited",
+            "Yahoo Code": "ACC.NS"
+        },
+        {
+            "Security Name": "Adani Enterprises Limited",
+            "Yahoo Code": "ADANIENT.NS"
+        },
+        {
+            "Security Name": "Adani Ports and Special Economic Zone Limited",
+            "Yahoo Code": "ADANIPORT.NS"
+        },
+        {
+            "Security Name": "Adani Power Limited",
+            "Yahoo Code": "ADANIPOWE.NS"
+        },
+        {
+            "Security Name": "Alstom India Limited ",
+            "Yahoo Code": "AIL.NS"
+        },
+        {
+            "Security Name": "Allahabad Bank",
+            "Yahoo Code": "ALBK.NS"
+        },
+        {
+            "Security Name": "Alok Industries Limited",
+            "Yahoo Code": "ALOKTEXT.NS"
+        },
+        {
+            "Security Name": "Ambuja Cements Limited",
+            "Yahoo Code": "AMBUJACEM.NS"
+        },
+        {
+            "Security Name": "Andhra Bank",
+            "Yahoo Code": "ANDHRABAN.NS"
+        },
+        {
+            "Security Name": "Apollo Tyres Limited",
+            "Yahoo Code": "APOLLOTYR.NS"
+        },
+        {
+            "Security Name": "Arvind Limited",
+            "Yahoo Code": "ARVIND.NS"
+        },
+        {
+            "Security Name": "Ashok Leyland Limited",
+            "Yahoo Code": "ASHOKLEY.NS"
+        },
+        {
+            "Security Name": "Asian Paints Limited",
+            "Yahoo Code": "ASIANPAIN.NS"
+        },
+        {
+            "Security Name": "Aurobindo Pharma Limited",
+            "Yahoo Code": "AUROPHARM.NS"
+        },
+        {
+            "Security Name": "Axis Bank Limited",
+            "Yahoo Code": "AXISBANK.NS"
+        },
+        {
+            "Security Name": "Bajaj Auto Limited",
+            "Yahoo Code": "BAJAJ-AUT.NS"
+        },
+        {
+            "Security Name": "Bajaj Hindusthan Limited",
+            "Yahoo Code": "BAJAJHIND.NS"
+        },
+        {
+            "Security Name": "Bajaj Holdings & Investment Limited",
+            "Yahoo Code": "BAJAJHLDN.NS"
+        },
+        {
+            "Security Name": "Balrampur Chini Mills Limited",
+            "Yahoo Code": "BALRAMCHI.NS"
+        },
+        {
+            "Security Name": "Bank of Baroda",
+            "Yahoo Code": "BANKBAROD.NS"
+        },
+        {
+            "Security Name": "Bank of India",
+            "Yahoo Code": "BANKINDIA.NS"
+        },
+        {
+            "Security Name": "Bata India Limited",
+            "Yahoo Code": "BATAINDIA.NS"
+        },
+        {
+            "Security Name": "Bharat Electronics Limited",
+            "Yahoo Code": "BEL.NS"
+        },
+        {
+            "Security Name": "BEML Limited",
+            "Yahoo Code": "BEML.NS"
+        },
+        {
+            "Security Name": "BF Utilities Limited",
+            "Yahoo Code": "BFUTILITI.NS"
+        },
+        {
+            "Security Name": "BGR Energy Systems Limited",
+            "Yahoo Code": "BGRENERGY.NS"
+        },
+        {
+            "Security Name": "Bharat Forge Limited",
+            "Yahoo Code": "BHARATFOR.NS"
+        },
+        {
+            "Security Name": "Bharti Airtel Limited",
+            "Yahoo Code": "BHARTIART.NS"
+        },
+        {
+            "Security Name": "Bharat Heavy Electricals Limited",
+            "Yahoo Code": "BHEL.NS"
+        },
+        {
+            "Security Name": "Bhushan Steel Limited",
+            "Yahoo Code": "BHUSANSTL.NS"
+        },
+        {
+            "Security Name": "Biocon Limited",
+            "Yahoo Code": "BIOCON.NS"
+        },
+        {
+            "Security Name": "Bombay Dyeing & Mfg Company Limited",
+            "Yahoo Code": "BOMDYEING.NS"
+        },
+        {
+            "Security Name": "Bosch Limited",
+            "Yahoo Code": "BOSCHLTD.NS"
+        },
+        {
+            "Security Name": "Bharat Petroleum Corporation Limited",
+            "Yahoo Code": "BPCL.NS"
+        },
+        {
+            "Security Name": "Cairn India Limited",
+            "Yahoo Code": "CAIRN.NS"
+        },
+        {
+            "Security Name": "Canara Bank",
+            "Yahoo Code": "CANBK.NS"
+        },
+        {
+            "Security Name": "Central Bank of India",
+            "Yahoo Code": "CENTRALBK.NS"
+        },
+        {
+            "Security Name": "Century Textiles & Industries Limited",
+            "Yahoo Code": "CENTURYTE.NS"
+        },
+        {
+            "Security Name": "CESC Limited",
+            "Yahoo Code": "CESC.NS"
+        },
+        {
+            "Security Name": "Chambal Fertilizers & Chemicals Limited",
+            "Yahoo Code": "CHAMBLFER.NS"
+        },
+        {
+            "Security Name": "Cipla Limited",
+            "Yahoo Code": "CIPLA.NS"
+        },
+        {
+            "Security Name": "CMC Limited",
+            "Yahoo Code": "CMC.NS"
+        },
+        {
+            "Security Name": "Coal India Limited",
+            "Yahoo Code": "COALINDIA.NS"
+        },
+        {
+            "Security Name": "Colgate Palmolive (India) Limited",
+            "Yahoo Code": "COLPAL.NS"
+        },
+        {
+            "Security Name": "CORE Education & Technologies Limited",
+            "Yahoo Code": "COREEDUTE.NS"
+        },
+        {
+            "Security Name": "Crompton Greaves Limited",
+            "Yahoo Code": "CROMPGREA.NS"
+        },
+        {
+            "Security Name": "Cummins India Limited",
+            "Yahoo Code": "CUMMINSIN.NS"
+        },
+        {
+            "Security Name": "Dabur India Limited",
+            "Yahoo Code": "DABUR.NS"
+        },
+        {
+            "Security Name": "Development Credit Bank Limited",
+            "Yahoo Code": "DCB.NS"
+        },
+        {
+            "Security Name": "Delta Corp Limited",
+            "Yahoo Code": "DELTACORP.NS"
+        },
+        {
+            "Security Name": "Dena Bank",
+            "Yahoo Code": "DENABANK.NS"
+        },
+        {
+            "Security Name": "Dish TV India Limited",
+            "Yahoo Code": "DISHTV.NS"
+        },
+        {
+            "Security Name": "Divi's Laboratories Limited",
+            "Yahoo Code": "DIVISLAB.NS"
+        },
+        {
+            "Security Name": "DLF Limited",
+            "Yahoo Code": "DLF.NS"
+        },
+        {
+            "Security Name": "Dr. Reddy's Laboratories Limited",
+            "Yahoo Code": "DRREDDY.NS"
+        },
+        {
+            "Security Name": "eClerx Services Limited",
+            "Yahoo Code": "ECLERX.NS"
+        },
+        {
+            "Security Name": "Educomp Solutions Limited",
+            "Yahoo Code": "EDUCOMP.NS"
+        },
+        {
+            "Security Name": "Escorts Limited",
+            "Yahoo Code": "ESCORTS.NS"
+        },
+        {
+            "Security Name": "Essar Oil Limited",
+            "Yahoo Code": "ESSAROIL.NS"
+        },
+        {
+            "Security Name": "Exide Industries Limited",
+            "Yahoo Code": "EXIDEIND.NS"
+        },
+        {
+            "Security Name": "The Federal Bank Limited",
+            "Yahoo Code": "FEDERALBN.NS"
+        },
+        {
+            "Security Name": "Financial Technologies (India) Limited",
+            "Yahoo Code": "FINANTECH.NS"
+        },
+        {
+            "Security Name": "Fortis Healthcare (India) Limited",
+            "Yahoo Code": "FORTIS.NS"
+        },
+        {
+            "Security Name": "GAIL (India) Limited",
+            "Yahoo Code": "GAIL.NS"
+        },
+        {
+            "Security Name": "The Great Eastern Shipping Company Limited",
+            "Yahoo Code": "GESHIP.NS"
+        },
+        {
+            "Security Name": "GlaxoSmithKline Pharmaceuticals Limited",
+            "Yahoo Code": "GLAXO.NS"
+        },
+        {
+            "Security Name": "Gujarat Mineral Development Corporation Limited",
+            "Yahoo Code": "GMDCLTD.NS"
+        },
+        {
+            "Security Name": "GMR Infrastructure Limited",
+            "Yahoo Code": "GMRINFRA.NS"
+        },
+        {
+            "Security Name": "Godrej Industries Limited",
+            "Yahoo Code": "GODREJIND.NS"
+        },
+        {
+            "Security Name": "Grasim Industries Limited",
+            "Yahoo Code": "GRASIM.NS"
+        },
+        {
+            "Security Name": "Gujarat State Petronet Limited",
+            "Yahoo Code": "GSPL.NS"
+        },
+        {
+            "Security Name": "Gujarat Fluorochemicals Limited",
+            "Yahoo Code": "GUJFLUORO.NS"
+        },
+        {
+            "Security Name": "GVK Power & Infrastructure Limited",
+            "Yahoo Code": "GVKPIL.NS"
+        },
+        {
+            "Security Name": "Havells India Limited",
+            "Yahoo Code": "HAVELLS.NS"
+        },
+        {
+            "Security Name": "Hindustan Construction Company Limited",
+            "Yahoo Code": "HCC.NS"
+        },
+        {
+            "Security Name": "HCL Infosystems Limited",
+            "Yahoo Code": "HCL-INSYS.NS"
+        },
+        {
+            "Security Name": "HCL Technologies Limited",
+            "Yahoo Code": "HCLTECH.NS"
+        },
+        {
+            "Security Name": "Housing Development Finance Corporation Limited",
+            "Yahoo Code": "HDFC.NS"
+        },
+        {
+            "Security Name": "HDFC Bank Limited",
+            "Yahoo Code": "HDFCBANK.NS"
+        },
+        {
+            "Security Name": "Housing Development and Infrastructure Limited",
+            "Yahoo Code": "HDIL.NS"
+        },
+        {
+            "Security Name": "Hero MotoCorp Limited",
+            "Yahoo Code": "HEROMOTOC.NS"
+        },
+        {
+            "Security Name": "Hexaware Technologies Limited",
+            "Yahoo Code": "HEXAWARE.NS"
+        },
+        {
+            "Security Name": "Hindalco Industries Limited",
+            "Yahoo Code": "HINDALCO.NS"
+        },
+        {
+            "Security Name": "Hindustan Oil Exploration Company Limited",
+            "Yahoo Code": "HINDOILEX.NS"
+        },
+        {
+            "Security Name": "Hindustan Petroleum Corporation Limited",
+            "Yahoo Code": "HINDPETRO.NS"
+        },
+        {
+            "Security Name": "Hindustan Unilever Limited",
+            "Yahoo Code": "HINDUNILV.NS"
+        },
+        {
+            "Security Name": "Hindustan Zinc Limited",
+            "Yahoo Code": "HINDZINC.NS"
+        },
+        {
+            "Security Name": "Indiabulls Real Estate Limited",
+            "Yahoo Code": "IBREALEST.NS"
+        },
+        {
+            "Security Name": "ICICI Bank Limited",
+            "Yahoo Code": "ICICIBANK.NS"
+        },
+        {
+            "Security Name": "IDBI Bank Limited",
+            "Yahoo Code": "IDBI.NS"
+        },
+        {
+            "Security Name": "Idea Cellular Limited",
+            "Yahoo Code": "IDEA.NS"
+        },
+        {
+            "Security Name": "Infrastructure Development Finance Company Limited",
+            "Yahoo Code": "IDFC.NS"
+        },
+        {
+            "Security Name": "IFCI Limited",
+            "Yahoo Code": "IFCI.NS"
+        },
+        {
+            "Security Name": "Indraprastha Gas Limited",
+            "Yahoo Code": "IGL.NS"
+        },
+        {
+            "Security Name": "The Indian Hotels Company Limited",
+            "Yahoo Code": "INDHOTEL.NS"
+        },
+        {
+            "Security Name": "The India Cements Limited",
+            "Yahoo Code": "INDIACEM.NS"
+        },
+        {
+            "Security Name": "India Infoline Limited",
+            "Yahoo Code": "INDIAINFO.NS"
+        },
+        {
+            "Security Name": "Indian Bank",
+            "Yahoo Code": "INDIANB.NS"
+        },
+        {
+            "Security Name": "IndusInd Bank Limited",
+            "Yahoo Code": "INDUSINDB.NS"
+        },
+        {
+            "Security Name": "Infosys Limited",
+            "Yahoo Code": "INFY.NS"
+        },
+        {
+            "Security Name": "Indian Overseas Bank",
+            "Yahoo Code": "IOB.NS"
+        },
+        {
+            "Security Name": "Indian Oil Corporation Limited",
+            "Yahoo Code": "IOC.NS"
+        },
+        {
+            "Security Name": "IRB Infrastructure Developers Limited",
+            "Yahoo Code": "IRB.NS"
+        },
+        {
+            "Security Name": "ITC Limited",
+            "Yahoo Code": "ITC.NS"
+        },
+        {
+            "Security Name": "IVRCL Limited",
+            "Yahoo Code": "IVRCLINFR.NS"
+        },
+        {
+            "Security Name": "Jet Airways (India) Limited",
+            "Yahoo Code": "JETAIRWAY.NS"
+        },
+        {
+            "Security Name": "Jindal Saw Limited",
+            "Yahoo Code": "JINDALSAW.NS"
+        },
+        {
+            "Security Name": "Jindal Steel & Power Limited",
+            "Yahoo Code": "JINDALSTE.NS"
+        },
+        {
+            "Security Name": "Jain Irrigation Systems Limited",
+            "Yahoo Code": "JISLJALEQ.NS"
+        },
+        {
+            "Security Name": "Jaiprakash Associates Limited",
+            "Yahoo Code": "JPASSOCIA.NS"
+        },
+        {
+            "Security Name": "Jaiprakash Power Ventures Limited",
+            "Yahoo Code": "JPPOWER.NS"
+        },
+        {
+            "Security Name": "JSW Energy Limited",
+            "Yahoo Code": "JSWENERGY.NS"
+        },
+        {
+            "Security Name": "JSW ISPAT Steel Limited",
+            "Yahoo Code": "JSWISPAT.NS"
+        },
+        {
+            "Security Name": "JSW Steel Limited",
+            "Yahoo Code": "JSWSTEEL.NS"
+        },
+        {
+            "Security Name": "Jubilant Foodworks Limited",
+            "Yahoo Code": "JUBLFOOD.NS"
+        },
+        {
+            "Security Name": "Kotak Mahindra Bank Limited",
+            "Yahoo Code": "KOTAKBANK.NS"
+        },
+        {
+            "Security Name": "The Karnataka Bank Limited",
+            "Yahoo Code": "KTKBANK.NS"
+        },
+        {
+            "Security Name": "LIC Housing Finance Limited",
+            "Yahoo Code": "LICHSGFIN.NS"
+        },
+        {
+            "Security Name": "Lanco Infratech Limited",
+            "Yahoo Code": "LITL.NS"
+        },
+        {
+            "Security Name": "Larsen & Toubro Limited",
+            "Yahoo Code": "LT.NS"
+        },
+        {
+            "Security Name": "Lupin Limited",
+            "Yahoo Code": "LUPIN.NS"
+        },
+        {
+            "Security Name": "Mahindra & Mahindra Limited",
+            "Yahoo Code": "M&M.NS"
+        },
+        {
+            "Security Name": "Maruti Suzuki India Limited",
+            "Yahoo Code": "MARUTI.NS"
+        },
+        {
+            "Security Name": "Max India Limited",
+            "Yahoo Code": "MAX.NS"
+        },
+        {
+            "Security Name": "United Spirits Limited",
+            "Yahoo Code": "MCDOWELL-.NS"
+        },
+        {
+            "Security Name": "Mcleod Russel India Limited",
+            "Yahoo Code": "MCLEODRUS.NS"
+        },
+        {
+            "Security Name": "MindTree Limited",
+            "Yahoo Code": "MINDTREE.NS"
+        },
+        {
+            "Security Name": "MphasiS Limited",
+            "Yahoo Code": "MPHASIS.NS"
+        },
+        {
+            "Security Name": "MRF Limited",
+            "Yahoo Code": "MRF.NS"
+        },
+        {
+            "Security Name": "Mangalore Refinery and Petrochemicals Limited",
+            "Yahoo Code": "MRPL.NS"
+        },
+        {
+            "Security Name": "Mahanagar Telephone Nigam Limited",
+            "Yahoo Code": "MTNL.NS"
+        },
+        {
+            "Security Name": "Nagarjuna Oil Refinery Limited",
+            "Yahoo Code": "NAGAROIL.NS"
+        },
+        {
+            "Security Name": "Info Edge (India) Limited",
+            "Yahoo Code": "NAUKRI.NS"
+        },
+        {
+            "Security Name": "NCC Limited",
+            "Yahoo Code": "NCC.NS"
+        },
+        {
+            "Security Name": "NHPC Limited",
+            "Yahoo Code": "NHPC.NS"
+        },
+        {
+            "Security Name": "NMDC Limited",
+            "Yahoo Code": "NMDC.NS"
+        },
+        {
+            "Security Name": "NTPC Limited",
+            "Yahoo Code": "NTPC.NS"
+        },
+        {
+            "Security Name": "Oracle Financial Services Software Limited",
+            "Yahoo Code": "OFSS.NS"
+        },
+        {
+            "Security Name": "Oil India Limited",
+            "Yahoo Code": "OIL.NS"
+        },
+        {
+            "Security Name": "Oil & Natural Gas Corporation Limited",
+            "Yahoo Code": "ONGC.NS"
+        },
+        {
+            "Security Name": "OnMobile Global Limited",
+            "Yahoo Code": "ONMOBILE.NS"
+        },
+        {
+            "Security Name": "Opto Circuits (India) Limited",
+            "Yahoo Code": "OPTOCIRCU.NS"
+        },
+        {
+            "Security Name": "Orchid Chemicals & Pharmaceuticals Limited",
+            "Yahoo Code": "ORCHIDCHE.NS"
+        },
+        {
+            "Security Name": "Oriental Bank of Commerce",
+            "Yahoo Code": "ORIENTBAN.NS"
+        },
+        {
+            "Security Name": "Pantaloon Retail (India) Limited",
+            "Yahoo Code": "PANTALOON.NS"
+        },
+        {
+            "Security Name": "Patel Engineering Limited",
+            "Yahoo Code": "PATELENG.NS"
+        },
+        {
+            "Security Name": "Petronet LNG Limited",
+            "Yahoo Code": "PETRONET.NS"
+        },
+        {
+            "Security Name": "Power Finance Corporation Limited",
+            "Yahoo Code": "PFC.NS"
+        },
+        {
+            "Security Name": "Piramal Healthcare Limited",
+            "Yahoo Code": "PIRHEALTH.NS"
+        },
+        {
+            "Security Name": "Punjab National Bank",
+            "Yahoo Code": "PNB.NS"
+        },
+        {
+            "Security Name": "Polaris Financial Technology Limited",
+            "Yahoo Code": "POLARIS.NS"
+        },
+        {
+            "Security Name": "Power Grid Corporation of India Limited",
+            "Yahoo Code": "POWERGRID.NS"
+        },
+        {
+            "Security Name": "Praj Industries Limited",
+            "Yahoo Code": "PRAJIND.NS"
+        },
+        {
+            "Security Name": "PTC India Limited",
+            "Yahoo Code": "PTC.NS"
+        },
+        {
+            "Security Name": "Punj Lloyd Limited",
+            "Yahoo Code": "PUNJLLOYD.NS"
+        },
+        {
+            "Security Name": "Ranbaxy Laboratories Limited",
+            "Yahoo Code": "RANBAXY.NS"
+        },
+        {
+            "Security Name": "Raymond Limited",
+            "Yahoo Code": "RAYMOND.NS"
+        },
+        {
+            "Security Name": "Reliance Communications Limited",
+            "Yahoo Code": "RCOM.NS"
+        },
+        {
+            "Security Name": "Rural Electrification Corporation Limited",
+            "Yahoo Code": "RECLTD.NS"
+        },
+        {
+            "Security Name": "Reliance Capital Limited",
+            "Yahoo Code": "RELCAPITA.NS"
+        },
+        {
+            "Security Name": "Reliance Industries Limited",
+            "Yahoo Code": "RELIANCE.NS"
+        },
+        {
+            "Security Name": "Reliance Infrastructure Limited",
+            "Yahoo Code": "RELINFRA.NS"
+        },
+        {
+            "Security Name": "Shree Renuka Sugars Limited",
+            "Yahoo Code": "RENUKA.NS"
+        },
+        {
+            "Security Name": "Rolta India Limited",
+            "Yahoo Code": "ROLTA.NS"
+        },
+        {
+            "Security Name": "Reliance Power Limited",
+            "Yahoo Code": "RPOWER.NS"
+        },
+        {
+            "Security Name": "Ruchi Soya Industries Limited",
+            "Yahoo Code": "RUCHISOYA.NS"
+        },
+        {
+            "Security Name": "Steel Authority of India Limited",
+            "Yahoo Code": "SAIL.NS"
+        },
+        {
+            "Security Name": "State Bank of India",
+            "Yahoo Code": "SBIN.NS"
+        },
+        {
+            "Security Name": "Shipping Corporation Of India Limited",
+            "Yahoo Code": "SCI.NS"
+        },
+        {
+            "Security Name": "Sesa Goa Limited",
+            "Yahoo Code": "SESAGOA.NS"
+        },
+        {
+            "Security Name": "Siemens Limited",
+            "Yahoo Code": "SIEMENS.NS"
+        },
+        {
+            "Security Name": "Sintex Industries Limited",
+            "Yahoo Code": "SINTEX.NS"
+        },
+        {
+            "Security Name": "S. Kumars Nationwide Limited",
+            "Yahoo Code": "SKUMARSYN.NS"
+        },
+        {
+            "Security Name": "Sobha Developers Limited",
+            "Yahoo Code": "SOBHA.NS"
+        },
+        {
+            "Security Name": "The South Indian Bank Limited",
+            "Yahoo Code": "SOUTHBANK.NS"
+        },
+        {
+            "Security Name": "SREI Infrastructure Finance Limited",
+            "Yahoo Code": "SREINFRA.NS"
+        },
+        {
+            "Security Name": "Shriram Transport Finance Company Limited",
+            "Yahoo Code": "SRTRANSFI.NS"
+        },
+        {
+            "Security Name": "Sterlite Industries ( India ) Limited",
+            "Yahoo Code": "STER.NS"
+        },
+        {
+            "Security Name": "Sterlite Technologies Limited",
+            "Yahoo Code": "STRTECH.NS"
+        },
+        {
+            "Security Name": "Sun Pharmaceuticals Industries Limited",
+            "Yahoo Code": "SUNPHARMA.NS"
+        },
+        {
+            "Security Name": "Sun TV Network Limited",
+            "Yahoo Code": "SUNTV.NS"
+        },
+        {
+            "Security Name": "Suzlon Energy Limited",
+            "Yahoo Code": "SUZLON.NS"
+        },
+        {
+            "Security Name": "Syndicate Bank",
+            "Yahoo Code": "SYNDIBANK.NS"
+        },
+        {
+            "Security Name": "Tata Chemicals Limited",
+            "Yahoo Code": "TATACHEM.NS"
+        },
+        {
+            "Security Name": "Tata Coffee Limited",
+            "Yahoo Code": "TATACOFFE.NS"
+        },
+        {
+            "Security Name": "Tata Communications Limited",
+            "Yahoo Code": "TATACOMM.NS"
+        },
+        {
+            "Security Name": "Tata Global Beverages Limited",
+            "Yahoo Code": "TATAGLOBA.NS"
+        },
+        {
+            "Security Name": "Tata Motors Limited",
+            "Yahoo Code": "TATAMOTOR.NS"
+        },
+        {
+            "Security Name": "Tata Motors Limited",
+            "Yahoo Code": "TATAMTRDV.NS"
+        },
+        {
+            "Security Name": "Tata Power Company Limited",
+            "Yahoo Code": "TATAPOWER.NS"
+        },
+        {
+            "Security Name": "Tata Steel Limited",
+            "Yahoo Code": "TATASTEEL.NS"
+        },
+        {
+            "Security Name": "Tata Consultancy Services Limited",
+            "Yahoo Code": "TCS.NS"
+        },
+        {
+            "Security Name": "Tech Mahindra Limited",
+            "Yahoo Code": "TECHM.NS"
+        },
+        {
+            "Security Name": "Titan Industries Limited",
+            "Yahoo Code": "TITAN.NS"
+        },
+        {
+            "Security Name": "TTK Prestige Limited",
+            "Yahoo Code": "TTKPRESTI.NS"
+        },
+        {
+            "Security Name": "Tata Teleservices (Maharashtra) Limited",
+            "Yahoo Code": "TTML.NS"
+        },
+        {
+            "Security Name": "Tulip Telecom Limited",
+            "Yahoo Code": "TULIP.NS"
+        },
+        {
+            "Security Name": "TVS Motor Company Limited",
+            "Yahoo Code": "TVSMOTOR.NS"
+        },
+        {
+            "Security Name": "UCO Bank",
+            "Yahoo Code": "UCOBANK.NS"
+        },
+        {
+            "Security Name": "UltraTech Cement Limited",
+            "Yahoo Code": "ULTRACEMC.NS"
+        },
+        {
+            "Security Name": "Union Bank of India",
+            "Yahoo Code": "UNIONBANK.NS"
+        },
+        {
+            "Security Name": "United Phosphorus Limited",
+            "Yahoo Code": "UNIPHOS.NS"
+        },
+        {
+            "Security Name": "Unitech Limited",
+            "Yahoo Code": "UNITECH.NS"
+        },
+        {
+            "Security Name": "Videocon Industries Limited",
+            "Yahoo Code": "VIDEOIND.NS"
+        },
+        {
+            "Security Name": "Vijaya Bank",
+            "Yahoo Code": "VIJAYABAN.NS"
+        },
+        {
+            "Security Name": "VIP Industries Limited",
+            "Yahoo Code": "VIPIND.NS"
+        },
+        {
+            "Security Name": "Voltas Limited",
+            "Yahoo Code": "VOLTAS.NS"
+        },
+        {
+            "Security Name": "Welspun Corp Limited",
+            "Yahoo Code": "WELCORP.NS"
+        },
+        {
+            "Security Name": "Wipro Limited",
+            "Yahoo Code": "WIPRO.NS"
+        },
+        {
+            "Security Name": "Yes Bank Limited",
+            "Yahoo Code": "YESBANK.NS"
+        },
+        {
+            "Security Name": "Zee Entertainment Enterprises Limited",
+            "Yahoo Code": "ZEEL.NS"
+        }
+    ]
+}

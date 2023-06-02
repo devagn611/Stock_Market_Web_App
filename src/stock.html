@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Stock Market Data</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="stock.css" />
+    <script src="https://s3.tradingview.com/tv.js"></script>
+    <!-- Add TradingView script -->
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li><a href="dashboard.html">Dashboard</a></li>
+        <li><a href="portfolio.html">Portfolio</a></li>
+        <li><a href="#">About</a></li>
+      </ul>
+    </nav>
+
+    <h1>Stock Market Data</h1>
+    <input
+      type="text"
+      id="securityInput"
+      placeholder="Enter Security Name"
+      required
+    />
+    <div id="searchResults"></div>
+
+    <form id="stockForm">
+      <input
+        type="text"
+        id="symbolInput"
+        placeholder="Enter Stock Symbol"
+        required
+      />
+      <button id="showStock" type="submit">Fetch Data</button>
+    </form>
+
+    <h1>Watchlist</h1>
+    <div id="stockCardsContainer"></div>
+
+    <button id="addButton" style="display: none">Add Symbol</button>
+    <button id="shareButton">Share Watchlist</button>
+
+    <div id="loader" class="loader" style="display: none"></div>
+
+    <script src="stock.js"></script>
+  </body>
+</html>
